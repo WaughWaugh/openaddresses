@@ -20,7 +20,7 @@
     "pelias-dbclient": "^2.5.6",
     "pelias-logger": "^1.2.1",
     "pelias-model": "^5.5.2",
-    "pelias-wof-admin-lookup": "^5.0.0",
+    "pelias-wof-admin-lookup": "file:../wof-admin-lookup",
     "through2": "^3.0.0",
     "through2-filter": "^3.0.0",
     "through2-map": "^3.0.0",
@@ -64,11 +64,6 @@
     "url": "https://github.com/pelias/openaddresses/issues"
   },
   "homepage": "https://github.com/pelias/openaddresses",
-  "pre-commit": [
-    "lint",
-    "validate",
-    "test"
-  ],
   "release": {
     "branch": "master",
     "success": []
