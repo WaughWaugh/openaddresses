@@ -1,0 +1,2405 @@
+Name,FQRegion,FQN,WOFId,CountryCode,HasRegion,Region,HasCity,City
+ae/du/dubai-ar,,"Dubai, ae",85667983,ae,0,,1,Dubai
+ae/du/dubai-en,,"Dubai, ae",85667983,ae,0,,1,Dubai
+ar/c/city_of_buenos_aires,,"buenos aires, ar",85668015,ar,0,,1,buenos aires
+ar/m/mendoza,,"Mendoza, ar",85668007,ar,0,,1,Mendoza
+at/31254,,,,at,0,,0,
+at/31255,,,,at,0,,0,
+at/31256,,,,at,0,,0,
+at/city_of_vienna,,"Vienna, at",85681667,at,0,,1,Vienna
+at/tirol,"tirol, at","tirol, at",85681661,at,1,tirol,0,
+au/act/statewide,"act, au","act, au",85681493,au,1,act,0,
+au/countrywide,,,,au,0,,0,
+au/nsw/statewide,"nsw, au","nsw, au",85681545,au,1,nsw,0,
+au/qld/brisbane_city_council,"qld, au","brisbane city council, qld, au",101934019,au,1,qld,1,brisbane city council
+au/qld/city_of_gold_coast,"qld, au","gold coast, qld, au",1125859661,au,1,qld,1,gold coast
+au/qld/logan_city,"qld, au","logan city, qld, au",1125894307,au,1,qld,1,logan city
+au/qld/statewide,"qld, au","qld, au",85681463,au,1,qld,0,
+au/qld/sunshine_coast_council,"qld, au","sunshine coast council, qld, au",102049303,au,1,qld,1,sunshine coast council
+au/qld/townsville_city_council,"qld, au","townsville city council, qld, au",101935509,au,1,qld,1,townsville city council
+au/tas/launceston_city_council,"tas, au","launceston city council, tas, au",101938147,au,1,tas,1,launceston city council
+au/tas/statewide,"tas, au","tas, au",85681583,au,1,tas,0,
+au/vic/city_of_greater_geelong,"vic, au","greater geelong, vic, au",102049571,au,1,vic,1,greater geelong
+au/vic/city_of_melbourne,"vic, au","melbourne, vic, au",101933229,au,1,vic,1,melbourne
+au/vic/statewide,"vic, au","vic, au",85681497,au,1,vic,0,
+be/bru/brussels-fr,"bru, be","Brussels, bru, be",102049957,be,1,bru,1,Brussels
+be/bru/brussels-nl,"bru, be","Brussels, bru, be",102049957,be,1,bru,1,Brussels
+be/flanders,"flanders, be","flanders, be",85632997,be,1,flanders,0,
+be/wal/namur,"wal, be","Namur, wal, be",1125861569,be,1,wal,1,Namur
+bm/territory_wide,,,,bm,0,,0,
+br/ac/statewide,"ac, br","ac, br",85681873,br,1,ac,0,
+br/al/statewide,"al, br","al, br",85681879,br,1,al,0,
+br/am/statewide,"am, br","am, br",85681885,br,1,am,0,
+br/ap/statewide,"ap, br","ap, br",85681891,br,1,ap,0,
+br/ba/statewide,"ba, br","ba, br",85681895,br,1,ba,0,
+br/ce/statewide,"ce, br","ce, br",85681907,br,1,ce,0,
+br/df/statewide,"df, br","df, br",85681911,br,1,df,0,
+br/es/statewide,"es, br","es, br",85681921,br,1,es,0,
+br/es/vitoria,"es, br","Vitoria, es, br",101954595,br,1,es,1,Vitoria
+br/go/statewide,"go, br","go, br",85681925,br,1,go,0,
+br/ma/statewide,"ma, br","ma, br",85681931,br,1,ma,0,
+br/mg/statewide,"mg, br","mg, br",85681941,br,1,mg,0,
+br/ms/campo_grande,"ms, br","Campo Grande, ms, br",101961475,br,1,ms,1,Campo Grande
+br/ms/statewide,"ms, br","ms, br",85681947,br,1,ms,0,
+br/mt/statewide,"mt, br","mt, br",85681955,br,1,mt,0,
+br/pa/statewide,"pa, br","pa, br",85681959,br,1,pa,0,
+br/pb/statewide,"pb, br","pb, br",85681967,br,1,pb,0,
+br/pe/recife,"pe, br","Recife, pe, br",101948669,br,1,pe,1,Recife
+br/pe/statewide,"pe, br","pe, br",85681973,br,1,pe,0,
+br/pi/statewide,"pi, br","pi, br",85681977,br,1,pi,0,
+br/pr/statewide,"pr, br","pr, br",85681983,br,1,pr,0,
+br/rj/rio_de_janeiro,"rj, br","Rio De Janeria, rj, br",101953261,br,1,rj,1,Rio De Janeria
+br/rj/statewide,"rj, br","rj, br",85681991,br,1,rj,0,
+br/rn/statewide,"rn, br","rn, br",85681999,br,1,rn,0,
+br/ro/statewide,"ro, br","ro, br",85682003,br,1,ro,0,
+br/rr/statewide,"rr, br","rr, br",85682011,br,1,rr,0,
+br/rs/caxias_do_sul,"rs, br","Caxis Do Sul, rs, br",85682015,br,1,rs,1,Caxis Do Sul
+br/rs/statewide,"rs, br","rs, br",85682015,br,1,rs,0,
+br/sc/joinville,"sc, br","JoinVilla, sc, br",85682021,br,1,sc,1,JoinVilla
+br/sc/statewide,"sc, br","sc, br",85682021,br,1,sc,0,
+br/se/statewide,"se, br","se, br",85682037,br,1,se,0,
+br/sp/guarulhos,"sp, br","Guarulhos, sp, br",101956159,br,1,sp,1,Guarulhos
+br/sp/santos,"sp, br","Santos, sp, br",101965655,br,1,sp,1,Santos
+br/sp/statewide,"sp, br","sp, br",85682041,br,1,sp,0,
+br/to/statewide,"to, br","to, br",85682053,br,1,to,0,
+by/brest/regionwide,"brest, by","brest, by",890422309,by,1,brest,0,
+by/countrywide,,,,by,0,,0,
+by/grodno/regionwide,"grodno, by","grodno, by",890428903,by,1,grodno,0,
+by/mogilev/regionwide,"mogilev, by","mogilev, by",85669295,by,1,mogilev,0,
+by/vitebsk/regionwide,"vitebsk, by","vitebsk, by",85669301,by,1,vitebsk,0,
+ca/ab/airdrie,"ab, ca","Airdrie, ab, ca",890456719,ca,1,ab,1,Airdrie
+ca/ab/calgary,"ab, ca","Calgary, ab, ca",890458845,ca,1,ab,1,Calgary
+ca/ab/city_of_airdrie,"ab, ca","airdrie, ab, ca",890456719,ca,1,ab,1,airdrie
+ca/ab/city_of_banff,"ab, ca","banff, ab, ca",890458667,ca,1,ab,1,banff
+ca/ab/city_of_black_diamond,"ab, ca","black diamond, ab, ca",890456199,ca,1,ab,1,black diamond
+ca/ab/city_of_canmore,"ab, ca","canmore, ab, ca",890457297,ca,1,ab,1,canmore
+ca/ab/city_of_chestermere,"ab, ca","chestermere, ab, ca",1125988921,ca,1,ab,1,chestermere
+ca/ab/city_of_cochrane,"ab, ca","cochrane, ab, ca",890458379,ca,1,ab,1,cochrane
+ca/ab/city_of_edmonton,"ab, ca","edmonton, ab, ca",890458485,ca,1,ab,1,edmonton
+ca/ab/city_of_lethbridge,"ab, ca","lethbridge, ab, ca",890458847,ca,1,ab,1,lethbridge
+ca/ab/city_of_medicine_hat,"ab, ca","medicine hat, ab, ca",890456255,ca,1,ab,1,medicine hat
+ca/ab/city_of_red_deer,"ab, ca","red deer, ab, ca",890457071,ca,1,ab,1,red deer
+ca/ab/city_of_turner_valley,"ab, ca","turner valley, ab, ca",890458207,ca,1,ab,1,turner valley
+ca/ab/grande_prairie,"ab, ca","Grand Prairie, ab, ca",85682091,ca,1,ab,1,Grand Prairie
+ca/ab/province,"ab, ca","ab, ca",85682091,ca,1,ab,0,
+ca/ab/strathcona-county,"ab, ca","Strathcona County, ab, ca",890456129,ca,1,ab,1,Strathcona County
+ca/bc/capital-regional-district,"bc, ca","Capital Regional District, bc, ca",890456487,ca,1,bc,1,Capital Regional District
+ca/bc/central-okanagan-regional-district,"bc, ca","Central Okanagan Regional District, bc, ca",890458697,ca,1,bc,1,Central Okanagan Regional District
+ca/bc/city_of_burnaby,"bc, ca","burnaby, bc, ca",101741055,ca,1,bc,1,burnaby
+ca/bc/city_of_coquitlam,"bc, ca","coquitlam, bc, ca",101741053,ca,1,bc,1,coquitlam
+ca/bc/city_of_courtenay,"bc, ca","courtenay, bc, ca",101741017,ca,1,bc,1,courtenay
+ca/bc/city_of_kelowna,"bc, ca","kelowna, bc, ca",101741131,ca,1,bc,1,kelowna
+ca/bc/city_of_langford,"bc, ca","langford, bc, ca",101740909,ca,1,bc,1,langford
+ca/bc/city_of_new_westminster,"bc, ca","new westminster, bc, ca",1125888803,ca,1,bc,1,new westminster
+ca/bc/city_of_north_saanich,"bc, ca","north saanich, bc, ca",101740883,ca,1,bc,1,north saanich
+ca/bc/city_of_saanich,"bc, ca","saanich, bc, ca",101741111,ca,1,bc,1,saanich
+ca/bc/city_of_squamish,"bc, ca","squamish, bc, ca",101740953,ca,1,bc,1,squamish
+ca/bc/city_of_west_kelowna,"bc, ca","west kelowna, bc, ca",101741089,ca,1,bc,1,west kelowna
+ca/bc/columbia-shuswap,"bc, ca","Columbia-Shuswap, bc, ca",890458427,ca,1,bc,1,Columbia-Shuswap
+ca/bc/cowichan_valley,"bc, ca","Cowichan Valley, bc, ca",890458567,ca,1,bc,1,Cowichan Valley
+ca/bc/east_kootenay,"bc, ca","East Kootenay, bc, ca",890456529,ca,1,bc,1,East Kootenay
+ca/bc/kamloops,"bc, ca","Kamloops, bc, ca",101741047,ca,1,bc,1,Kamloops
+ca/bc/kelowna,"bc, ca","kelowna, bc, ca",101741131,ca,1,bc,1,kelowna
+ca/bc/langley,"bc, ca","langley, bc, ca",101740805,ca,1,bc,1,langley
+ca/bc/nanaimo,"bc, ca","nanaimo, bc, ca",101741011,ca,1,bc,1,nanaimo
+ca/bc/north_cowichan,"bc, ca","north cowichan, bc, ca",101741113,ca,1,bc,1,north cowichan
+ca/bc/north_vancouver,"bc, ca","north vancouver, bc, ca",1125896557,ca,1,bc,1,north vancouver
+ca/bc/okanagan_similkameen,"bc, ca","okanagan similkameen, bc, ca",890457193,ca,1,bc,1,okanagan similkameen
+ca/bc/prince_george,"bc, ca","prince george, bc, ca",101740817,ca,1,bc,1,prince george
+ca/bc/province,"bc, ca","bc, ca",85682117,ca,1,bc,0,
+ca/bc/sunshine_coast,"bc, ca","sunshine coast, bc, ca",890456829,ca,1,bc,1,sunshine coast
+ca/bc/surrey,"bc, ca","surrey, bc, ca",101741073,ca,1,bc,1,surrey
+ca/bc/thompson-nicola-regional-district,"bc, ca","thompson nicola regional district, bc, ca",890458465,ca,1,bc,1,thompson nicola regional district
+ca/bc/vancouver,"bc, ca","vancouver, bc, ca",101741075,ca,1,bc,1,vancouver
+ca/bc/vernon,"bc, ca","vernon, bc, ca",101741005,ca,1,bc,1,vernon
+ca/bc/victoria,"bc, ca","victoria, bc, ca",101740879,ca,1,bc,1,victoria
+ca/bc/west_kelowna,"bc, ca","west kelowna, bc, ca",101741089,ca,1,bc,1,west kelowna
+ca/mb/brandon,"mb, ca","brandon, mb, ca",101734971,ca,1,mb,1,brandon
+ca/mb/city_of_steinbach,"mb, ca","steinbach, mb, ca",101735029,ca,1,mb,1,steinbach
+ca/mb/city_of_winnipeg,"mb, ca","winnipeg, mb, ca",101734959,ca,1,mb,1,winnipeg
+ca/mb/province,"mb, ca","mb, ca",85682085,ca,1,mb,0,
+ca/nb/city_of_fredericton,"nb, ca","fredericton, nb, ca",101735269,ca,1,nb,1,fredericton
+ca/nb/city_of_moncton,"nb, ca","moncton, nb, ca",101735369,ca,1,nb,1,moncton
+ca/nb/city_of_st_john,"nb, ca","st john, nb, ca",85864357,ca,1,nb,1,st john
+ca/nb/province,"nb, ca","nb, ca",85682065,ca,1,nb,0,
+ca/nl/city_of_saint_johns,"nl, ca","saint johns, nl, ca",890456615,ca,1,nl,1,saint johns
+ca/nl/happy-valley-goose-bay,"nl, ca","happy valley-goose bay, nl, ca",890456987,ca,1,nl,1,happy valley-goose bay
+ca/ns/halifax,"ns, ca","halifax, ns, ca",890456547,ca,1,ns,1,halifax
+ca/ns/province,"ns, ca","ns, ca",85682075,ca,1,ns,0,
+ca/nt/city_of_yellow_knife,"nt, ca","yellow knife, nt, ca",85682067,ca,1,nt,1,yellow knife
+ca/on/adelaide,"on, ca","adelaide, on, ca",85682057,ca,1,on,1,adelaide
+ca/on/amherstburg,"on, ca","amherstburg, on, ca",101736085,ca,1,on,1,amherstburg
+ca/on/belleville,"on, ca","belleville, on, ca",101735759,ca,1,on,1,belleville
+ca/on/brant,"on, ca","brant, on, ca",101735627,ca,1,on,1,brant
+ca/on/bruce,"on, ca","bruce, on, ca",890457581,ca,1,on,1,bruce
+ca/on/chatham_kent,"on, ca","chatham kent, on, ca",101735857,ca,1,on,1,chatham kent
+ca/on/city_of_ajax,"on, ca","ajax, on, ca",101736125,ca,1,on,1,ajax
+ca/on/city_of_barrie,"on, ca","barrie, on, ca",101735527,ca,1,on,1,barrie
+ca/on/city_of_brampton,"on, ca","brampton, on, ca",101735903,ca,1,on,1,brampton
+ca/on/city_of_burlington,"on, ca","burlington, on, ca",101735965,ca,1,on,1,burlington
+ca/on/city_of_cambridge,"on, ca","cambridge, on, ca",101736143,ca,1,on,1,cambridge
+ca/on/city_of_guelph,"on, ca","guelph, on, ca",101735553,ca,1,on,1,guelph
+ca/on/city_of_hamilton,"on, ca","hamilton, on, ca",101735515,ca,1,on,1,hamilton
+ca/on/city_of_hanover,"on, ca","hanover, on, ca",101736331,ca,1,on,1,hanover
+ca/on/city_of_kingston,"on, ca","kingston, on, ca",101735601,ca,1,on,1,kingston
+ca/on/city_of_kitchener,"on, ca","kitchener, on, ca",101735989,ca,1,on,1,kitchener
+ca/on/city_of_london,"on, ca","london, on, ca",101735809,ca,1,on,1,london
+ca/on/city_of_markham,"on, ca","markham, on, ca",101736035,ca,1,on,1,markham
+ca/on/city_of_niagara_falls,"on, ca","niagara falls, on, ca",101736289,ca,1,on,1,niagara falls
+ca/on/city_of_oakville,"on, ca","oakville, on, ca",101735889,ca,1,on,1,oakville
+ca/on/city_of_ottawa,"on, ca","ottawa, on, ca",101735873,ca,1,on,1,ottawa
+ca/on/city_of_pickering,"on, ca","pickering, on, ca",101736359,ca,1,on,1,pickering
+ca/on/city_of_saint_catherines,"on, ca","saint catherines, on, ca",85682057,ca,1,on,1,saint catherines
+ca/on/city_of_sault_ste_marie,"on, ca","sault ste marie, on, ca",101735641,ca,1,on,1,sault ste marie
+ca/on/city_of_thunder_bay,"on, ca","thunder bay, on, ca",890458687,ca,1,on,1,thunder bay
+ca/on/city_of_toronto,"on, ca","toronto, on, ca",890457465,ca,1,on,1,toronto
+ca/on/city_of_vaughan,"on, ca","vaughan, on, ca",101736093,ca,1,on,1,vaughan
+ca/on/city_of_waterloo,"on, ca","waterloo, on, ca",101736191,ca,1,on,1,waterloo
+ca/on/city_of_welland,"on, ca","welland, on, ca",101735999,ca,1,on,1,welland
+ca/on/city_of_windsor,"on, ca","windsor, on, ca",101735855,ca,1,on,1,windsor
+ca/on/cobourg,"on, ca","cobourg, on, ca",101736101,ca,1,on,1,cobourg
+ca/on/couchicing,"on, ca","couchicing, on, ca",85682057,ca,1,on,1,couchicing
+ca/on/dufferin,"on, ca","dufferin, on, ca",890456799,ca,1,on,1,dufferin
+ca/on/elgin,"on, ca","elgin, on, ca",890458529,ca,1,on,1,elgin
+ca/on/essex,"on, ca","essex, on, ca",890458683,ca,1,on,1,essex
+ca/on/greater_sudbury,"on, ca","greater sudbury, on, ca",101735493,ca,1,on,1,greater sudbury
+ca/on/grey,"on, ca","grey, on, ca",890456569,ca,1,on,1,grey
+ca/on/grey_dufferin,"on, ca","grey dufferin, on, ca",890456799,ca,1,on,1,grey dufferin
+ca/on/haldimand,"on, ca","haldimand, on, ca",101735569,ca,1,on,1,haldimand
+ca/on/haliburton,"on, ca","haliburton, on, ca",890457187,ca,1,on,1,haliburton
+ca/on/halton,"on, ca","halton, on, ca",890456111,ca,1,on,1,halton
+ca/on/hastings,"on, ca","hastings, on, ca",890456309,ca,1,on,1,hastings
+ca/on/lambton,"on, ca","lambton, on, ca",890456489,ca,1,on,1,lambton
+ca/on/lasalle,"on, ca","lasalle, on, ca",101736185,ca,1,on,1,lasalle
+ca/on/leeds_grenville,"on, ca","leeds grenville, on, ca",101737749,ca,1,on,1,leeds grenville
+ca/on/lennoxaddington,"on, ca","lennoxaddington, on, ca",85682057,ca,1,on,1,lennoxaddington
+ca/on/lucan_biddulph,"on, ca","lucan biddulph, on, ca",101736129,ca,1,on,1,lucan biddulph
+ca/on/middlesex_centre,"on, ca","middlesex centre, on, ca",101736165,ca,1,on,1,middlesex centre
+ca/on/muskoka,"on, ca","muskoka, on, ca",890458545,ca,1,on,1,muskoka
+ca/on/newbury,"on, ca","newbury, on, ca",101736255,ca,1,on,1,newbury
+ca/on/newmarket,"on, ca","newmarket, on, ca",101736295,ca,1,on,1,newmarket
+ca/on/niagara_region,"on, ca","niagara region, on, ca",890456991,ca,1,on,1,niagara region
+ca/on/norfolk,"on, ca","norfolk, on, ca",101735795,ca,1,on,1,norfolk
+ca/on/north_glengarry,"on, ca","north glengarry, on, ca",101736231,ca,1,on,1,north glengarry
+ca/on/north_middlesex,"on, ca","north middlesex, on, ca",101736233,ca,1,on,1,north middlesex
+ca/on/northumberland,"on, ca","northumberland, on, ca",890457749,ca,1,on,1,northumberland
+ca/on/oxford,"on, ca","oxford, on, ca",890458399,ca,1,on,1,oxford
+ca/on/parry_sound,"on, ca","parry sound, on, ca",101735545,ca,1,on,1,parry sound
+ca/on/peel-region,"on, ca","peel-region, on, ca",890457113,ca,1,on,1,peel-region
+ca/on/perth,"on, ca","perth, on, ca",890456811,ca,1,on,1,perth
+ca/on/peterborough,"on, ca","peterborough, on, ca",890457691,ca,1,on,1,peterborough
+ca/on/prescott_russell,"on, ca","prescott russell, on, ca",101736277,ca,1,on,1,prescott russell
+ca/on/prince_edward,"on, ca","prince edward, on, ca",101735681,ca,1,on,1,prince edward
+ca/on/quinte_west,"on, ca","quinte west, on, ca",101735665,ca,1,on,1,quinte west
+ca/on/rainy_river,"on, ca","rainy river, on, ca",890456971,ca,1,on,1,rainy river
+ca/on/renfrew,"on, ca","renfrew, on, ca",101735913,ca,1,on,1,renfrew
+ca/on/seguin,"on, ca","seguin, on, ca",101735609,ca,1,on,1,seguin
+ca/on/seine_river,"on, ca","seine river, on, ca",85682057,ca,1,on,1,seine river
+ca/on/simcoe,"on, ca","simcoe, on, ca",890456339,ca,1,on,1,simcoe
+ca/on/southwest-middlesex,"on, ca","southwest-middlesex, on, ca",101735977,ca,1,on,1,southwest-middlesex
+ca/on/stormont_dundas_glengarry,"on, ca","stormont dundas glengarry, on, ca",85895161,ca,1,on,1,stormont dundas glengarry
+ca/on/stratford,"on, ca","stratford, on, ca",101735651,ca,1,on,1,stratford
+ca/on/strathroy-caradoc,"on, ca","strathroy-caradoc, on, ca",101736167,ca,1,on,1,strathroy-caradoc
+ca/on/thames_centre,"on, ca","thames centre, on, ca",101735885,ca,1,on,1,thames centre
+ca/on/town_of_oakville,"on, ca","oakville, on, ca",101735889,ca,1,on,1,oakville
+ca/on/township_of_durham,"on, ca","durham, on, ca",890456101,ca,1,on,1,durham
+ca/on/waterloo,"on, ca","waterloo, on, ca",101736191,ca,1,on,1,waterloo
+ca/on/west_parry_sound_district,"on, ca","west parry sound district, on, ca",101735545,ca,1,on,1,west parry sound district
+ca/on/york,"on, ca","york, on, ca",890456117,ca,1,on,1,york
+ca/pe/province,"pe, ca","pe, ca",85682081,ca,1,pe,0,
+ca/qc/gatineau,"qc, ca","gatineau, qc, ca",101738041,ca,1,qc,1,gatineau
+ca/qc/laval,"qc, ca","laval, qc, ca",890457693,ca,1,qc,1,laval
+ca/qc/longueuil,"qc, ca","longueuil, qc, ca",101738793,ca,1,qc,1,longueuil
+ca/qc/montreal,"qc, ca","montreal, qc, ca",890458661,ca,1,qc,1,montreal
+ca/qc/repentigny,"qc, ca","repentigny, qc, ca",101737691,ca,1,qc,1,repentigny
+ca/qc/rimouski,"qc, ca","rimouski, qc, ca",101737831,ca,1,qc,1,rimouski
+ca/qc/rouyn-noranda,"qc, ca","rouyn-noranda, qc, ca",101736943,ca,1,qc,1,rouyn-noranda
+ca/sk/moosejaw,"sk, ca","moosejaw, sk, ca",85682113,ca,1,sk,1,moosejaw
+ca/sk/regina,"sk, ca","regina, sk, ca",101739917,ca,1,sk,1,regina
+ca/sk/saskatoon,"sk, ca","saskatoon, sk, ca",101740015,ca,1,sk,1,saskatoon
+ca/yt/whitehorse,"yt, ca","whitehorse, yt, ca",101740697,ca,1,yt,1,whitehorse
+ch/aargau,"aargau, ch","aargau, ch",85682329,ch,1,aargau,0,
+ch/basel-land,"basel-land, ch","basel-land, ch",85682361,ch,1,basel-land,0,
+ch/basel-stadt,"basel-stadt, ch","basel-stadt, ch",85682297,ch,1,basel-stadt,0,
+ch/bern,"bern, ch","bern, ch",85682381,ch,1,bern,0,
+ch/countrywide,,,,ch,0,,0,
+ch/fribourg,"fribourg, ch","fribourg, ch",85682301,ch,1,fribourg,0,
+ch/geneva,"geneva, ch","geneva, ch",85682291,ch,1,geneva,0,
+ch/glarus,"glarus, ch","glarus, ch",85682249,ch,1,glarus,0,
+ch/grisons,"grisons, ch","grisons, ch",85682255,ch,1,grisons,0,
+ch/luzern,"luzern, ch","luzern, ch",85682319,ch,1,luzern,0,
+ch/schaffhausen,"schaffhausen, ch","schaffhausen, ch",85682285,ch,1,schaffhausen,0,
+ch/schwyz,"schwyz, ch","schwyz, ch",85682305,ch,1,schwyz,0,
+ch/solothurn,"solothurn, ch","solothurn, ch",85682365,ch,1,solothurn,0,
+ch/uri,"uri, ch","uri, ch",85682377,ch,1,uri,0,
+ch/zurich,"zurich, ch","zurich, ch",,ch,1,zurich,0,
+cl/countrywide,,,,cl,0,,0,
+cn/42/wuhan,"Hubei, cn","Wuhan, Hubei, cn",102027061,cn,1,Hubei,1,Wuhan
+co/ant/medellin,"ant, co","Medellin, ant, co",890442155,co,1,ant,1,Medellin
+co/bogota,"bogota, co","bogota, co",890444995,co,1,bogota,0,
+cw/countrywide,,,,cw,0,,0,
+cz/countrywide,,,,cz,0,,0,
+de/berlin,"berlin, de","berlin, de",101748799,de,1,berlin,0,
+de/he/city_of_frankfurtammain,"he, de","frankfurtammain, he, de",1125375551,de,1,he,1,frankfurtammain
+de/he/city_of_kassel,"he, de","kassel, he, de",1125375551,de,1,he,1,kassel
+de/hh/statewide,"hh, de","hh, de",101748841,de,1,hh,0,
+de/mv/city_of_rostock,"mv, de","rostock, mv, de",102064097,de,1,mv,1,rostock
+de/ni/bentheim,"ni, de","bentheim, ni, de",85633111,de,1,ni,1,bentheim
+de/nw/city_of_cologne,"nw, de","cologne, nw, de",1125334127,de,1,nw,1,cologne
+de/nw/city_of_wesel,"nw, de","wesel, nw, de",102063833,de,1,nw,1,wesel
+de/nw/city_of_wuppertal,"nw, de","wuppertal, nw, de",101748657,de,1,nw,1,wuppertal
+de/nw/kreis_viersen,"nw, de","kreis viersen, nw, de",1125412841,de,1,nw,1,kreis viersen
+de/nw/statewide,"nw, de","nw, de",85633111,de,1,nw,0,
+de/sn/statewide,"sn, de","sn, de",85633111,de,1,sn,0,
+de/th/statewide,"th, de","th, de",85633111,de,1,th,0,
+dk/countrywide,,,,dk,0,,0,
+ee/countrywide,,,,ee,0,,0,
+es/25829,,,,es,0,,0,
+es/25830,,,,es,0,,0,
+es/25831,,,,es,0,,0,
+es/32628,,,,es,0,,0,
+fi/ahvenanmaa-fi,"ahvenanmaa, fi","ahvenanmaa, fi",85633143,fi,1,ahvenanmaa,0,
+fi/ahvenanmaa-sv,"ahvenanmaa, fi","ahvenanmaa, fi",85633143,fi,1,ahvenanmaa,0,
+fi/countrywide-fi,,,,fi,0,,0,
+fi/countrywide-sv,,,,fi,0,,0,
+fi/etel√§-karjala-fi,"etel‰-karjala, fi","etel‰-karjala, fi",85683099,fi,1,etel‰-karjala,0,
+fi/etel√§-karjala-sv,"etel‰-karjala, fi","etel‰-karjala, fi",85683099,fi,1,etel‰-karjala,0,
+fi/etel√§-pohjanmaa-fi,"etel‰-pohjanmaa, fi","etel‰-pohjanmaa, fi",85683113,fi,1,etel‰-pohjanmaa,0,
+fi/etel√§-pohjanmaa-sv,"etel‰-pohjanmaa, fi","etel‰-pohjanmaa, fi",85683113,fi,1,etel‰-pohjanmaa,0,
+fi/etel√§-savo-fi,"etel‰-savo, fi","etel‰-savo, fi",85683109,fi,1,etel‰-savo,0,
+fi/etel√§-savo-sv,"etel‰-savo, fi","etel‰-savo, fi",85683109,fi,1,etel‰-savo,0,
+fi/kainuu-fi,"kainuu, fi","kainuu, fi",85683137,fi,1,kainuu,0,
+fi/kainuu-sv,"kainuu, fi","kainuu, fi",85683137,fi,1,kainuu,0,
+fi/kanta-h√§me-fi,"kanta-h‰me, fi","kanta-h‰me, fi",85683077,fi,1,kanta-h‰me,0,
+fi/kanta-h√§me-sv,"kanta-h‰me, fi","kanta-h‰me, fi",85683077,fi,1,kanta-h‰me,0,
+fi/keski-pohjanmaa-fi,"keski-pohjanmaa, fi","keski-pohjanmaa, fi",85683125,fi,1,keski-pohjanmaa,0,
+fi/keski-pohjanmaa-sv,"keski-pohjanmaa, fi","keski-pohjanmaa, fi",85683125,fi,1,keski-pohjanmaa,0,
+fi/keski-suomi-fi,"keski-suomi, fi","keski-suomi, fi",85683117,fi,1,keski-suomi,0,
+fi/keski-suomi-sv,"keski-suomi, fi","keski-suomi, fi",85683117,fi,1,keski-suomi,0,
+fi/kymeenlaakso-fi,"kymeenlaakso, fi","kymeenlaakso, fi",85633143,fi,1,kymeenlaakso,0,
+fi/kymeenlaakso-sv,"kymeenlaakso, fi","kymeenlaakso, fi",85633143,fi,1,kymeenlaakso,0,
+fi/lappi-fi,"lappi, fi","lappi, fi",101815467,fi,1,lappi,0,
+fi/lappi-sv,"lappi, fi","lappi, fi",101815467,fi,1,lappi,0,
+fi/pirkanmaa-fi,"pirkanmaa, fi","pirkanmaa, fi",85683099,fi,1,pirkanmaa,0,
+fi/pirkanmaa-sv,"pirkanmaa, fi","pirkanmaa, fi",85683099,fi,1,pirkanmaa,0,
+fi/pohjanmaa-fi,"pohjanmaa, fi","pohjanmaa, fi",85683119,fi,1,pohjanmaa,0,
+fi/pohjanmaa-sv,"pohjanmaa, fi","pohjanmaa, fi",85683119,fi,1,pohjanmaa,0,
+fi/pohjois-karjala-fi,"pohjois-karjala, fi","pohjois-karjala, fi",1125272665,fi,1,pohjois-karjala,0,
+fi/pohjois-karjala-sv,"pohjois-karjala, fi","pohjois-karjala, fi",1125272665,fi,1,pohjois-karjala,0,
+fi/pohjois-pohjanmaa-fi,"pohjois-pohjanmaa, fi","pohjois-pohjanmaa, fi",85683143,fi,1,pohjois-pohjanmaa,0,
+fi/pohjois-pohjanmaa-sv,"pohjois-pohjanmaa, fi","pohjois-pohjanmaa, fi",85683143,fi,1,pohjois-pohjanmaa,0,
+fi/pohjois-savo-fi,"pohjois-savo, fi","pohjois-savo, fi",85683131,fi,1,pohjois-savo,0,
+fi/pohjois-savo-sv,"pohjois-savo, fi","pohjois-savo, fi",85683131,fi,1,pohjois-savo,0,
+fi/p√§ij√§t-h√§me-fi,"p‰ij‰t-h‰me, fi","p‰ij‰t-h‰me, fi",85683091,fi,1,p‰ij‰t-h‰me,0,
+fi/p√§ij√§t-h√§me-sv,"p‰ij‰t-h‰me, fi","p‰ij‰t-h‰me, fi",85683091,fi,1,p‰ij‰t-h‰me,0,
+fi/satakunta-fi,"satakunta, fi","satakunta, fi",85683095,fi,1,satakunta,0,
+fi/satakunta-sv,"satakunta, fi","satakunta, fi",85683095,fi,1,satakunta,0,
+fi/uusimaa-fi,"uusimaa, fi","uusimaa, fi",85683067,fi,1,uusimaa,0,
+fi/uusimaa-sv,"uusimaa, fi","uusimaa, fi",85683067,fi,1,uusimaa,0,
+fi/varsinais-suomi-fi,"varsinais-suomi, fi","varsinais-suomi, fi",85683073,fi,1,varsinais-suomi,0,
+fi/varsinais-suomi-sv,"varsinais-suomi, fi","varsinais-suomi, fi",85683073,fi,1,varsinais-suomi,0,
+fo/countrywide,,,,fo,0,,0,
+fr/ain,"ain, fr","ain, fr",85683153,fr,1,ain,0,
+fr/aisne,"aisne, fr","aisne, fr",85683247,fr,1,aisne,0,
+fr/allier,"allier, fr","allier, fr",85683293,fr,1,allier,0,
+fr/alpes_de_haute_provence,"alpes de haute provence, fr","alpes de haute provence, fr",85683509,fr,1,alpes de haute provence,0,
+fr/alpes_maritimes,"alpes maritimes, fr","alpes maritimes, fr",85683323,fr,1,alpes maritimes,0,
+fr/ardeche,"ardeche, fr","ardeche, fr",85683421,fr,1,ardeche,0,
+fr/ardennes,"ardennes, fr","ardennes, fr",85683309,fr,1,ardennes,0,
+fr/ariege,"ariege, fr","ariege, fr",85683335,fr,1,ariege,0,
+fr/aube,"aube, fr","aube, fr",85683193,fr,1,aube,0,
+fr/aude,"aude, fr","aude, fr",85683485,fr,1,aude,0,
+fr/aveyron,"aveyron, fr","aveyron, fr",85683301,fr,1,aveyron,0,
+fr/bano,"bano, fr","bano, fr",85633147,fr,1,bano,0,
+fr/bas_rhin,"bas rhin, fr","bas rhin, fr",85683221,fr,1,bas rhin,0,
+fr/bouches_du_rhone,"bouches du rhone, fr","bouches du rhone, fr",85683441,fr,1,bouches du rhone,0,
+fr/calvados,"calvados, fr","calvados, fr",85683579,fr,1,calvados,0,
+fr/cantal,"cantal, fr","cantal, fr",85683517,fr,1,cantal,0,
+fr/charente,"charente, fr","charente, fr",85683437,fr,1,charente,0,
+fr/charente_maritime,"charente maritime, fr","charente maritime, fr",85683275,fr,1,charente maritime,0,
+fr/cher,"cher, fr","cher, fr",85683549,fr,1,cher,0,
+fr/colmar,"colmar, fr","colmar, fr",101749557,fr,1,colmar,0,
+fr/correze,"correze, fr","correze, fr",85683209,fr,1,correze,0,
+fr/corse_du_sud,"corse du sud, fr","corse du sud, fr",85683167,fr,1,corse du sud,0,
+fr/cote_dor,"cote dor, fr","cote dor, fr",85683563,fr,1,cote dor,0,
+fr/cotes_darmor,"cotes darmor, fr","cotes darmor, fr",85633147,fr,1,cotes darmor,0,
+fr/creuse,"creuse, fr","creuse, fr",85683179,fr,1,creuse,0,
+fr/deux_sevres,"deux sevres, fr","deux sevres, fr",85683163,fr,1,deux sevres,0,
+fr/dordogne,"dordogne, fr","dordogne, fr",85683331,fr,1,dordogne,0,
+fr/doubs,"doubs, fr","doubs, fr",85683239,fr,1,doubs,0,
+fr/drome,"drome, fr","drome, fr",85683523,fr,1,drome,0,
+fr/essonne,"essonne, fr","essonne, fr",85683371,fr,1,essonne,0,
+fr/eure,"eure, fr","eure, fr",85683283,fr,1,eure,0,
+fr/eure_et_loir,"eure et loir, fr","eure et loir, fr",85683189,fr,1,eure et loir,0,
+fr/finistere,"finistere, fr","finistere, fr",85683553,fr,1,finistere,0,
+fr/gard,"gard, fr","gard, fr",85683431,fr,1,gard,0,
+fr/gers,"gers, fr","gers, fr",85683467,fr,1,gers,0,
+fr/gironde,"gironde, fr","gironde, fr",85683243,fr,1,gironde,0,
+fr/guadeloupe,"guadeloupe, fr","guadeloupe, fr",890453599,fr,1,guadeloupe,0,
+fr/guyane,"guyane, fr","guyane, fr",85671195,fr,1,guyane,0,
+fr/haute_corse,"haute corse, fr","haute corse, fr",85683493,fr,1,haute corse,0,
+fr/haute_garonne,"haute garonne, fr","haute garonne, fr",85683397,fr,1,haute garonne,0,
+fr/haute_loire,"haute loire, fr","haute loire, fr",85683413,fr,1,haute loire,0,
+fr/haute_marne,"haute marne, fr","haute marne, fr",85683261,fr,1,haute marne,0,
+fr/haute_rhin,"haute rhin, fr","haute rhin, fr",85633147,fr,1,haute rhin,0,
+fr/haute_saone,"haute saone, fr","haute saone, fr",85683559,fr,1,haute saone,0,
+fr/haute_savoie,"haute savoie, fr","haute savoie, fr",85683227,fr,1,haute savoie,0,
+fr/haute_vienne,"haute vienne, fr","haute vienne, fr",85683531,fr,1,haute vienne,0,
+fr/hautes_alpes,"hautes alpes, fr","hautes alpes, fr",85683597,fr,1,hautes alpes,0,
+fr/hautes_pyrenees,"hautes pyrenees, fr","hautes pyrenees, fr",85683203,fr,1,hautes pyrenees,0,
+fr/hauts_de_seine,"hauts de seine, fr","hauts de seine, fr",85683157,fr,1,hauts de seine,0,
+fr/herault,"herault, fr","herault, fr",85683419,fr,1,herault,0,
+fr/ille_et_vilaine,"ille et vilaine, fr","ille et vilaine, fr",85683461,fr,1,ille et vilaine,0,
+fr/indre,"indre, fr","indre, fr",85683311,fr,1,indre,0,
+fr/indre_et_loire,"indre et loire, fr","indre et loire, fr",85683575,fr,1,indre et loire,0,
+fr/isere,"isere, fr","isere, fr",85683427,fr,1,isere,0,
+fr/jura,"jura, fr","jura, fr",85683173,fr,1,jura,0,
+fr/la_reunion,"la reunion, fr","la reunion, fr",85671199,fr,1,la reunion,0,
+fr/landes,"landes, fr","landes, fr",85683183,fr,1,landes,0,
+fr/loir_et_cher,"loir et cher, fr","loir et cher, fr",85683349,fr,1,loir et cher,0,
+fr/loire,"loire, fr","loire, fr",404227423,fr,1,loire,0,
+fr/loire_atlantique,"loire atlantique, fr","loire atlantique, fr",85683233,fr,1,loire atlantique,0,
+fr/loiret,"loiret, fr","loiret, fr",85683479,fr,1,loiret,0,
+fr/lot,"lot, fr","lot, fr",85683389,fr,1,lot,0,
+fr/lot_et_garonne,"lot et garonne, fr","lot et garonne, fr",85683341,fr,1,lot et garonne,0,
+fr/lozere,"lozere, fr","lozere, fr",85683453,fr,1,lozere,0,
+fr/maine_et_loire,"maine et loire, fr","maine et loire, fr",85683327,fr,1,maine et loire,0,
+fr/manche,"manche, fr","manche, fr",85683489,fr,1,manche,0,
+fr/marne,"marne, fr","marne, fr",85683405,fr,1,marne,0,
+fr/martinique,"martinique, fr","martinique, fr",85671191,fr,1,martinique,0,
+fr/mayenne,"mayenne, fr","mayenne, fr",85683401,fr,1,mayenne,0,
+fr/mayotte,"mayotte, fr","mayotte, fr",85632251,fr,1,mayotte,0,
+fr/meurthe_et_moselle,"meurthe et moselle, fr","meurthe et moselle, fr",85683343,fr,1,meurthe et moselle,0,
+fr/meuse,"meuse, fr","meuse, fr",85683297,fr,1,meuse,0,
+fr/montpellier,"montpellier, fr","montpellier, fr",101749209,fr,1,montpellier,0,
+fr/morbihan,"morbihan, fr","morbihan, fr",85683507,fr,1,morbihan,0,
+fr/moselle,"moselle, fr","moselle, fr",85683271,fr,1,moselle,0,
+fr/nievre,"nievre, fr","nievre, fr",85683359,fr,1,nievre,0,
+fr/nord,"nord, fr","nord, fr",85683445,fr,1,nord,0,
+fr/oise,"oise, fr","oise, fr",85683289,fr,1,oise,0,
+fr/orne,"orne, fr","orne, fr",85683527,fr,1,orne,0,
+fr/paris,"paris, fr","paris, fr",85683497,fr,1,paris,0,
+fr/pas_de_calais,"pas de calais, fr","pas de calais, fr",85683255,fr,1,pas de calais,0,
+fr/puy_de_dome,"puy de dome, fr","puy de dome, fr",85683471,fr,1,puy de dome,0,
+fr/pyrenees_atlantiques,"pyrenees atlantiques, fr","pyrenees atlantiques, fr",85683539,fr,1,pyrenees atlantiques,0,
+fr/pyrenees_orientales,"pyrenees orientales, fr","pyrenees orientales, fr",85683169,fr,1,pyrenees orientales,0,
+fr/rhone,"rhone, fr","rhone, fr",85683569,fr,1,rhone,0,
+fr/saint_pierre_et_miquelon,"saint pierre et miquelon, fr","saint pierre et miquelon, fr",85633147,fr,1,saint pierre et miquelon,0,
+fr/saone_et_loire,"saone et loire, fr","saone et loire, fr",85683543,fr,1,saone et loire,0,
+fr/sarthe,"sarthe, fr","sarthe, fr",85683279,fr,1,sarthe,0,
+fr/savoie,"savoie, fr","savoie, fr",85683265,fr,1,savoie,0,
+fr/seien_et_marne,"seien et marne, fr","seien et marne, fr",85683405,fr,1,seien et marne,0,
+fr/seine_maritime,"seine maritime, fr","seine maritime, fr",85683251,fr,1,seine maritime,0,
+fr/seine_saint_denis,"seine saint denis, fr","seine saint denis, fr",85683475,fr,1,seine saint denis,0,
+fr/somme,"somme, fr","somme, fr",85683363,fr,1,somme,0,
+fr/tarn,"tarn, fr","tarn, fr",85683603,fr,1,tarn,0,
+fr/tarn_et_garonne,"tarn et garonne, fr","tarn et garonne, fr",85683217,fr,1,tarn et garonne,0,
+fr/territoire_de_belfort,"territoire de belfort, fr","territoire de belfort, fr",85683353,fr,1,territoire de belfort,0,
+fr/val_de_marne,"val de marne, fr","val de marne, fr",85683459,fr,1,val de marne,0,
+fr/val_doise,"val doise, fr","val doise, fr",85683451,fr,1,val doise,0,
+fr/var,"var, fr","var, fr",85683315,fr,1,var,0,
+fr/vaucluse,"vaucluse, fr","vaucluse, fr",85683201,fr,1,vaucluse,0,
+fr/vendee,"vendee, fr","vendee, fr",85683409,fr,1,vendee,0,
+fr/vienne,"vienne, fr","vienne, fr",85683185,fr,1,vienne,0,
+fr/vosges,"vosges, fr","vosges, fr",85683223,fr,1,vosges,0,
+fr/yonne,"yonne, fr","yonne, fr",85683503,fr,1,yonne,0,
+fr/yvelines,"yvelines, fr","yvelines, fr",85683367,fr,1,yvelines,0,
+gg/countrywide,,,,gg,0,,0,
+gr/b/municipality_of_kalamaria,,"Kalamaria, gr",1125373141,gr,0,,1,Kalamaria
+il/city_of_tel_aviv,,"Tel Aviv, il",85672549,il,0,,1,Tel Aviv
+il/countrywide-hebrew,,,,il,0,,0,
+il/countrywide-latin,,,,il,0,,0,
+is/countrywide,,,,is,0,,0,
+it/04/acerra,"Campania, it","Acerra, Campania, it",101800489,it,1,Campania,1,Acerra
+it/21/city_of_biella,"Piedmont, it","biella, Piedmont, it",85685665,it,1,Piedmont,1,biella
+it/21/statewide,"Piedmont, it","Piedmont, it",85685695,it,1,Piedmont,0,
+it/21/torino,"Piedmont, it","Torino, Piedmont, it",85685169,it,1,Piedmont,1,Torino
+it/25/bg,"Lombardy, it","Bergamo, Lombardy, it",85685249,it,1,Lombardy,1,Bergamo
+it/25/bs,"Lombardy, it","Brescia, Lombardy, it",85685253,it,1,Lombardy,1,Brescia
+it/25/co,"Lombardy, it","Como, Lombardy, it",85685235,it,1,Lombardy,1,Como
+it/25/cr,"Lombardy, it","Cremona, Lombardy, it",85685263,it,1,Lombardy,1,Cremona
+it/25/lc,"Lombardy, it","Lecco, Lombardy, it",85685669,it,1,Lombardy,1,Lecco
+it/25/lo,"Lombardy, it","Lodi, Lombardy, it",85685671,it,1,Lombardy,1,Lodi
+it/25/mb,"Lombardy, it","Monza e Brianza, Lombardy, it",85685723,it,1,Lombardy,1,Monza e Brianza
+it/25/mi,"Lombardy, it","Milano, Lombardy, it",85685243,it,1,Lombardy,1,Milano
+it/25/mn,"Lombardy, it","Mantova, Lombardy, it",85685269,it,1,Lombardy,1,Mantova
+it/25/pv,"Lombardy, it","Pavia, Lombardy, it",85685257,it,1,Lombardy,1,Pavia
+it/25/so,"Lombardy, it","Sondrio, Lombardy, it",85685239,it,1,Lombardy,1,Sondrio
+it/25/va,"Lombardy, it","Varese, Lombardy, it",85685231,it,1,Lombardy,1,Varese
+it/32/south-tyrol-de,"Trentino-Alto Adige, it","Trentino-Alto Adige, it",404227499,it,1,Trentino-Alto Adige,0,
+it/32/south-tyrol-it,"Trentino-Alto Adige, it","Trentino-Alto Adige, it",404227499,it,1,Trentino-Alto Adige,0,
+it/32/south-tyrol-lld,"Trentino-Alto Adige, it","Trentino-Alto Adige, it",404227499,it,1,Trentino-Alto Adige,0,
+it/34/city_of_verona,"Veneto, it","verona, Veneto, it",85685281,it,1,Veneto,1,verona
+it/34/venice,"Veneto, it","Venice, Veneto, it",85685305,it,1,Veneto,1,Venice
+it/36/statewide,"Friuli-Venezia Giulia, it","Friuli-Venezia Giulia, it",85685649,it,1,Friuli-Venezia Giulia,0,
+it/42/statewide,"Liguria, it","Liguria, it",404227507,it,1,Liguria,0,
+it/45/bo,"Emilia-Romagna, it","Bologna, Emilia-Romagna, it",85685351,it,1,Emilia-Romagna,1,Bologna
+it/45/bologna,"Emilia-Romagna, it","Bologna, Emilia-Romagna, it",85685351,it,1,Emilia-Romagna,1,Bologna
+it/45/fc,"Emilia-Romagna, it"," ForlÏ-Cesena, Emilia-Romagna, it",85685367,it,1,Emilia-Romagna,1, ForlÏ-Cesena
+it/45/fe,"Emilia-Romagna, it","Ferrara, Emilia-Romagna, it",85685359,it,1,Emilia-Romagna,1,Ferrara
+it/45/ferrara,"Emilia-Romagna, it","Ferrara, Emilia-Romagna, it",85685359,it,1,Emilia-Romagna,1,Ferrara
+it/45/mo,"Emilia-Romagna, it","Modena, Emilia-Romagna, it",85685347,it,1,Emilia-Romagna,1,Modena
+it/45/pc,"Emilia-Romagna, it","Piacenza, Emilia-Romagna, it",85685331,it,1,Emilia-Romagna,1,Piacenza
+it/45/pr,"Emilia-Romagna, it","Parma, Emilia-Romagna, it",85685339,it,1,Emilia-Romagna,1,Parma
+it/45/ra,"Emilia-Romagna, it","Ravenna, Emilia-Romagna, it",85685363,it,1,Emilia-Romagna,1,Ravenna
+it/45/re,"Emilia-Romagna, it","Reggio Emilia, Emilia-Romagna, it",85685343,it,1,Emilia-Romagna,1,Reggio Emilia
+it/45/rn,"Emilia-Romagna, it","Rimini, Emilia-Romagna, it",85685675,it,1,Emilia-Romagna,1,Rimini
+it/52/firenze,"Tuscany, it","Firenze, Tuscany, it",85685407,it,1,Tuscany,1,Firenze
+it/52/statewide,"Tuscany, it","Tuscany, it",404227511,it,1,Tuscany,0,
+it/55/statewide,"Umbria, it","Umbria, it",85685443,it,1,Umbria,0,
+it/82/statewide,"Sicily, it","Sicily, it",85685627,it,1,Sicily,0,
+it/88/statewide,"Sardinia, it","Sardinia, it",85685717,it,1,Sardinia,0,
+it/countrywide,,,,it,0,,0,
+jm/august_town,"august town, jm","august town, jm",421194885,jm,1,august town,0,
+jm/countrywide,,,,jm,0,,0,
+jp/aichi,"aichi, jp","aichi, jp",85672731,jp,1,aichi,0,
+jp/akita,"akita, jp","akita, jp",85672825,jp,1,akita,0,
+jp/aomori,"aomori, jp","aomori, jp",85672831,jp,1,aomori,0,
+jp/chiba,"chiba, jp","chiba, jp",85672797,jp,1,chiba,0,
+jp/ehime,"ehime, jp","ehime, jp",85672711,jp,1,ehime,0,
+jp/fukui,"fukui, jp","fukui, jp",85672767,jp,1,fukui,0,
+jp/fukuoka,"fukuoka, jp","fukuoka, jp",85672697,jp,1,fukuoka,0,
+jp/fukushima,"fukushima, jp","fukushima, jp",85672835,jp,1,fukushima,0,
+jp/gifu,"gifu, jp","gifu, jp",85672735,jp,1,gifu,0,
+jp/gunma,"gunma, jp","gunma, jp",85672871,jp,1,gunma,0,
+jp/hiroshima,"hiroshima, jp","hiroshima, jp",85672671,jp,1,hiroshima,0,
+jp/hokkaido,"hokkaido, jp","hokkaido, jp",85672761,jp,1,hokkaido,0,
+jp/hyogo,"hyogo, jp","hyogo, jp",85672769,jp,1,hyogo,0,
+jp/ibaraki,"ibaraki, jp","ibaraki, jp",85672801,jp,1,ibaraki,0,
+jp/ishikawa,"ishikawa, jp","ishikawa, jp",85672741,jp,1,ishikawa,0,
+jp/iwate,"iwate, jp","iwate, jp",85672839,jp,1,iwate,0,
+jp/kagawa,"kagawa, jp","kagawa, jp",85672715,jp,1,kagawa,0,
+jp/kagoshima,"kagoshima, jp","kagoshima, jp",85672861,jp,1,kagoshima,0,
+jp/kanagawa,"kanagawa, jp","kanagawa, jp",85672805,jp,1,kanagawa,0,
+jp/kochi,"kochi, jp","kochi, jp",85672717,jp,1,kochi,0,
+jp/kumamoto,"kumamoto, jp","kumamoto, jp",85672703,jp,1,kumamoto,0,
+jp/kyoto,"kyoto, jp","kyoto, jp",85672777,jp,1,kyoto,0,
+jp/mie,"mie, jp","mie, jp",85672745,jp,1,mie,0,
+jp/miyagi,"miyagi, jp","miyagi, jp",85672843,jp,1,miyagi,0,
+jp/miyazaki,"miyazaki, jp","miyazaki, jp",85672707,jp,1,miyazaki,0,
+jp/nagano,"nagano, jp","nagano, jp",85672749,jp,1,nagano,0,
+jp/nagasaki,"nagasaki, jp","nagasaki, jp",85672857,jp,1,nagasaki,0,
+jp/nara,"nara, jp","nara, jp",85672779,jp,1,nara,0,
+jp/niigata,"niigata, jp","niigata, jp",85672849,jp,1,niigata,0,
+jp/oita,"oita, jp","oita, jp",85672723,jp,1,oita,0,
+jp/okayama,"okayama, jp","okayama, jp",85672675,jp,1,okayama,0,
+jp/okinawa,"okinawa, jp","okinawa, jp",85672867,jp,1,okinawa,0,
+jp/osaka,"osaka, jp","osaka, jp",85672785,jp,1,osaka,0,
+jp/saga,"saga, jp","saga, jp",85672695,jp,1,saga,0,
+jp/saitama,"saitama, jp","saitama, jp",85672807,jp,1,saitama,0,
+jp/shiga,"shiga, jp","shiga, jp",85672789,jp,1,shiga,0,
+jp/shimane,"shimane, jp","shimane, jp",85672679,jp,1,shimane,0,
+jp/shizuoka,"shizuoka, jp","shizuoka, jp",85672753,jp,1,shizuoka,0,
+jp/tochigi,"tochigi, jp","tochigi, jp",85672813,jp,1,tochigi,0,
+jp/tokushima,"tokushima, jp","tokushima, jp",85672729,jp,1,tokushima,0,
+jp/tokyo,"tokyo, jp","tokyo, jp",85672817,jp,1,tokyo,0,
+jp/tottori,"tottori, jp","tottori, jp",85672685,jp,1,tottori,0,
+jp/toyama,"toyama, jp","toyama, jp",85672759,jp,1,toyama,0,
+jp/wakayama,"wakayama, jp","wakayama, jp",85672795,jp,1,wakayama,0,
+jp/yamagata,"yamagata, jp","yamagata, jp",85672853,jp,1,yamagata,0,
+jp/yamaguchi,"yamaguchi, jp","yamaguchi, jp",85672689,jp,1,yamaguchi,0,
+jp/yamanashi,"yamanashi, jp","yamanashi, jp",85672821,jp,1,yamanashi,0,
+kr/11/provincewide,"Seoul, kr","Seoul, kr",102026327,kr,1,Seoul,0,
+kr/26/provincewide,"Busan, kr","Busan, kr",102026353,kr,1,Busan,0,
+kr/27/provincewide,"Daego, kr","Daego, kr",85632231,kr,1,Daego,0,
+kr/28/provincewide,"Incheon, kr","Incheon, kr",85673177,kr,1,Incheon,0,
+kr/29/provincewide,"Gwangzu, kr","Gwangzu, kr",85632231,kr,1,Gwangzu,0,
+kr/30/provincewide,"Daejeon, kr","Daejeon, kr",85673207,kr,1,Daejeon,0,
+kr/31/provincewide,"Ulsan, kr","Ulsan, kr",85673231,kr,1,Ulsan,0,
+kr/41/provincewide,"Gyeonggi, kr","Gyeonggi, kr",85673191,kr,1,Gyeonggi,0,
+kr/42/provincewide,"Gangwon, kr","Gangwon, kr",85673181,kr,1,Gangwon,0,
+kr/43/provincewide,"North Chungcheong, kr","North Chungcheong, kr",85673173,kr,1,North Chungcheong,0,
+kr/44/provincewide,"South Chungcheong, kr","South Chungcheong, kr",85673203,kr,1,South Chungcheong,0,
+kr/45/provincewide,"North Jeolla, kr","North Jeolla, kr",85673195,kr,1,North Jeolla,0,
+kr/46/provincewide,"South Jeolla, kr","South Jeolla, kr",85673219,kr,1,South Jeolla,0,
+kr/47/provincewide,"North Gyeongsang, kr","North Gyeongsang, kr",85673233,kr,1,North Gyeongsang,0,
+kr/48/provincewide,"South Gyeongsang, kr","South Gyeongsang, kr",85673215,kr,1,South Gyeongsang,0,
+kr/49/provincewide,"Jeju, kr","Jeju, kr",85673237,kr,1,Jeju,0,
+kr/50/provincewide,"Sejong, kr","Sejong, kr",85673243,kr,1,Sejong,0,
+kr/seoul/chongnogu-new,"seoul, kr","Chongnogu, seoul, kr",102026327,kr,1,seoul,1,Chongnogu
+kr/seoul/chongnogu-old,"seoul, kr","Chongnogu, seoul, kr",102026327,kr,1,seoul,1,Chongnogu
+kr/seoul/chunggu-new,"seoul, kr","Chunggu, seoul, kr",102026327,kr,1,seoul,1,Chunggu
+kr/seoul/chunggu-old,"seoul, kr","Chunggu, seoul, kr",102026327,kr,1,seoul,1,Chunggu
+kr/seoul/chungnanggu-new,"seoul, kr","Chungnanggu, seoul, kr",102026327,kr,1,seoul,1,Chungnanggu
+kr/seoul/chungnanggu-old,"seoul, kr","Chungnanggu, seoul, kr",102026327,kr,1,seoul,1,Chungnanggu
+kr/seoul/kangbukku-new,"seoul, kr","kangbukku, seoul, kr",890473235,kr,1,seoul,1,kangbukku
+kr/seoul/kangbukku-old,"seoul, kr","kangbukku, seoul, kr",890473235,kr,1,seoul,1,kangbukku
+kr/seoul/kangdonggu-new,"seoul, kr","kangdonggu, seoul, kr",102026327,kr,1,seoul,1,kangdonggu
+kr/seoul/kangdonggu-old,"seoul, kr","kangdonggu, seoul, kr",102026327,kr,1,seoul,1,kangdonggu
+kr/seoul/kangnamgu-new,"seoul, kr","kangnamgu, seoul, kr",102026327,kr,1,seoul,1,kangnamgu
+kr/seoul/kangnamgu-old,"seoul, kr","kangnamgu, seoul, kr",102026327,kr,1,seoul,1,kangnamgu
+kr/seoul/kangseogu-new,"seoul, kr","kangseogu, seoul, kr",102026327,kr,1,seoul,1,kangseogu
+kr/seoul/kangseogu-old,"seoul, kr","kangseogu, seoul, kr",102026327,kr,1,seoul,1,kangseogu
+kr/seoul/keumcheongu-new,"seoul, kr","keumcheongu, seoul, kr",102026327,kr,1,seoul,1,keumcheongu
+kr/seoul/keumcheongu-old,"seoul, kr","keumcheongu, seoul, kr",102026327,kr,1,seoul,1,keumcheongu
+kr/seoul/kurogu-new,"seoul, kr","kurogu, seoul, kr",102026327,kr,1,seoul,1,kurogu
+kr/seoul/kurogu-old,"seoul, kr","kurogu, seoul, kr",102026327,kr,1,seoul,1,kurogu
+kr/seoul/kwanakku-new,"seoul, kr","kwanakku, seoul, kr",102026327,kr,1,seoul,1,kwanakku
+kr/seoul/kwanakku-old,"seoul, kr","kwanakku, seoul, kr",102026327,kr,1,seoul,1,kwanakku
+kr/seoul/kwangjingu-new,"seoul, kr","kwangjingu, seoul, kr",102026327,kr,1,seoul,1,kwangjingu
+kr/seoul/kwangjingu-old,"seoul, kr","kwangjingu, seoul, kr",102026327,kr,1,seoul,1,kwangjingu
+kr/seoul/mapogu-new,"seoul, kr","mapogu, seoul, kr",890473201,kr,1,seoul,1,mapogu
+kr/seoul/mapogu-old,"seoul, kr","mapogu, seoul, kr",890473201,kr,1,seoul,1,mapogu
+kr/seoul/noweongu-new,"seoul, kr","noweongu, seoul, kr",102026327,kr,1,seoul,1,noweongu
+kr/seoul/noweongu-old,"seoul, kr","noweongu, seoul, kr",102026327,kr,1,seoul,1,noweongu
+kr/seoul/seochogu-new,"seoul, kr","seochogu, seoul, kr",890473319,kr,1,seoul,1,seochogu
+kr/seoul/seochogu-old,"seoul, kr","seochogu, seoul, kr",890473319,kr,1,seoul,1,seochogu
+kr/seoul/seodaemungu-new,"seoul, kr","seodaemungu, seoul, kr",890472895,kr,1,seoul,1,seodaemungu
+kr/seoul/seodaemungu-old,"seoul, kr","seodaemungu, seoul, kr",890472895,kr,1,seoul,1,seodaemungu
+kr/seoul/seongbukku-new,"seoul, kr","seongbukku, seoul, kr",102026327,kr,1,seoul,1,seongbukku
+kr/seoul/seongbukku-old,"seoul, kr","seongbukku, seoul, kr",102026327,kr,1,seoul,1,seongbukku
+kr/seoul/seongdonggu-new,"seoul, kr","seongdonggu, seoul, kr",890473253,kr,1,seoul,1,seongdonggu
+kr/seoul/seongdonggu-old,"seoul, kr","seongdonggu, seoul, kr",890473253,kr,1,seoul,1,seongdonggu
+kr/seoul/songpagu-new,"seoul, kr","songpagu, seoul, kr",890473255,kr,1,seoul,1,songpagu
+kr/seoul/songpagu-old,"seoul, kr","songpagu, seoul, kr",890473255,kr,1,seoul,1,songpagu
+kr/seoul/tobonggu-new,"seoul, kr","tobonggu, seoul, kr",102026327,kr,1,seoul,1,tobonggu
+kr/seoul/tobonggu-old,"seoul, kr","tobonggu, seoul, kr",102026327,kr,1,seoul,1,tobonggu
+kr/seoul/tongdaemungu-new,"seoul, kr","tongdaemungu, seoul, kr",102026327,kr,1,seoul,1,tongdaemungu
+kr/seoul/tongdaemungu-old,"seoul, kr","tongdaemungu, seoul, kr",102026327,kr,1,seoul,1,tongdaemungu
+kr/seoul/tongjakku-new,"seoul, kr","tongjakku, seoul, kr",102026327,kr,1,seoul,1,tongjakku
+kr/seoul/tongjakku-old,"seoul, kr","tongjakku, seoul, kr",102026327,kr,1,seoul,1,tongjakku
+kr/seoul/yangcheongu-new,"seoul, kr","yangcheongu, seoul, kr",890472299,kr,1,seoul,1,yangcheongu
+kr/seoul/yangcheongu-old,"seoul, kr","yangcheongu, seoul, kr",890472299,kr,1,seoul,1,yangcheongu
+kr/seoul/yeongdeungpogu-new,"seoul, kr","yeongdeungpogu, seoul, kr",890473231,kr,1,seoul,1,yeongdeungpogu
+kr/seoul/yeongdeungpogu-old,"seoul, kr","yeongdeungpogu, seoul, kr",890473231,kr,1,seoul,1,yeongdeungpogu
+kr/seoul/yongsangu-new,"seoul, kr","yongsangu, seoul, kr",890475295,kr,1,seoul,1,yongsangu
+kr/seoul/yongsangu-old,"seoul, kr","yongsangu, seoul, kr",890475295,kr,1,seoul,1,yongsangu
+kw/countrywide-arabic,,,,kw,0,,0,
+kw/countrywide-latin,,,,kw,0,,0,
+kz/ala-statewide,,,,kz,0,,0,
+kz/asa-statewide,,,,kz,0,,0,
+kz/countrywide,,,,kz,0,,0,
+li/countrywide,,,,li,0,,0,
+lt/city_of_vilnius,,"Vilinius, lt",85633269,lt,0,,1,Vilinius
+lt/countrywide,,,,lt,0,,0,
+lu/countrywide,,,,lu,0,,0,
+lv/city_of_riga,,"Riga, lv",101751789,lv,0,,1,Riga
+mx/agu/statewide,"agu, mx","agu, mx",85686637,mx,1,agu,0,
+mx/bcn/statewide,"bcn, mx","bcn, mx",85686541,mx,1,bcn,0,
+mx/bcs/statewide,"bcs, mx","bcs, mx",85686555,mx,1,bcs,0,
+mx/cam/statewide,"cam, mx","cam, mx",85686707,mx,1,cam,0,
+mx/chh/statewide,"chh, mx","chh, mx",85686581,mx,1,chh,0,
+mx/chp/statewide,"chp, mx","chp, mx",85686611,mx,1,chp,0,
+mx/cmx/statewide,"cmx, mx","cmx, mx",85633293,mx,1,cmx,0,
+mx/coa/statewide,"coa, mx","coa, mx",85686689,mx,1,coa,0,
+mx/col/statewide,"col, mx","col, mx",85686587,mx,1,col,0,
+mx/countrywide,,,,mx,0,,0,
+mx/dur/statewide,"dur, mx","dur, mx",85686573,mx,1,dur,0,
+mx/gro/statewide,"gro, mx","gro, mx",85686517,mx,1,gro,0,
+mx/gua/statewide,"gua, mx","gua, mx",85686629,mx,1,gua,0,
+mx/hid/statewide,"hid, mx","hid, mx",85686665,mx,1,hid,0,
+mx/jal/statewide,"jal, mx","jal, mx",85686603,mx,1,jal,0,
+mx/mex/statewide,"mex, mx","mex, mx",85686527,mx,1,mex,0,
+mx/mic/statewide,"mic, mx","mic, mx",85686595,mx,1,mic,0,
+mx/mor/statewide,"mor, mx","mor, mx",85686531,mx,1,mor,0,
+mx/nay/statewide,"nay, mx","nay, mx",85686591,mx,1,nay,0,
+mx/nle/statewide,"nle, mx","nle, mx",85686681,mx,1,nle,0,
+mx/oax/statewide,"oax, mx","oax, mx",85686623,mx,1,oax,0,
+mx/pue/statewide,"pue, mx","pue, mx",85686657,mx,1,pue,0,
+mx/que/statewide,"que, mx","que, mx",85686641,mx,1,que,0,
+mx/roo/statewide,"roo, mx","roo, mx",85686711,mx,1,roo,0,
+mx/sin/statewide,"sin, mx","sin, mx",85686535,mx,1,sin,0,
+mx/slp/statewide,"slp, mx","slp, mx",85686647,mx,1,slp,0,
+mx/son/statewide,"son, mx","son, mx",85686549,mx,1,son,0,
+mx/tab/statewide,"tab, mx","tab, mx",85686617,mx,1,tab,0,
+mx/tam/statewide,"tam, mx","tam, mx",85686695,mx,1,tam,0,
+mx/tla/statewide,"tla, mx","tla, mx",85686653,mx,1,tla,0,
+mx/ver/statewide,"ver, mx","ver, mx",85686671,mx,1,ver,0,
+mx/yuc/statewide,"yuc, mx","yuc, mx",85686701,mx,1,yuc,0,
+mx/zac/statewide,"zac, mx","zac, mx",85686567,mx,1,zac,0,
+nc/countrywide,,,,nc,0,,0,
+nl/countrywide,,,,nl,0,,0,
+no/countrywide,,,,no,0,,0,
+nz/bay_of_plenty/rotorua,"bay of plenty, nz","Rotorua, bay of plenty, nz",101914629,nz,1,bay of plenty,1,Rotorua
+nz/city_of_palmerston_north,,"Palmerston North, nz",101914259,nz,0,,1,Palmerston North
+nz/countrywide,,,,nz,0,,0,
+nz/greater_wellington,"greater wellington, nz","greater wellington, nz",85687233,nz,1,greater wellington,0,
+pl/dolnoslaskie,"dolnoslaskie, pl","dolnoslaskie, pl",85687301,pl,1,dolnoslaskie,0,
+pl/kujawsko-pomorskie,"kujawsko-pomorskie, pl","kujawsko-pomorskie, pl",85687319,pl,1,kujawsko-pomorskie,0,
+pl/lodzkie,"lodzkie, pl","lodzkie, pl",85687261,pl,1,lodzkie,0,
+pl/lubelskie,"lubelskie, pl","lubelskie, pl",85687309,pl,1,lubelskie,0,
+pl/lubuskie,"lubuskie, pl","lubuskie, pl",85687327,pl,1,lubuskie,0,
+pl/malopolski,"malopolski, pl","malopolski, pl",85633723,pl,1,malopolski,0,
+pl/mazowieckie,"mazowieckie, pl","mazowieckie, pl",85687257,pl,1,mazowieckie,0,
+pl/opolskie,"opolskie, pl","opolskie, pl",85687313,pl,1,opolskie,0,
+pl/podkarpackie,"podkarpackie, pl","podkarpackie, pl",85687295,pl,1,podkarpackie,0,
+pl/podlaskie,"podlaskie, pl","podlaskie, pl",85687283,pl,1,podlaskie,0,
+pl/pomorskie,"pomorskie, pl","pomorskie, pl",85687267,pl,1,pomorskie,0,
+pl/slaskie,"slaskie, pl","slaskie, pl",85687277,pl,1,slaskie,0,
+pl/swietokrzyskie,"swietokrzyskie, pl","swietokrzyskie, pl",85687287,pl,1,swietokrzyskie,0,
+pl/warminsko-mazurskie,"warminsko-mazurskie, pl","warminsko-mazurskie, pl",85687305,pl,1,warminsko-mazurskie,0,
+pl/wielkopolskie,"wielkopolskie, pl","wielkopolskie, pl",85687323,pl,1,wielkopolskie,0,
+pl/zachodniopomorskie,"zachodniopomorskie, pl","zachodniopomorskie, pl",85687271,pl,1,zachodniopomorskie,0,
+pt/countrywide,,,,pt,0,,0,
+qa/qatar,"qatar, qa","qatar, qa",85632299,qa,1,qatar,0,
+ro/bucharest-metro,"bucharest, ro","bucharest, ro",85687595,ro,1,bucharest,0,
+ro/bucharest,"bucharest, ro","bucharest, ro",85687595,ro,1,bucharest,0,
+ru/ce/argun,"ce, ru","argun, ce, ru",102016645,ru,1,ce,1,argun
+ru/ce/gikalo,"ce, ru","gikalo, ce, ru",85632685,ru,1,ce,1,gikalo
+ru/ce/grozny,"ce, ru","grozny, ce, ru",102016663,ru,1,ce,1,grozny
+ru/ce/gudermes,"ce, ru","gudermes, ce, ru",102016621,ru,1,ce,1,gudermes
+ru/ce/kurchaloy,"ce, ru","kurchaloy, ce, ru",102016693,ru,1,ce,1,kurchaloy
+ru/khm/regionwide,"khm, ru","khm, ru",85632685,ru,1,khm,0,
+ru/ko/statewide,"ko, ru","ko, ru",85632685,ru,1,ko,0,
+ru/mow/statewide,"mow, ru","mow, ru",102003033,ru,1,mow,0,
+ru/nen/regionwide,"nen, ru","nen, ru",85632685,ru,1,nen,0,
+ru/nvs/statewide,"nvs, ru","nvs, ru",85632685,ru,1,nvs,0,
+ru/spe/statewide,"spe, ru","spe, ru",85632685,ru,1,spe,0,
+ru/tyu/regionwide,"tyu, ru","tyu, ru",85632685,ru,1,tyu,0,
+ru/vgg/statewide,"vgg, ru","vgg, ru",85632685,ru,1,vgg,0,
+ru/yan/regionwide,"yan, ru","yan, ru",85632685,ru,1,yan,0,
+sa/al-madinah/yanbu-ar,"al-madinah, sa","Yanbu, al-madinah, sa",1125924303,sa,1,al-madinah,1,Yanbu
+sa/al-madinah/yanbu-en,"al-madinah, sa","Yanbu, al-madinah, sa",1125924303,sa,1,al-madinah,1,Yanbu
+se/municipality_of_alingsas,"alingsas, se","alingsas, se",1125381931,se,1,alingsas,0,
+se/municipality_of_gislaved,"gislaved, se","gislaved, se",1125417571,se,1,gislaved,0,
+se/municipality_of_helsingborg,"helsingborg, se","helsingborg, se",101752277,se,1,helsingborg,0,
+se/municipality_of_hoganas,"hoganas, se","hoganas, se",101816585,se,1,hoganas,0,
+se/municipality_of_kalmar,"kalmar, se","kalmar, se",1125288033,se,1,kalmar,0,
+se/municipality_of_kristinehamn,"kristinehamn, se","kristinehamn, se",1125363615,se,1,kristinehamn,0,
+se/municipality_of_malmo,"malmo, se","malmo, se",101752283,se,1,malmo,0,
+se/municipality_of_nacka,"nacka, se","nacka, se",1125394711,se,1,nacka,0,
+se/municipality_of_savsj√∂,"savsjo, se","savsjo, se",1125394651,se,1,savsjo,0,
+se/municipality_of_stockholm,"stockholm, se","stockholm, se",85688429,se,1,stockholm,0,
+se/municipality_of_uppsala,"uppsala, se","uppsala, se",85688439,se,1,uppsala,0,
+se/municipality_of_vasteras,"vasteras, se","vasteras, se",101752303,se,1,vasteras,0,
+se/municipality_of_vaxholm,"vaxholm, se","vaxholm, se",1125283877,se,1,vaxholm,0,
+se/municipality_of_vaxjo,"vaxjo, se","vaxjo, se",101816705,se,1,vaxjo,0,
+se/municipality_of_√ñster√•ker,"Osteraker, se","Osteraker, se",1125382353,se,1,Osteraker,0,
+sg/countrywide,,,,sg,0,,0,
+si/countrywide,,,,si,0,,0,
+sk/countrywide,,,,sk,0,,0,
+tw/cyi/regionwide,"cyi, tw","cyi, tw",85632403,tw,1,cyi,0,
+tw/hua/regionwide,"hua, tw","hua, tw",85632403,tw,1,hua,0,
+tw/ila/datong,"ila, tw","datong, ila, tw",85632403,tw,1,ila,1,datong
+tw/ila/dongshan,"ila, tw","dongshan, ila, tw",102026615,tw,1,ila,1,dongshan
+tw/ila/jiaoxi,"ila, tw","jiaoxi, ila, tw",102026753,tw,1,ila,1,jiaoxi
+tw/ila/luodong,"ila, tw","luodong, ila, tw",85632403,tw,1,ila,1,luodong
+tw/ila/nan-ao,"ila, tw","nan-ao, ila, tw",85632403,tw,1,ila,1,nan-ao
+tw/ila/sanxing,"ila, tw","sanxing, ila, tw",85632403,tw,1,ila,1,sanxing
+tw/ila/suao,"ila, tw","suao, ila, tw",85632403,tw,1,ila,1,suao
+tw/ila/toucheng,"ila, tw","toucheng, ila, tw",890468305,tw,1,ila,1,toucheng
+tw/ila/wujie,"ila, tw","wujie, ila, tw",85632403,tw,1,ila,1,wujie
+tw/ila/yilan,"ila, tw","yilan, ila, tw",85679567,tw,1,ila,1,yilan
+tw/ila/yuanshan,"ila, tw","yuanshan, ila, tw",102026603,tw,1,ila,1,yuanshan
+tw/ila/zhuangwei,"ila, tw","zhuangwei, ila, tw",85632403,tw,1,ila,1,zhuangwei
+tw/khh/regionwide,"khh, tw","khh, tw",85632403,tw,1,khh,0,
+tw/mia/regionwide-en,"mia, tw","mia, tw",85632403,tw,1,mia,0,
+tw/mia/regionwide-zh,"mia, tw","mia, tw",85632403,tw,1,mia,0,
+tw/nwt/regionwide,"nwt, tw","nwt, tw",85632403,tw,1,nwt,0,
+tw/tao/regionwide,"tao, tw","tao, tw",85632403,tw,1,tao,0,
+tw/tnn/regionwide,"tnn, tw","tnn, tw",85632403,tw,1,tnn,0,
+tw/tpe/regionwide,"tpe, tw","tpe, tw",85632403,tw,1,tpe,0,
+tw/txg/regionwide,"txg, tw","txg, tw",85632403,tw,1,txg,0,
+ua/12/city_of_dnipropetrovsk,,"dnipropetrovsk, ua",85688797,ua,0,,1,dnipropetrovsk
+ua/63/city_of_kharkiv,,"kharkiv, ua",85688873,ua,0,,1,kharkiv
+us/ak/anchorage,"ak, us","anchorage, ak, us",85915707,us,1,ak,1,anchorage
+us/ak/city_of_juneau,"ak, us","juneau, ak, us",85915729,us,1,ak,1,juneau
+us/ak/fairbanks_north_star_borough,"ak, us","FairBanks North Star, ak, us",102081397,us,1,ak,1,FairBanks North Star
+us/ak/haines,"ak, us","Haines, ak, us",102083767,us,1,ak,1,Haines
+us/ak/kenai_peninsula_borough,"ak, us","Kenai Peninsula, ak, us",102081909,us,1,ak,1,Kenai Peninsula
+us/ak/ketchikan,"ak, us","Ketchikan, ak, us",85916051,us,1,ak,1,Ketchikan
+us/ak/kodiak_island_borough,"ak, us","Kodiak Island, ak, us",102081005,us,1,ak,1,Kodiak Island
+us/ak/matanuska_susitna_borough,"ak, us","Matanuska Susitna, ak, us",102081903,us,1,ak,1,Matanuska Susitna
+us/ak/yakutat_borough,"ak, us","Yakutat, ak, us",102081907,us,1,ak,1,Yakutat
+us/al/autauga,"al, us","autauga, al, us",102085509,us,1,al,1,autauga
+us/al/baldwin,"al, us","baldwin, al, us",102085469,us,1,al,1,baldwin
+us/al/bibb,"al, us","bibb, al, us",102085501,us,1,al,1,bibb
+us/al/blount,"al, us","blount, al, us",102085667,us,1,al,1,blount
+us/al/bullock,"al, us","bullock, al, us",102085655,us,1,al,1,bullock
+us/al/calhoun,"al, us","calhoun, al, us",102085603,us,1,al,1,calhoun
+us/al/city_of_auburn,"al, us","auburn, al, us",85913825,us,1,al,1,auburn
+us/al/city_of_huntsville,"al, us","huntsville, al, us",85913601,us,1,al,1,huntsville
+us/al/city_of_mobile,"al, us","mobile, al, us",102085585,us,1,al,1,mobile
+us/al/city_of_robertsdale,"al, us","robertsdale, al, us",85914733,us,1,al,1,robertsdale
+us/al/colbert,"al, us","colbert, al, us",102085625,us,1,al,1,colbert
+us/al/cullman,"al, us","cullman, al, us",102085729,us,1,al,1,cullman
+us/al/elmore,"al, us","elmore, al, us",102085631,us,1,al,1,elmore
+us/al/etowah,"al, us","etowah, al, us",102085545,us,1,al,1,etowah
+us/al/franklin,"al, us","franklin, al, us",102085511,us,1,al,1,franklin
+us/al/houston,"al, us","houston, al, us",102085441,us,1,al,1,houston
+us/al/jackson,"al, us","jackson, al, us",102085607,us,1,al,1,jackson
+us/al/jefferson,"al, us","jefferson, al, us",102085481,us,1,al,1,jefferson
+us/al/lauderdale,"al, us","lauderdale, al, us",102085527,us,1,al,1,lauderdale
+us/al/lawrence,"al, us","lawrence, al, us",102085601,us,1,al,1,lawrence
+us/al/limestone,"al, us","limestone, al, us",102085489,us,1,al,1,limestone
+us/al/madison,"al, us","madison, al, us",102085487,us,1,al,1,madison
+us/al/marengo,"al, us","marengo, al, us",102085423,us,1,al,1,marengo
+us/al/marshall,"al, us","marshall, al, us",102085513,us,1,al,1,marshall
+us/al/montgomery,"al, us","montgomery, al, us",102085733,us,1,al,1,montgomery
+us/al/morgan,"al, us","morgan, al, us",102085531,us,1,al,1,morgan
+us/al/pickens,"al, us","pickens, al, us",102085539,us,1,al,1,pickens
+us/al/pike,"al, us","pike, al, us",102085619,us,1,al,1,pike
+us/al/shelby,"al, us","shelby, al, us",102085499,us,1,al,1,shelby
+us/al/st_clair,"al, us","St Clair, al, us",102085647,us,1,al,1,St Clair
+us/al/talladega,"al, us","talladega, al, us",102085517,us,1,al,1,talladega
+us/al/tuscaloosa,"al, us","tuscaloosa, al, us",102085553,us,1,al,1,tuscaloosa
+us/al/washington,"al, us","washington, al, us",102085635,us,1,al,1,washington
+us/ar/boone,"ar, us","boone, ar, us",102083249,us,1,ar,1,boone
+us/ar/city_of_fayetteville,"ar, us","fayetteville, ar, us",85919609,us,1,ar,1,fayetteville
+us/ar/statewide,"ar, us","ar, us",85688549,us,1,ar,0,
+us/az/city_of_flagstaff,"az, us","flagstaff, az, us",85917421,us,1,az,1,flagstaff
+us/az/city_of_gilbert,"az, us","gilbert, az, us",85917513,us,1,az,1,gilbert
+us/az/city_of_glendale,"az, us","glendale, az, us",85917509,us,1,az,1,glendale
+us/az/city_of_mesa,"az, us","mesa, az, us",85917491,us,1,az,1,mesa
+us/az/city_of_scottsdale,"az, us","scottsdale, az, us",85917475,us,1,az,1,scottsdale
+us/az/cochise,"az, us","cochise, az, us",102087425,us,1,az,1,cochise
+us/az/coconino,"az, us","coconino, az, us",102086831,us,1,az,1,coconino
+us/az/gila,"az, us","gila, az, us",102081525,us,1,az,1,gila
+us/az/maricopa,"az, us","maricopa, az, us",102087421,us,1,az,1,maricopa
+us/az/mohave,"az, us","mohave, az, us",102087427,us,1,az,1,mohave
+us/az/pima,"az, us","pima, az, us",102081135,us,1,az,1,pima
+us/az/pinal,"az, us","pinal, az, us",102081547,us,1,az,1,pinal
+us/az/santa_cruz,"az, us","Santa Cruz, az, us",102086827,us,1,az,1,Santa Cruz
+us/az/yavapai,"az, us","yavapai, az, us",102081535,us,1,az,1,yavapai
+us/az/yuma,"az, us","yuma, az, us",102081527,us,1,az,1,yuma
+us/ca/alameda,"ca, us","alameda, ca, us",102086959,us,1,ca,1,alameda
+us/ca/alpine,"ca, us","alpine, ca, us",85925309,us,1,ca,1,alpine
+us/ca/amador,"ca, us","amador, ca, us",102080865,us,1,ca,1,amador
+us/ca/berkeley,"ca, us","berkeley, ca, us",85921915,us,1,ca,1,berkeley
+us/ca/butte,"ca, us","butte, ca, us",102086941,us,1,ca,1,butte
+us/ca/calaveras,"ca, us","calaveras, ca, us",102080867,us,1,ca,1,calaveras
+us/ca/city_of_anaheim,"ca, us","colusa, ca, us",102080851,us,1,ca,1,colusa
+us/ca/city_of_bakersfield,"ca, us","bakersfield, ca, us",85923307,us,1,ca,1,bakersfield
+us/ca/city_of_brea,"ca, us","brea, ca, us",85923165,us,1,ca,1,brea
+us/ca/city_of_burbank,"ca, us","burbank, ca, us",85923691,us,1,ca,1,burbank
+us/ca/city_of_carson,"ca, us","carson, ca, us",85923683,us,1,ca,1,carson
+us/ca/city_of_cupertino,"ca, us","cupertino, ca, us",85922393,us,1,ca,1,cupertino
+us/ca/city_of_elk_grove,"ca, us","elk grove, ca, us",85922869,us,1,ca,1,elk grove
+us/ca/city_of_fullerton,"ca, us","fullerton, ca, us",85923145,us,1,ca,1,fullerton
+us/ca/city_of_garden_grove,"ca, us","garden grove, ca, us",85923141,us,1,ca,1,garden grove
+us/ca/city_of_hayward,"ca, us","hayward, ca, us",85921895,us,1,ca,1,hayward
+us/ca/city_of_huntington_beach,"ca, us","huntington beach, ca, us",85923137,us,1,ca,1,huntington beach
+us/ca/city_of_irvine,"ca, us","irvine, ca, us",85923131,us,1,ca,1,irvine
+us/ca/city_of_laguna_niguel,"ca, us","laguna niguel, ca, us",85923115,us,1,ca,1,laguna niguel
+us/ca/city_of_lake_forest,"ca, us","lake forest, ca, us",85923103,us,1,ca,1,lake forest
+us/ca/city_of_long_beach,"ca, us","long beach, ca, us",85923525,us,1,ca,1,long beach
+us/ca/city_of_los_angeles,"ca, us","los angeles, ca, us",102086957,us,1,ca,1,los angeles
+us/ca/city_of_manteca,"ca, us","manteca, ca, us",85923263,us,1,ca,1,manteca
+us/ca/city_of_mountain_view,"ca, us","mountain view, ca, us",85922355,us,1,ca,1,mountain view
+us/ca/city_of_newport_beach,"ca, us","newport beach, ca, us",85923075,us,1,ca,1,newport beach
+us/ca/city_of_orange,"ca, us","orange, ca, us",102080847,us,1,ca,1,orange
+us/ca/city_of_palo_alto,"ca, us","palo alto, ca, us",85922351,us,1,ca,1,palo alto
+us/ca/city_of_rancho_cucamonga,"ca, us","rancho cucamonga, ca, us",85923937,us,1,ca,1,rancho cucamonga
+us/ca/city_of_riverside,"ca, us","riverside, ca, us",102086221,us,1,ca,1,riverside
+us/ca/city_of_roseville,"ca, us","roseville, ca, us",85921799,us,1,ca,1,roseville
+us/ca/city_of_san_diego,"ca, us","san diego, ca, us",102083569,us,1,ca,1,san diego
+us/ca/city_of_san_jose,"ca, us","san jose, ca, us",85922347,us,1,ca,1,san jose
+us/ca/city_of_san_jose2,"ca, us","san jose2, ca, us",85922227,us,1,ca,1,san jose2
+us/ca/city_of_san_juan_capistrano,"ca, us","san juan capistrano, ca, us",85923053,us,1,ca,1,san juan capistrano
+us/ca/city_of_san_luis_obispo,"ca, us","san luis obispo, ca, us",102085385,us,1,ca,1,san luis obispo
+us/ca/city_of_santa_clara,"ca, us","santa clara, ca, us",102081673,us,1,ca,1,santa clara
+us/ca/city_of_santa_cruz,"ca, us","santa cruz, ca, us",102087581,us,1,ca,1,santa cruz
+us/ca/city_of_sunnyvale,"ca, us","sunnyvale, ca, us",85922333,us,1,ca,1,sunnyvale
+us/ca/city_of_temecula,"ca, us","temecula, ca, us",85923337,us,1,ca,1,temecula
+us/ca/city_of_visalia,"ca, us","visalia, ca, us",85922461,us,1,ca,1,visalia
+us/ca/colusa,"ca, us","ca, us",85688637,us,1,ca,1,
+us/ca/contra_costa,"ca, us","contra costa, ca, us",102086225,us,1,ca,1,contra costa
+us/ca/del_norte,"ca, us","del norte, ca, us",102084361,us,1,ca,1,del norte
+us/ca/el_dorado,"ca, us","el dorado, ca, us",102086953,us,1,ca,1,el dorado
+us/ca/fresno,"ca, us","fresno, ca, us",102084347,us,1,ca,1,fresno
+us/ca/glenn,"ca, us","glenn, ca, us",102084355,us,1,ca,1,glenn
+us/ca/humboldt,"ca, us","humboldt, ca, us",102087587,us,1,ca,1,humboldt
+us/ca/imperial,"ca, us","imperial, ca, us",102080869,us,1,ca,1,imperial
+us/ca/inyo,"ca, us","inyo, ca, us",102087577,us,1,ca,1,inyo
+us/ca/kern,"ca, us","kern, ca, us",102081727,us,1,ca,1,kern
+us/ca/kings,"ca, us","kings, ca, us",102087583,us,1,ca,1,kings
+us/ca/lake,"ca, us","lake, ca, us",102086949,us,1,ca,1,lake
+us/ca/lassen,"ca, us","lassen, ca, us",102084359,us,1,ca,1,lassen
+us/ca/los_angeles,"ca, us","los angeles, ca, us",102086957,us,1,ca,1,los angeles
+us/ca/madera,"ca, us","madera, ca, us",102082891,us,1,ca,1,madera
+us/ca/marin,"ca, us","marin, ca, us",102084353,us,1,ca,1,marin
+us/ca/mariposa,"ca, us","mariposa, ca, us",102084341,us,1,ca,1,mariposa
+us/ca/mendocino,"ca, us","mendocino, ca, us",102082885,us,1,ca,1,mendocino
+us/ca/merced,"ca, us","merced, ca, us",102087591,us,1,ca,1,merced
+us/ca/modoc,"ca, us","modoc, ca, us",102086951,us,1,ca,1,modoc
+us/ca/mono,"ca, us","mono, ca, us",102080857,us,1,ca,1,mono
+us/ca/monterey,"ca, us","monterey, ca, us",102080859,us,1,ca,1,monterey
+us/ca/napa,"ca, us","napa, ca, us",102085383,us,1,ca,1,napa
+us/ca/nevada,"ca, us","nevada, ca, us",102085391,us,1,ca,1,nevada
+us/ca/orange,"ca, us","orange, ca, us",102080847,us,1,ca,1,orange
+us/ca/placer,"ca, us","placer, ca, us",102080863,us,1,ca,1,placer
+us/ca/plumas,"ca, us","plumas, ca, us",102083573,us,1,ca,1,plumas
+us/ca/riverside,"ca, us","riverside, ca, us",102086221,us,1,ca,1,riverside
+us/ca/sacramento,"ca, us","sacramento, ca, us",102082889,us,1,ca,1,sacramento
+us/ca/san_benito,"ca, us","san benito, ca, us",102083575,us,1,ca,1,san benito
+us/ca/san_bernardino,"ca, us","san bernardino, ca, us",102085395,us,1,ca,1,san bernardino
+us/ca/san_diego,"ca, us","san diego, ca, us",102083569,us,1,ca,1,san diego
+us/ca/san_francisco,"ca, us","san francisco, ca, us",85922583,us,1,ca,1,san francisco
+us/ca/san_joaquin,"ca, us","san joaquin, ca, us",102085393,us,1,ca,1,san joaquin
+us/ca/san_luis_obispo,"ca, us","san luis obispo, ca, us",102085385,us,1,ca,1,san luis obispo
+us/ca/san_mateo,"ca, us","san mateo, ca, us",102085387,us,1,ca,1,san mateo
+us/ca/santa_barbara,"ca, us","santa barbara, ca, us",102080855,us,1,ca,1,santa barbara
+us/ca/santa_clara,"ca, us","santa clara, ca, us",102081673,us,1,ca,1,santa clara
+us/ca/santa_cruz,"ca, us","santa cruz, ca, us",102087581,us,1,ca,1,santa cruz
+us/ca/shasta,"ca, us","shasta, ca, us",102083577,us,1,ca,1,shasta
+us/ca/siskiyou,"ca, us","siskiyou, ca, us",102081669,us,1,ca,1,siskiyou
+us/ca/solano,"ca, us","solano, ca, us",102087589,us,1,ca,1,solano
+us/ca/sonoma,"ca, us","sonoma, ca, us",102081671,us,1,ca,1,sonoma
+us/ca/stanislaus,"ca, us","stanislaus, ca, us",102083579,us,1,ca,1,stanislaus
+us/ca/sutter,"ca, us","sutter, ca, us",102086219,us,1,ca,1,sutter
+us/ca/tehama,"ca, us","tehama, ca, us",102080849,us,1,ca,1,tehama
+us/ca/trinity,"ca, us","trinity, ca, us",102086223,us,1,ca,1,trinity
+us/ca/tulare,"ca, us","tulare, ca, us",102082895,us,1,ca,1,tulare
+us/ca/tuolumne,"ca, us","tuolumne, ca, us",102086939,us,1,ca,1,tuolumne
+us/ca/ventura,"ca, us","ventura, ca, us",102086933,us,1,ca,1,ventura
+us/ca/yolo,"ca, us","yolo, ca, us",102082309,us,1,ca,1,yolo
+us/ca/yuba,"ca, us","yuba, ca, us",102082893,us,1,ca,1,yuba
+us/co/adams,"co, us","adams, co, us",102084053,us,1,co,1,adams
+us/co/arapahoe,"co, us","arapahoe, co, us",102086877,us,1,co,1,arapahoe
+us/co/archuleta,"co, us","archuleta, co, us",102086131,us,1,co,1,archuleta
+us/co/boulder,"co, us","boulder, co, us",102085251,us,1,co,1,boulder
+us/co/broomfield,"co, us","broomfield, co, us",85929855,us,1,co,1,broomfield
+us/co/city_of_arvada,"co, us","arvada, co, us",85929333,us,1,co,1,arvada
+us/co/city_of_aurora,"co, us","aurora, co, us",85929235,us,1,co,1,aurora
+us/co/city_of_boulder,"co, us","boulder, co, us",102085251,us,1,co,1,boulder
+us/co/city_of_commerce_city,"co, us","commerce city, co, us",85929341,us,1,co,1,commerce city
+us/co/city_of_erie,"co, us","erie, co, us",85929033,us,1,co,1,erie
+us/co/city_of_fort_collins,"co, us","fort collins, co, us",85929679,us,1,co,1,fort collins
+us/co/city_of_frederick,"co, us","frederick, co, us",85929053,us,1,co,1,frederick
+us/co/city_of_greeley,"co, us","greeley, co, us",85929071,us,1,co,1,greeley
+us/co/city_of_littleton,"co, us","littleton, co, us",85929241,us,1,co,1,littleton
+us/co/city_of_loveland,"co, us","loveland, co, us",85929677,us,1,co,1,loveland
+us/co/city_of_thornton,"co, us","thornton, co, us",1125873259,us,1,co,1,thornton
+us/co/city_of_vail,"co, us","vail, co, us",85929223,us,1,co,1,vail
+us/co/city_of_westminster,"co, us","westminster, co, us",85929351,us,1,co,1,westminster
+us/co/clear_creek,"co, us","clear creek, co, us",102085243,us,1,co,1,clear creek
+us/co/conejos,"co, us","conejos, co, us",102083383,us,1,co,1,conejos
+us/co/delta,"co, us","delta, co, us",102084073,us,1,co,1,delta
+us/co/denver,"co, us","denver, co, us",85928879,us,1,co,1,denver
+us/co/douglas,"co, us","douglas, co, us",102085225,us,1,co,1,douglas
+us/co/eagle,"co, us","eagle, co, us",102083397,us,1,co,1,eagle
+us/co/el_paso,"co, us","el paso, co, us",102086875,us,1,co,1,el paso
+us/co/fremont,"co, us","fremont, co, us",102083363,us,1,co,1,fremont
+us/co/garfield,"co, us","garfield, co, us",102084085,us,1,co,1,garfield
+us/co/gilpin,"co, us","gilpin, co, us",102086133,us,1,co,1,gilpin
+us/co/grand,"co, us","grand, co, us",102085239,us,1,co,1,grand
+us/co/gunnison,"co, us","gunnison, co, us",102083377,us,1,co,1,gunnison
+us/co/jefferson,"co, us","jefferson, co, us",102084113,us,1,co,1,jefferson
+us/co/la_plata,"co, us","la plata, co, us",102084019,us,1,co,1,la plata
+us/co/larimer,"co, us","larimer, co, us",102083353,us,1,co,1,larimer
+us/co/logan,"co, us","logan, co, us",102085241,us,1,co,1,logan
+us/co/mesa,"co, us","mesa, co, us",102085221,us,1,co,1,mesa
+us/co/mineral,"co, us","mineral, co, us",102084103,us,1,co,1,mineral
+us/co/moffat,"co, us","moffat, co, us",102085247,us,1,co,1,moffat
+us/co/montezuma,"co, us","montezuma, co, us",102084099,us,1,co,1,montezuma
+us/co/montrose,"co, us","montrose, co, us",102086121,us,1,co,1,montrose
+us/co/morgan,"co, us","morgan, co, us",102084089,us,1,co,1,morgan
+us/co/park,"co, us","park, co, us",102086137,us,1,co,1,park
+us/co/pitkin,"co, us","pitkin, co, us",102084035,us,1,co,1,pitkin
+us/co/pueblo,"co, us","pueblo, co, us",102085233,us,1,co,1,pueblo
+us/co/rio_blanco,"co, us","rio blanco, co, us",102084117,us,1,co,1,rio blanco
+us/co/routt,"co, us","routt, co, us",102086129,us,1,co,1,routt
+us/co/sanmiguel,"co, us","sanmiguel, co, us",85688603,us,1,co,1,sanmiguel
+us/co/sedgwick,"co, us","sedgwick, co, us",102084121,us,1,co,1,sedgwick
+us/co/statewide,"co, us","co, us",85688603,us,1,co,0,
+us/co/summit,"co, us","summit, co, us",102084025,us,1,co,1,summit
+us/co/teller,"co, us","teller, co, us",102085249,us,1,co,1,teller
+us/co/washington,"co, us","washington, co, us",102086125,us,1,co,1,washington
+us/co/weld,"co, us","weld, co, us",102086117,us,1,co,1,weld
+us/ct/city_of_bridgeport,"ct, us","bridgeport, ct, us",85930811,us,1,ct,1,bridgeport
+us/ct/city_of_haddam,"ct, us","haddam, ct, us",404496069,us,1,ct,1,haddam
+us/ct/city_of_hamden,"ct, us","hamden, ct, us",404495777,us,1,ct,1,hamden
+us/ct/city_of_hartford,"ct, us","hartford, ct, us",102085381,us,1,ct,1,hartford
+us/ct/city_of_lyme,"ct, us","lyme, ct, us",404495717,us,1,ct,1,lyme
+us/ct/city_of_manchester,"ct, us","manchester, ct, us",404495985,us,1,ct,1,manchester
+us/ct/city_of_milford,"ct, us","milford, ct, us",404495783,us,1,ct,1,milford
+us/ct/city_of_new_britain,"ct, us","new britain, ct, us",404495989,us,1,ct,1,new britain
+us/ct/city_of_new_haven,"ct, us","new haven, ct, us",102086923,us,1,ct,1,new haven
+us/ct/city_of_norwalk,"ct, us","norwalk, ct, us",85930795,us,1,ct,1,norwalk
+us/ct/city_of_stamford,"ct, us","stamford, ct, us",85930787,us,1,ct,1,stamford
+us/ct/city_of_stonington,"ct, us","stonington, ct, us",404495885,us,1,ct,1,stonington
+us/ct/city_of_stratford,"ct, us","stratford, ct, us",85930997,us,1,ct,1,stratford
+us/ct/city_of_waterbury,"ct, us","waterbury, ct, us",85930889,us,1,ct,1,waterbury
+us/ct/city_of_watertown,"ct, us","watertown, ct, us",404496051,us,1,ct,1,watertown
+us/ct/statewide,"ct, us","ct, us",85688629,us,1,ct,0,
+us/ct/town_of_avon,"ct, us","avon, ct, us",404495867,us,1,ct,1,avon
+us/ct/town_of_easton_monroe,"ct, us","easton monroe, ct, us",1125832755,us,1,ct,1,easton monroe
+us/ct/town_of_fairfield,"ct, us","fairfield, ct, us",102084283,us,1,ct,1,fairfield
+us/ct/town_of_groton,"ct, us","groton, ct, us",404495745,us,1,ct,1,groton
+us/ct/town_of_trumbull,"ct, us","trumbull, ct, us",404495859,us,1,ct,1,trumbull
+us/dc/statewide,"dc, us","dc, us",85951091,us,1,dc,0,
+us/de/city_of_dover,"de, us","dover, de, us",85931481,us,1,de,1,dover
+us/de/city_of_newark,"de, us","newark, de, us",85931551,us,1,de,1,newark
+us/de/kent,"de, us","kent, de, us",102083871,us,1,de,1,kent
+us/de/new_castle,"de, us","new castle, de, us",102083891,us,1,de,1,new castle
+us/de/sussex,"de, us","sussex, de, us",102083887,us,1,de,1,sussex
+us/fl/_loveland,"fl, us","loveland, fl, us",85688651,us,1,fl,1,loveland
+us/fl/alachua,"fl, us","alachua, fl, us",102085829,us,1,fl,1,alachua
+us/fl/bay,"fl, us","bay, fl, us",102085835,us,1,fl,1,bay
+us/fl/brevard,"fl, us","brevard, fl, us",102084721,us,1,fl,1,brevard
+us/fl/broward,"fl, us","broward, fl, us",102084727,us,1,fl,1,broward
+us/fl/charlotte,"fl, us","charlotte, fl, us",102085809,us,1,fl,1,charlotte
+us/fl/citrus,"fl, us","citrus, fl, us",102084715,us,1,fl,1,citrus
+us/fl/city_of_fort_lauderdale,"fl, us","fort lauderdale, fl, us",85932397,us,1,fl,1,fort lauderdale
+us/fl/city_of_gainesville,"fl, us","gainesville, fl, us",85932213,us,1,fl,1,gainesville
+us/fl/city_of_key_biscayne,"fl, us","key biscayne, fl, us",85933663,us,1,fl,1,key biscayne
+us/fl/city_of_lakeland,"fl, us","lakeland, fl, us",85933319,us,1,fl,1,lakeland
+us/fl/city_of_pinellas_park,"fl, us","pinellas park, fl, us",85931855,us,1,fl,1,pinellas park
+us/fl/city_of_west_palm_beach,"fl, us","west palm beach, fl, us",85931945,us,1,fl,1,west palm beach
+us/fl/clay,"fl, us","clay, fl, us",102085797,us,1,fl,1,clay
+us/fl/collier,"fl, us","collier, fl, us",102085853,us,1,fl,1,collier
+us/fl/desoto,"fl, us","desoto, fl, us",102085817,us,1,fl,1,desoto
+us/fl/duval,"fl, us","duval, fl, us",102084753,us,1,fl,1,duval
+us/fl/escambia,"fl, us","escambia, fl, us",102084839,us,1,fl,1,escambia
+us/fl/flagler,"fl, us","flagler, fl, us",102085833,us,1,fl,1,flagler
+us/fl/gulf,"fl, us","gulf, fl, us",102085757,us,1,fl,1,gulf
+us/fl/hernando,"fl, us","hernando, fl, us",102085827,us,1,fl,1,hernando
+us/fl/highlands,"fl, us","highlands, fl, us",102085801,us,1,fl,1,highlands
+us/fl/hillsborough,"fl, us","hillsborough, fl, us",102085773,us,1,fl,1,hillsborough
+us/fl/indian_river,"fl, us","indian river, fl, us",102085837,us,1,fl,1,indian river
+us/fl/lake,"fl, us","lake, fl, us",102084775,us,1,fl,1,lake
+us/fl/lee,"fl, us","lee, fl, us",102084769,us,1,fl,1,lee
+us/fl/leon,"fl, us","leon, fl, us",102085783,us,1,fl,1,leon
+us/fl/manatee,"fl, us","manatee, fl, us",102084763,us,1,fl,1,manatee
+us/fl/marion,"fl, us","marion, fl, us",102085779,us,1,fl,1,marion
+us/fl/martin,"fl, us","martin, fl, us",102085777,us,1,fl,1,martin
+us/fl/miami,"fl, us","miami, fl, us",85933669,us,1,fl,1,miami
+us/fl/nassau,"fl, us","nassau, fl, us",102085863,us,1,fl,1,nassau
+us/fl/okaloosa,"fl, us","okaloosa, fl, us",102085859,us,1,fl,1,okaloosa
+us/fl/orange_county,"fl, us","orange county, fl, us",102085847,us,1,fl,1,orange county
+us/fl/osceola,"fl, us","osceola, fl, us",102085819,us,1,fl,1,osceola
+us/fl/palm_beach,"fl, us","palm beach, fl, us",102085845,us,1,fl,1,palm beach
+us/fl/palm_beach_county,"fl, us","palm beach county, fl, us",102085845,us,1,fl,1,palm beach county
+us/fl/pasco,"fl, us","pasco, fl, us",102085789,us,1,fl,1,pasco
+us/fl/pinellas,"fl, us","pinellas, fl, us",102085759,us,1,fl,1,pinellas
+us/fl/putnam,"fl, us","putnam, fl, us",102085849,us,1,fl,1,putnam
+us/fl/santa_rosa,"fl, us","santa rosa, fl, us",102085871,us,1,fl,1,santa rosa
+us/fl/sarasota,"fl, us","sarasota, fl, us",102085795,us,1,fl,1,sarasota
+us/fl/seminole,"fl, us","seminole, fl, us",102085775,us,1,fl,1,seminole
+us/fl/st-johns,"fl, us","st johns, fl, us",102085787,us,1,fl,1,st johns
+us/fl/st-lucie,"fl, us","st lucie, fl, us",102085851,us,1,fl,1,st lucie
+us/fl/statewide,"fl, us","fl, us",85688651,us,1,fl,0,
+us/fl/sumter,"fl, us","sumter, fl, us",102085855,us,1,fl,1,sumter
+us/fl/volusia,"fl, us","volusia, fl, us",102085865,us,1,fl,1,volusia
+us/fl/walton,"fl, us","walton, fl, us",102085813,us,1,fl,1,walton
+us/ga/appling,"ga, us","appling, ga, us",102081679,us,1,ga,1,appling
+us/ga/atkinson,"ga, us","atkinson, ga, us",102083587,us,1,ga,1,atkinson
+us/ga/bacon,"ga, us","bacon, ga, us",102083581,us,1,ga,1,bacon
+us/ga/bartow,"ga, us","bartow, ga, us",102082937,us,1,ga,1,bartow
+us/ga/ben_hill,"ga, us","ben hill, ga, us",102084659,us,1,ga,1,ben hill
+us/ga/berrien,"ga, us","berrien, ga, us",102082915,us,1,ga,1,berrien
+us/ga/bibb,"ga, us","bibb, ga, us",102084373,us,1,ga,1,bibb
+us/ga/bleckley,"ga, us","bleckley, ga, us",102081685,us,1,ga,1,bleckley
+us/ga/brantley,"ga, us","brantley, ga, us",102082335,us,1,ga,1,brantley
+us/ga/brooks,"ga, us","brooks, ga, us",102082981,us,1,ga,1,brooks
+us/ga/bryan,"ga, us","bryan, ga, us",102081677,us,1,ga,1,bryan
+us/ga/burke,"ga, us","burke, ga, us",102082897,us,1,ga,1,burke
+us/ga/calhoun,"ga, us","calhoun, ga, us",85936609,us,1,ga,1,calhoun
+us/ga/camden,"ga, us","camden, ga, us",102081693,us,1,ga,1,camden
+us/ga/candler,"ga, us","candler, ga, us",102083605,us,1,ga,1,candler
+us/ga/carroll,"ga, us","carroll, ga, us",102081719,us,1,ga,1,carroll
+us/ga/charlton,"ga, us","charlton, ga, us",102082917,us,1,ga,1,charlton
+us/ga/chatham,"ga, us","chatham, ga, us",102082337,us,1,ga,1,chatham
+us/ga/cherokee,"ga, us","cherokee, ga, us",102084635,us,1,ga,1,cherokee
+us/ga/city_of_alma,"ga, us","alma, ga, us",85936621,us,1,ga,1,alma
+us/ga/city_of_alpharetta,"ga, us","alpharetta, ga, us",85937153,us,1,ga,1,alpharetta
+us/ga/city_of_athens,"ga, us","athens, ga, us",85936177,us,1,ga,1,athens
+us/ga/city_of_atlanta,"ga, us","atlanta, ga, us",85936429,us,1,ga,1,atlanta
+us/ga/city_of_brookhaven,"ga, us","brookhaven, ga, us",1125922515,us,1,ga,1,brookhaven
+us/ga/city_of_johns_creek,"ga, us","johns creek, ga, us",85937169,us,1,ga,1,johns creek
+us/ga/city_of_marietta,"ga, us","marietta, ga, us",85936135,us,1,ga,1,marietta
+us/ga/city_of_sandy_springs,"ga, us","sandy springs, ga, us",85937165,us,1,ga,1,sandy springs
+us/ga/city_of_savannah,"ga, us","savannah, ga, us",85936939,us,1,ga,1,savannah
+us/ga/clarke,"ga, us","clarke, ga, us",102081713,us,1,ga,1,clarke
+us/ga/clayton,"ga, us","clayton, ga, us",102082333,us,1,ga,1,clayton
+us/ga/clinch,"ga, us","clinch, ga, us",102082911,us,1,ga,1,clinch
+us/ga/cobb,"ga, us","cobb, ga, us",102082313,us,1,ga,1,cobb
+us/ga/coffee,"ga, us","coffee, ga, us",102082947,us,1,ga,1,coffee
+us/ga/colquitt,"ga, us","colquitt, ga, us",102084501,us,1,ga,1,colquitt
+us/ga/columbia,"ga, us","columbia, ga, us",102082315,us,1,ga,1,columbia
+us/ga/cook,"ga, us","cook, ga, us",102082919,us,1,ga,1,cook
+us/ga/coweta,"ga, us","coweta, ga, us",102084443,us,1,ga,1,coweta
+us/ga/dekalb,"ga, us","dekalb, ga, us",102084539,us,1,ga,1,dekalb
+us/ga/dooly,"ga, us","dooly, ga, us",102082931,us,1,ga,1,dooly
+us/ga/dougherty,"ga, us","dougherty, ga, us",102084427,us,1,ga,1,dougherty
+us/ga/douglas,"ga, us","douglas, ga, us",102084441,us,1,ga,1,douglas
+us/ga/early,"ga, us","early, ga, us",102082925,us,1,ga,1,early
+us/ga/echols,"ga, us","echols, ga, us",102082341,us,1,ga,1,echols
+us/ga/evans,"ga, us","evans, ga, us",102082343,us,1,ga,1,evans
+us/ga/fayette,"ga, us","fayette, ga, us",102081687,us,1,ga,1,fayette
+us/ga/forsyth,"ga, us","forsyth, ga, us",102082317,us,1,ga,1,forsyth
+us/ga/fulton,"ga, us","fulton, ga, us",102083603,us,1,ga,1,fulton
+us/ga/glynn,"ga, us","glynn, ga, us",102081695,us,1,ga,1,glynn
+us/ga/gordon,"ga, us","gordon, ga, us",102084679,us,1,ga,1,gordon
+us/ga/gwinnett,"ga, us","gwinnett, ga, us",102082967,us,1,ga,1,gwinnett
+us/ga/habersham,"ga, us","habersham, ga, us",102084699,us,1,ga,1,habersham
+us/ga/hall,"ga, us","hall, ga, us",102083629,us,1,ga,1,hall
+us/ga/harris,"ga, us","harris, ga, us",102084477,us,1,ga,1,harris
+us/ga/heard,"ga, us","heard, ga, us",102084447,us,1,ga,1,heard
+us/ga/henry,"ga, us","henry, ga, us",102082899,us,1,ga,1,henry
+us/ga/houston,"ga, us","houston, ga, us",102083617,us,1,ga,1,houston
+us/ga/irwin,"ga, us","irwin, ga, us",102082349,us,1,ga,1,irwin
+us/ga/jackson,"ga, us","jackson, ga, us",102084689,us,1,ga,1,jackson
+us/ga/jefferson,"ga, us","jefferson, ga, us",102081689,us,1,ga,1,jefferson
+us/ga/johnson,"ga, us","johnson, ga, us",102082927,us,1,ga,1,johnson
+us/ga/jones,"ga, us","jones, ga, us",102081715,us,1,ga,1,jones
+us/ga/lanier,"ga, us","lanier, ga, us",102081675,us,1,ga,1,lanier
+us/ga/laurens,"ga, us","laurens, ga, us",102083597,us,1,ga,1,laurens
+us/ga/lee,"ga, us","lee, ga, us",102082935,us,1,ga,1,lee
+us/ga/liberty,"ga, us","liberty, ga, us",102082901,us,1,ga,1,liberty
+us/ga/long,"ga, us","long, ga, us",102084613,us,1,ga,1,long
+us/ga/lowndes,"ga, us","lowndes, ga, us",102083585,us,1,ga,1,lowndes
+us/ga/lumpkin,"ga, us","lumpkin, ga, us",102084397,us,1,ga,1,lumpkin
+us/ga/macon,"ga, us","macon, ga, us",85936517,us,1,ga,1,macon
+us/ga/mcintosh,"ga, us","mcintosh, ga, us",102084461,us,1,ga,1,mcintosh
+us/ga/miller,"ga, us","miller, ga, us",102082957,us,1,ga,1,miller
+us/ga/mitchell,"ga, us","mitchell, ga, us",102082965,us,1,ga,1,mitchell
+us/ga/montgomery,"ga, us","montgomery, ga, us",102084639,us,1,ga,1,montgomery
+us/ga/muscogee,"ga, us","muscogee, ga, us",102084429,us,1,ga,1,muscogee
+us/ga/newton,"ga, us","newton, ga, us",102082963,us,1,ga,1,newton
+us/ga/paulding,"ga, us","paulding, ga, us",102084665,us,1,ga,1,paulding
+us/ga/pierce,"ga, us","pierce, ga, us",102082921,us,1,ga,1,pierce
+us/ga/quitman,"ga, us","quitman, ga, us",85936571,us,1,ga,1,quitman
+us/ga/randolph,"ga, us","randolph, ga, us",102082973,us,1,ga,1,randolph
+us/ga/richmond,"ga, us","richmond, ga, us",102082951,us,1,ga,1,richmond
+us/ga/schley,"ga, us","schley, ga, us",102081705,us,1,ga,1,schley
+us/ga/seminole,"ga, us","seminole, ga, us",102081691,us,1,ga,1,seminole
+us/ga/stewart,"ga, us","stewart, ga, us",102084445,us,1,ga,1,stewart
+us/ga/sumter,"ga, us","sumter, ga, us",102082971,us,1,ga,1,sumter
+us/ga/tattnall,"ga, us","tattnall, ga, us",102084605,us,1,ga,1,tattnall
+us/ga/telfair,"ga, us","telfair, ga, us",102083631,us,1,ga,1,telfair
+us/ga/thomas,"ga, us","thomas, ga, us",102083601,us,1,ga,1,thomas
+us/ga/tift,"ga, us","tift, ga, us",102084483,us,1,ga,1,tift
+us/ga/toombs,"ga, us","toombs, ga, us",102082907,us,1,ga,1,toombs
+us/ga/troup,"ga, us","troup, ga, us",102083595,us,1,ga,1,troup
+us/ga/turner,"ga, us","turner, ga, us",102083583,us,1,ga,1,turner
+us/ga/twiggs,"ga, us","twiggs, ga, us",102082953,us,1,ga,1,twiggs
+us/ga/ware,"ga, us","ware, ga, us",102081711,us,1,ga,1,ware
+us/ga/wheeler,"ga, us","wheeler, ga, us",102084455,us,1,ga,1,wheeler
+us/ga/whitfield,"ga, us","whitfield, ga, us",102084697,us,1,ga,1,whitfield
+us/ga/wilkinson,"ga, us","wilkinson, ga, us",102084451,us,1,ga,1,wilkinson
+us/ga/worth,"ga, us","worth, ga, us",102084465,us,1,ga,1,worth
+us/hi/honolulu,"hi, us","honolulu, hi, us",102085417,us,1,hi,1,honolulu
+us/hi/kauai,"hi, us","kauai, hi, us",102085457,us,1,hi,1,kauai
+us/hi/maui,"hi, us","maui, hi, us",102085577,us,1,hi,1,maui
+us/ia/adair,"ia, us","adair, ia, us",102086585,us,1,ia,1,adair
+us/ia/benton,"ia, us","benton, ia, us",102086267,us,1,ia,1,benton
+us/ia/boone,"ia, us","boone, ia, us",102086549,us,1,ia,1,boone
+us/ia/bremer,"ia, us","bremer, ia, us",102086623,us,1,ia,1,bremer
+us/ia/buchanan,"ia, us","buchanan, ia, us",102086605,us,1,ia,1,buchanan
+us/ia/buena_vista,"ia, us","buena vista, ia, us",102086305,us,1,ia,1,buena vista
+us/ia/calhoun,"ia, us","calhoun, ia, us",102086545,us,1,ia,1,calhoun
+us/ia/carroll,"ia, us","carroll, ia, us",102086569,us,1,ia,1,carroll
+us/ia/cass,"ia, us","cass, ia, us",102086611,us,1,ia,1,cass
+us/ia/cherokee,"ia, us","cherokee, ia, us",102086371,us,1,ia,1,cherokee
+us/ia/clarke,"ia, us","clarke, ia, us",102086511,us,1,ia,1,clarke
+us/ia/clay,"ia, us","clay, ia, us",102086269,us,1,ia,1,clay
+us/ia/crawford,"ia, us","crawford, ia, us",102086561,us,1,ia,1,crawford
+us/ia/dallas,"ia, us","dallas, ia, us",102086525,us,1,ia,1,dallas
+us/ia/decatur,"ia, us","decatur, ia, us",102086539,us,1,ia,1,decatur
+us/ia/delaware,"ia, us","delaware, ia, us",102086573,us,1,ia,1,delaware
+us/ia/des_moines,"ia, us","des moines, ia, us",85944061,us,1,ia,1,des moines
+us/ia/dickinson,"ia, us","dickinson, ia, us",102086497,us,1,ia,1,dickinson
+us/ia/dubuque,"ia, us","dubuque, ia, us",102086485,us,1,ia,1,dubuque
+us/ia/emmet,"ia, us","emmet, ia, us",102086601,us,1,ia,1,emmet
+us/ia/franklin,"ia, us","franklin, ia, us",102086491,us,1,ia,1,franklin
+us/ia/fremont,"ia, us","fremont, ia, us",102086529,us,1,ia,1,fremont
+us/ia/greene,"ia, us","greene, ia, us",102086643,us,1,ia,1,greene
+us/ia/guthrie,"ia, us","guthrie, ia, us",102086493,us,1,ia,1,guthrie
+us/ia/hamilton,"ia, us","hamilton, ia, us",102086283,us,1,ia,1,hamilton
+us/ia/hardin,"ia, us","hardin, ia, us",102086575,us,1,ia,1,hardin
+us/ia/harrison,"ia, us","harrison, ia, us",102086597,us,1,ia,1,harrison
+us/ia/howard,"ia, us","howard, ia, us",102086659,us,1,ia,1,howard
+us/ia/humboldt,"ia, us","humboldt, ia, us",102086341,us,1,ia,1,humboldt
+us/ia/ida,"ia, us","ida, ia, us",102086557,us,1,ia,1,ida
+us/ia/jasper,"ia, us","jasper, ia, us",102086553,us,1,ia,1,jasper
+us/ia/johnson,"ia, us","johnson, ia, us",102086417,us,1,ia,1,johnson
+us/ia/kossuth,"ia, us","kossuth, ia, us",102086311,us,1,ia,1,kossuth
+us/ia/linn,"ia, us","linn, ia, us",102086551,us,1,ia,1,linn
+us/ia/lucas,"ia, us","lucas, ia, us",102086599,us,1,ia,1,lucas
+us/ia/lyon,"ia, us","lyon, ia, us",102086405,us,1,ia,1,lyon
+us/ia/madison,"ia, us","madison, ia, us",102086617,us,1,ia,1,madison
+us/ia/marion,"ia, us","marion, ia, us",85944273,us,1,ia,1,marion
+us/ia/marshall,"ia, us","marshall, ia, us",102086231,us,1,ia,1,marshall
+us/ia/mills,"ia, us","mills, ia, us",102086589,us,1,ia,1,mills
+us/ia/monona,"ia, us","monona, ia, us",102086593,us,1,ia,1,monona
+us/ia/monroe,"ia, us","monroe, ia, us",102086431,us,1,ia,1,monroe
+us/ia/montgomery,"ia, us","montgomery, ia, us",102086535,us,1,ia,1,montgomery
+us/ia/muscatine,"ia, us","muscatine, ia, us",102086287,us,1,ia,1,muscatine
+us/ia/palo_alto,"ia, us","palo alto, ia, us",102086527,us,1,ia,1,palo alto
+us/ia/pocahontas,"ia, us","pocahontas, ia, us",102086641,us,1,ia,1,pocahontas
+us/ia/polk,"ia, us","polk, ia, us",102086603,us,1,ia,1,polk
+us/ia/pottawattamie,"ia, us","pottawattamie, ia, us",102086657,us,1,ia,1,pottawattamie
+us/ia/sac,"ia, us","sac, ia, us",102086327,us,1,ia,1,sac
+us/ia/scott,"ia, us","scott, ia, us",102086517,us,1,ia,1,scott
+us/ia/shelby,"ia, us","shelby, ia, us",102086273,us,1,ia,1,shelby
+us/ia/sioux,"ia, us","sioux, ia, us",102086579,us,1,ia,1,sioux
+us/ia/story,"ia, us","story, ia, us",102086653,us,1,ia,1,story
+us/ia/webster,"ia, us","webster, ia, us",102086543,us,1,ia,1,webster
+us/ia/winnebago,"ia, us","winnebago, ia, us",102086401,us,1,ia,1,winnebago
+us/ia/winneshiek,"ia, us","winneshiek, ia, us",102086637,us,1,ia,1,winneshiek
+us/ia/wright,"ia, us","wright, ia, us",102086299,us,1,ia,1,wright
+us/id/ada,"id, us","ada, id, us",102086087,us,1,id,1,ada
+us/id/bannock,"id, us","bannock, id, us",102086113,us,1,id,1,bannock
+us/id/bingham,"id, us","bingham, id, us",102086105,us,1,id,1,bingham
+us/id/blaine,"id, us","blaine, id, us",102086031,us,1,id,1,blaine
+us/id/bonner,"id, us","bonner, id, us",102085145,us,1,id,1,bonner
+us/id/bonneville,"id, us","bonneville, id, us",102085163,us,1,id,1,bonneville
+us/id/canyon,"id, us","canyon, id, us",102085081,us,1,id,1,canyon
+us/id/city_of_boise,"id, us","boise, id, us",102085213,us,1,id,1,boise
+us/id/clearwater,"id, us","clearwater, id, us",102086071,us,1,id,1,clearwater
+us/id/custer,"id, us","custer, id, us",102085215,us,1,id,1,custer
+us/id/fremont,"id, us","fremont, id, us",102085125,us,1,id,1,fremont
+us/id/jefferson,"id, us","jefferson, id, us",102086033,us,1,id,1,jefferson
+us/id/kootenai,"id, us","kootenai, id, us",102086085,us,1,id,1,kootenai
+us/id/latah,"id, us","latah, id, us",102085077,us,1,id,1,latah
+us/id/lemhi,"id, us","lemhi, id, us",102085123,us,1,id,1,lemhi
+us/id/madison,"id, us","madison, id, us",102086101,us,1,id,1,madison
+us/id/nez_perce,"id, us","nez perce, id, us",102086039,us,1,id,1,nez perce
+us/id/post_falls,"id, us","post falls, id, us",85938145,us,1,id,1,post falls
+us/id/teton,"id, us","teton, id, us",102086021,us,1,id,1,teton
+us/il/adams,"il, us","adams, il, us",102086213,us,1,il,1,adams
+us/il/boone,"il, us","boone, il, us",102086197,us,1,il,1,boone
+us/il/champaign,"il, us","champaign, il, us",102081657,us,1,il,1,champaign
+us/il/christian,"il, us","christian, il, us",102082289,us,1,il,1,christian
+us/il/city-of-ofallon,"il, us","city of ofallon, il, us",404499785,us,1,il,1,city of ofallon
+us/il/city_of_aurora,"il, us","aurora, il, us",85940221,us,1,il,1,aurora
+us/il/city_of_chicago,"il, us","chicago, il, us",85940195,us,1,il,1,chicago
+us/il/city_of_east_peoria,"il, us","east peoria, il, us",85940233,us,1,il,1,east peoria
+us/il/city_of_evanston,"il, us","evanston, il, us",85940857,us,1,il,1,evanston
+us/il/city_of_naperville,"il, us","naperville, il, us",85940205,us,1,il,1,naperville
+us/il/city_of_schaumburg,"il, us","schaumburg, il, us",404497587,us,1,il,1,schaumburg
+us/il/city_of_west_peoria,"il, us","west peoria, il, us",404498869,us,1,il,1,west peoria
+us/il/clark,"il, us","clark, il, us",102082285,us,1,il,1,clark
+us/il/coles,"il, us","coles, il, us",102086931,us,1,il,1,coles
+us/il/cook,"il, us","cook, il, us",102084317,us,1,il,1,cook
+us/il/cumberland,"il, us","cumberland, il, us",102080843,us,1,il,1,cumberland
+us/il/douglas,"il, us","douglas, il, us",102080821,us,1,il,1,douglas
+us/il/dupage,"il, us","dupage, il, us",102081257,us,1,il,1,dupage
+us/il/effingham,"il, us","effingham, il, us",102081667,us,1,il,1,effingham
+us/il/henry,"il, us","henry, il, us",102086205,us,1,il,1,henry
+us/il/jackson,"il, us","jackson, il, us",102082841,us,1,il,1,jackson
+us/il/jersey,"il, us","jersey, il, us",102080833,us,1,il,1,jersey
+us/il/kane,"il, us","kane, il, us",102086925,us,1,il,1,kane
+us/il/kankakee,"il, us","kankakee, il, us",102081259,us,1,il,1,kankakee
+us/il/kendall,"il, us","kendall, il, us",102083533,us,1,il,1,kendall
+us/il/knox,"il, us","knox, il, us",102082867,us,1,il,1,knox
+us/il/lake,"il, us","lake, il, us",102086215,us,1,il,1,lake
+us/il/lawrence,"il, us","lawrence, il, us",102087563,us,1,il,1,lawrence
+us/il/lee,"il, us","lee, il, us",102087565,us,1,il,1,lee
+us/il/logan,"il, us","logan, il, us",102082843,us,1,il,1,logan
+us/il/macon,"il, us","macon, il, us",102080825,us,1,il,1,macon
+us/il/macoupin,"il, us","macoupin, il, us",102082273,us,1,il,1,macoupin
+us/il/massac,"il, us","massac, il, us",102081655,us,1,il,1,massac
+us/il/mcdonough,"il, us","mcdonough, il, us",102080815,us,1,il,1,mcdonough
+us/il/mchenry,"il, us","mchenry, il, us",102081661,us,1,il,1,mchenry
+us/il/mclean,"il, us","mclean, il, us",102087573,us,1,il,1,mclean
+us/il/menard,"il, us","menard, il, us",102080831,us,1,il,1,menard
+us/il/morgan,"il, us","morgan, il, us",102082853,us,1,il,1,morgan
+us/il/moultrie,"il, us","moultrie, il, us",102082295,us,1,il,1,moultrie
+us/il/peoria,"il, us","peoria, il, us",102081247,us,1,il,1,peoria
+us/il/piatt,"il, us","piatt, il, us",102082865,us,1,il,1,piatt
+us/il/putnam,"il, us","putnam, il, us",102082855,us,1,il,1,putnam
+us/il/randolph,"il, us","randolph, il, us",102082271,us,1,il,1,randolph
+us/il/schuyler,"il, us","schuyler, il, us",102082277,us,1,il,1,schuyler
+us/il/shelby,"il, us","shelby, il, us",102083519,us,1,il,1,shelby
+us/il/skokie,"il, us","skokie, il, us",85940943,us,1,il,1,skokie
+us/il/st_clair,"il, us","st clair, il, us",102084321,us,1,il,1,st clair
+us/il/stephenson,"il, us","stephenson, il, us",102083509,us,1,il,1,stephenson
+us/il/tazewell,"il, us","tazewell, il, us",102083515,us,1,il,1,tazewell
+us/il/vermilion,"il, us","vermilion, il, us",102083507,us,1,il,1,vermilion
+us/il/white,"il, us","white, il, us",102083525,us,1,il,1,white
+us/il/whiteside,"il, us","whiteside, il, us",102081251,us,1,il,1,whiteside
+us/il/will,"il, us","will, il, us",102080845,us,1,il,1,will
+us/il/williamson,"il, us","williamson, il, us",102084325,us,1,il,1,williamson
+us/il/winnebago,"il, us","winnebago, il, us",102080827,us,1,il,1,winnebago
+us/il/woodford,"il, us","woodford, il, us",102082857,us,1,il,1,woodford
+us/in/adams,"in, us","adams, in, us",102087151,us,1,in,1,adams
+us/in/allen,"in, us","allen, in, us",102087177,us,1,in,1,allen
+us/in/bartholomew,"in, us","bartholomew, in, us",102087181,us,1,in,1,bartholomew
+us/in/benton,"in, us","benton, in, us",102087193,us,1,in,1,benton
+us/in/cass,"in, us","cass, in, us",102087039,us,1,in,1,cass
+us/in/city-of-hobart,"in, us","hobart, in, us",404501867,us,1,in,1,hobart
+us/in/city_of_bloomington,"in, us","bloomington, in, us",404501307,us,1,in,1,bloomington
+us/in/city_of_evansville,"in, us","evansville, in, us",85942147,us,1,in,1,evansville
+us/in/clark,"in, us","clark, in, us",102086421,us,1,in,1,clark
+us/in/delaware,"in, us","delaware, in, us",102087155,us,1,in,1,delaware
+us/in/elkhart,"in, us","elkhart, in, us",102086257,us,1,in,1,elkhart
+us/in/floyd,"in, us","floyd, in, us",102087137,us,1,in,1,floyd
+us/in/grant,"in, us","grant, in, us",102087025,us,1,in,1,grant
+us/in/hamilton,"in, us","hamilton, in, us",102087089,us,1,in,1,hamilton
+us/in/harrison,"in, us","harrison, in, us",404502037,us,1,in,1,harrison
+us/in/hendricks,"in, us","hendricks, in, us",102086423,us,1,in,1,hendricks
+us/in/jay,"in, us","jay, in, us",102086251,us,1,in,1,jay
+us/in/lake,"in, us","lake, in, us",102087149,us,1,in,1,lake
+us/in/laporte,"in, us","laporte, in, us",102086409,us,1,in,1,laporte
+us/in/lawrence,"in, us","lawrence, in, us",404501889,us,1,in,1,lawrence
+us/in/madison,"in, us","madison, in, us",102086407,us,1,in,1,madison
+us/in/marion_county,"in, us","marion county, in, us",102087201,us,1,in,1,marion county
+us/in/martin,"in, us","martin, in, us",102086465,us,1,in,1,martin
+us/in/miami,"in, us","miami, in, us",102087079,us,1,in,1,miami
+us/in/monroe,"in, us","monroe, in, us",102086351,us,1,in,1,monroe
+us/in/morgan,"in, us","morgan, in, us",102087091,us,1,in,1,morgan
+us/in/orange,"in, us","orange, in, us",102087163,us,1,in,1,orange
+us/in/owen,"in, us","owen, in, us",102087015,us,1,in,1,owen
+us/in/porter,"in, us","porter, in, us",102087191,us,1,in,1,porter
+us/in/st_joseph,"in, us","st joseph, in, us",102086969,us,1,in,1,st joseph
+us/in/statewide,"in, us","in, us",85688709,us,1,in,0,
+us/in/statewide_2,"in, us","in, us",85688709,us,1,in,0,
+us/in/tippecanoe,"in, us","tippecanoe, in, us",102087121,us,1,in,1,tippecanoe
+us/in/white,"in, us","white, in, us",102087133,us,1,in,1,white
+us/ks/allen_county,"ks, us","allen county, ks, us",102082659,us,1,ks,1,allen county
+us/ks/anderson_county,"ks, us","anderson county, ks, us",102083439,us,1,ks,1,anderson county
+us/ks/atchison_county,"ks, us","atchison county, ks, us",102082665,us,1,ks,1,atchison county
+us/ks/barber_county,"ks, us","barber county, ks, us",102083437,us,1,ks,1,barber county
+us/ks/barton_county,"ks, us","barton county, ks, us",102083449,us,1,ks,1,barton county
+us/ks/bourbon_county,"ks, us","bourbon county, ks, us",102082133,us,1,ks,1,bourbon county
+us/ks/brown_county,"ks, us","brown county, ks, us",102082685,us,1,ks,1,brown county
+us/ks/butler,"ks, us","butler, ks, us",102082695,us,1,ks,1,butler
+us/ks/chautauqua_county,"ks, us","chautauqua county, ks, us",102082701,us,1,ks,1,chautauqua county
+us/ks/cheyenne_county,"ks, us","cheyenne county, ks, us",102082697,us,1,ks,1,cheyenne county
+us/ks/city_of_lawrence,"ks, us","lawrence, ks, us",85945709,us,1,ks,1,lawrence
+us/ks/city_of_lenexa,"ks, us","lenexa, ks, us",404504345,us,1,ks,1,lenexa
+us/ks/city_of_olathe,"ks, us","olathe, ks, us",85945753,us,1,ks,1,olathe
+us/ks/city_of_salina,"ks, us","salina, ks, us",404502927,us,1,ks,1,salina
+us/ks/city_of_wichita,"ks, us","wichita, ks, us",85945871,us,1,ks,1,wichita
+us/ks/coffey_county,"ks, us","coffey county, ks, us",102084185,us,1,ks,1,coffey county
+us/ks/cowley_county,"ks, us","cowley county, ks, us",102082165,us,1,ks,1,cowley county
+us/ks/crawford_county,"ks, us","crawford county, ks, us",102082657,us,1,ks,1,crawford county
+us/ks/dickinson_county,"ks, us","dickinson county, ks, us",102082691,us,1,ks,1,dickinson county
+us/ks/doniphan_county,"ks, us","doniphan county, ks, us",102082137,us,1,ks,1,doniphan county
+us/ks/douglas,"ks, us","douglas, ks, us",102085347,us,1,ks,1,douglas
+us/ks/edwards_county,"ks, us","edwards county, ks, us",102083425,us,1,ks,1,edwards county
+us/ks/elk_county,"ks, us","elk county, ks, us",102084193,us,1,ks,1,elk county
+us/ks/franklin_county,"ks, us","franklin county, ks, us",102082121,us,1,ks,1,franklin county
+us/ks/geary_county,"ks, us","geary county, ks, us",102083459,us,1,ks,1,geary county
+us/ks/greenwood_county,"ks, us","greenwood county, ks, us",102084205,us,1,ks,1,greenwood county
+us/ks/harper_county,"ks, us","harper county, ks, us",102082655,us,1,ks,1,harper county
+us/ks/harvey_county,"ks, us","harvey county, ks, us",102083457,us,1,ks,1,harvey county
+us/ks/jackson_county,"ks, us","jackson county, ks, us",102082125,us,1,ks,1,jackson county
+us/ks/jefferson_county,"ks, us","jefferson county, ks, us",102082687,us,1,ks,1,jefferson county
+us/ks/johnson_county,"ks, us","johnson county, ks, us",102082673,us,1,ks,1,johnson county
+us/ks/kearny_county,"ks, us","kearny county, ks, us",102084149,us,1,ks,1,kearny county
+us/ks/kingman_county,"ks, us","kingman county, ks, us",102083455,us,1,ks,1,kingman county
+us/ks/lane_county,"ks, us","lane county, ks, us",102082693,us,1,ks,1,lane county
+us/ks/linn_county,"ks, us","linn county, ks, us",102083431,us,1,ks,1,linn county
+us/ks/marion_county,"ks, us","marion county, ks, us",102085315,us,1,ks,1,marion county
+us/ks/meade_county,"ks, us","meade county, ks, us",102084211,us,1,ks,1,meade county
+us/ks/nemaha_county,"ks, us","nemaha county, ks, us",102083413,us,1,ks,1,nemaha county
+us/ks/osage_county,"ks, us","osage county, ks, us",102083421,us,1,ks,1,osage county
+us/ks/pawnee_county,"ks, us","pawnee county, ks, us",102082127,us,1,ks,1,pawnee county
+us/ks/pottawatomie_county,"ks, us","pottawatomie county, ks, us",102082663,us,1,ks,1,pottawatomie county
+us/ks/reno_county,"ks, us","reno county, ks, us",102082171,us,1,ks,1,reno county
+us/ks/riley_county,"ks, us","riley county, ks, us",102084179,us,1,ks,1,riley county
+us/ks/rush_county,"ks, us","rush county, ks, us",102082713,us,1,ks,1,rush county
+us/ks/scott_county,"ks, us","scott county, ks, us",102083461,us,1,ks,1,scott county
+us/ks/shawnee_county,"ks, us","shawnee county, ks, us",102084175,us,1,ks,1,shawnee county
+us/ks/sumner_county,"ks, us","sumner county, ks, us",102085325,us,1,ks,1,sumner county
+us/ks/thomas_county,"ks, us","thomas county, ks, us",102082669,us,1,ks,1,thomas county
+us/ks/wabaunsee_county,"ks, us","wabaunsee county, ks, us",102082173,us,1,ks,1,wabaunsee county
+us/ky/boyd,"ky, us","boyd, ky, us",102084495,us,1,ky,1,boyd
+us/ky/campbell,"ky, us","campbell, ky, us",102085439,us,1,ky,1,campbell
+us/ky/city_of_owensboro,"ky, us","owensboro, ky, us",85946723,us,1,ky,1,owensboro
+us/ky/city_of_paducah,"ky, us","paducah, ky, us",85947249,us,1,ky,1,paducah
+us/ky/clark,"ky, us","clark, ky, us",102084625,us,1,ky,1,clark
+us/ky/franklin,"ky, us","franklin, ky, us",102084499,us,1,ky,1,franklin
+us/ky/hardin,"ky, us","hardin, ky, us",102084595,us,1,ky,1,hardin
+us/ky/henderson,"ky, us","henderson, ky, us",102084487,us,1,ky,1,henderson
+us/ky/jefferson,"ky, us","jefferson, ky, us",102084449,us,1,ky,1,jefferson
+us/ky/kenton,"ky, us","kenton, ky, us",102084469,us,1,ky,1,kenton
+us/ky/lexington-fayette,"ky, us","lexington fayette, ky, us",85947137,us,1,ky,1,lexington fayette
+us/ky/madison,"ky, us","madison, ky, us",102084575,us,1,ky,1,madison
+us/ky/mccracken,"ky, us","mccracken, ky, us",102084607,us,1,ky,1,mccracken
+us/ky/meade,"ky, us","meade, ky, us",102085541,us,1,ky,1,meade
+us/ky/oldham,"ky, us","oldham, ky, us",102084559,us,1,ky,1,oldham
+us/ky/pendleton,"ky, us","pendleton, ky, us",102084519,us,1,ky,1,pendleton
+us/ky/scott,"ky, us","scott, ky, us",102085651,us,1,ky,1,scott
+us/ky/shelby,"ky, us","shelby, ky, us",102085555,us,1,ky,1,shelby
+us/ky/warren,"ky, us","warren, ky, us",102084479,us,1,ky,1,warren
+us/la/ascension,"la, us","ascension, la, us",102086687,us,1,la,1,ascension
+us/la/assumption,"la, us","assumption, la, us",102081029,us,1,la,1,assumption
+us/la/beauregard,"la, us","beauregard, la, us",102085919,us,1,la,1,beauregard
+us/la/bienville,"la, us","bienville, la, us",102085923,us,1,la,1,bienville
+us/la/caddo,"la, us","caddo, la, us",102087235,us,1,la,1,caddo
+us/la/city_of_alexandria,"la, us","alexandria, la, us",85948343,us,1,la,1,alexandria
+us/la/city_of_bossier,"la, us","bossier, la, us",102084883,us,1,la,1,bossier
+us/la/city_of_denham_springs,"la, us","denham springs, la, us",85948277,us,1,la,1,denham springs
+us/la/city_of_new_iberia,"la, us","new iberia, la, us",85948451,us,1,la,1,new iberia
+us/la/city_of_new_orleans,"la, us","new orleans, la, us",85948111,us,1,la,1,new orleans
+us/la/claiborne,"la, us","claiborne, la, us",102081031,us,1,la,1,claiborne
+us/la/concordia,"la, us","concordia, la, us",102081045,us,1,la,1,concordia
+us/la/desoto,"la, us","desoto, la, us",85688735,us,1,la,1,desoto
+us/la/east_baton_rouge_parish,"la, us","east baton rouge parish, la, us",102087229,us,1,la,1,east baton rouge parish
+us/la/east_feliciana,"la, us","east feliciana, la, us",102085921,us,1,la,1,east feliciana
+us/la/iberia,"la, us","iberia, la, us",102084881,us,1,la,1,iberia
+us/la/jefferson_parish,"la, us","jefferson parish, la, us",102083179,us,1,la,1,jefferson parish
+us/la/lafayette,"la, us","lafayette, la, us",102081919,us,1,la,1,lafayette
+us/la/lincoln,"la, us","lincoln, la, us",102083803,us,1,la,1,lincoln
+us/la/livingston,"la, us","livingston, la, us",102082463,us,1,la,1,livingston
+us/la/natchitoches,"la, us","natchitoches, la, us",102083811,us,1,la,1,natchitoches
+us/la/orleans_parish,"la, us","orleans parish, la, us",85948111,us,1,la,1,orleans parish
+us/la/pointe_coupee,"la, us","pointe coupee, la, us",102083807,us,1,la,1,pointe coupee
+us/la/rapides,"la, us","rapides, la, us",102081039,us,1,la,1,rapides
+us/la/red_river_parish,"la, us","red river parish, la, us",102081413,us,1,la,1,red river parish
+us/la/richland,"la, us","richland, la, us",102083183,us,1,la,1,richland
+us/la/st_charles_parish,"la, us","st charles parish, la, us",102081025,us,1,la,1,st charles parish
+us/la/st_james,"la, us","st james, la, us",102081921,us,1,la,1,st james
+us/la/st_john_the_baptist_parish,"la, us","st john the baptist parish, la, us",102082461,us,1,la,1,st john the baptist parish
+us/la/st_martin,"la, us","st martin, la, us",102081925,us,1,la,1,st martin
+us/la/tangipahoa,"la, us","tangipahoa, la, us",102083809,us,1,la,1,tangipahoa
+us/la/terrebonne,"la, us","terrebonne, la, us",102081923,us,1,la,1,terrebonne
+us/la/washington,"la, us","washington, la, us",102084875,us,1,la,1,washington
+us/la/webster,"la, us","webster, la, us",102085925,us,1,la,1,webster
+us/la/west_feliciana,"la, us","west feliciana, la, us",102085917,us,1,la,1,west feliciana
+us/ma/city_of_boston,"ma, us","boston, ma, us",85950361,us,1,ma,1,boston
+us/ma/city_of_cambridge,"ma, us","cambridge, ma, us",85950329,us,1,ma,1,cambridge
+us/ma/city_of_dedham,"ma, us","dedham, ma, us",85950821,us,1,ma,1,dedham
+us/ma/city_of_easton,"ma, us","easton, ma, us",1126044627,us,1,ma,1,easton
+us/ma/statewide,"ma, us","ma, us",85688645,us,1,ma,0,
+us/ma/town_of_newton,"ma, us","newton, ma, us",404476411,us,1,ma,1,newton
+us/md/allegany,"md, us","allegany, md, us",102081587,us,1,md,1,allegany
+us/md/anne_arundel,"md, us","anne arundel, md, us",102083469,us,1,md,1,anne arundel
+us/md/baltimore,"md, us","baltimore, md, us",102082193,us,1,md,1,baltimore
+us/md/carroll,"md, us","carroll, md, us",102082717,us,1,md,1,carroll
+us/md/cecil,"md, us","cecil, md, us",102082183,us,1,md,1,cecil
+us/md/city_of_baltimore,"md, us","baltimore, md, us",102082193,us,1,md,1,baltimore
+us/md/city_of_rockville,"md, us","rockville, md, us",85949471,us,1,md,1,rockville
+us/md/frederick,"md, us","frederick, md, us",102081593,us,1,md,1,frederick
+us/md/garrett,"md, us","garrett, md, us",102082181,us,1,md,1,garrett
+us/md/harford,"md, us","harford, md, us",102082727,us,1,md,1,harford
+us/md/howard,"md, us","howard, md, us",102084263,us,1,md,1,howard
+us/md/montgomery,"md, us","montgomery, md, us",102082719,us,1,md,1,montgomery
+us/md/prince_georges,"md, us","prince georges, md, us",102082191,us,1,md,1,prince georges
+us/md/st_marys,"md, us","st marys, md, us",102082729,us,1,md,1,st marys
+us/md/statewide,"md, us","md, us",85688501,us,1,md,0,
+us/me/statewide,"me, us","me, us",85688769,us,1,me,0,
+us/mi/allegan,"mi, us","allegan, mi, us",102083043,us,1,mi,1,allegan
+us/mi/benzie,"mi, us","benzie, mi, us",102082999,us,1,mi,1,benzie
+us/mi/city_of_coopersville,"mi, us","coopersville, mi, us",85950995,us,1,mi,1,coopersville
+us/mi/city_of_detroit,"mi, us","detroit, mi, us",404506393,us,1,mi,1,detroit
+us/mi/city_of_flint,"mi, us","flint, mi, us",85951927,us,1,mi,1,flint
+us/mi/city_of_monroe,"mi, us","monroe, mi, us",102083117,us,1,mi,1,monroe
+us/mi/city_of_rochester,"mi, us","rochester, mi, us",404508297,us,1,mi,1,rochester
+us/mi/city_of_tecumseh,"mi, us","tecumseh, mi, us",404507275,us,1,mi,1,tecumseh
+us/mi/eaton,"mi, us","eaton, mi, us",102083005,us,1,mi,1,eaton
+us/mi/emmet,"mi, us","emmet, mi, us",102083073,us,1,mi,1,emmet
+us/mi/genesee,"mi, us","genesee, mi, us",102083111,us,1,mi,1,genesee
+us/mi/grand_traverse,"mi, us","grand traverse, mi, us",102083133,us,1,mi,1,grand traverse
+us/mi/kent,"mi, us","kent, mi, us",102083023,us,1,mi,1,kent
+us/mi/macomb,"mi, us","macomb, mi, us",102083047,us,1,mi,1,macomb
+us/mi/mason,"mi, us","mason, mi, us",102083743,us,1,mi,1,mason
+us/mi/muskegon,"mi, us","muskegon, mi, us",102083707,us,1,mi,1,muskegon
+us/mi/newaygo,"mi, us","newaygo, mi, us",102082987,us,1,mi,1,newaygo
+us/mi/oakland,"mi, us","oakland, mi, us",102083713,us,1,mi,1,oakland
+us/mi/ottawa,"mi, us","ottawa, mi, us",102083097,us,1,mi,1,ottawa
+us/mi/semcog,"mi, us","semcog, mi, us",85688599,us,1,mi,1,semcog
+us/mi/st_clair,"mi, us","st clair, mi, us",102083053,us,1,mi,1,st clair
+us/mi/troy,"mi, us","troy, mi, us",404508383,us,1,mi,1,troy
+us/mi/washtenaw,"mi, us","washtenaw, mi, us",102083763,us,1,mi,1,washtenaw
+us/mi/wayne,"mi, us","wayne, mi, us",102083147,us,1,mi,1,wayne
+us/mn/aitkin,"mn, us","aitkin, mn, us",102087811,us,1,mn,1,aitkin
+us/mn/anoka,"mn, us","anoka, mn, us",102087861,us,1,mn,1,anoka
+us/mn/becker,"mn, us","becker, mn, us",102087001,us,1,mn,1,becker
+us/mn/beltrami,"mn, us","beltrami, mn, us",102087773,us,1,mn,1,beltrami
+us/mn/big_stone,"mn, us","big stone, mn, us",102087619,us,1,mn,1,big stone
+us/mn/carlton,"mn, us","carlton, mn, us",102087809,us,1,mn,1,carlton
+us/mn/carver,"mn, us","carver, mn, us",102087897,us,1,mn,1,carver
+us/mn/cass,"mn, us","cass, mn, us",102087905,us,1,mn,1,cass
+us/mn/chippewa,"mn, us","chippewa, mn, us",102087793,us,1,mn,1,chippewa
+us/mn/chisago,"mn, us","chisago, mn, us",102086987,us,1,mn,1,chisago
+us/mn/city_of_moorhead,"mn, us","moorhead, mn, us",404511077,us,1,mn,1,moorhead
+us/mn/clay,"mn, us","clay, mn, us",102087681,us,1,mn,1,clay
+us/mn/clearwater,"mn, us","clearwater, mn, us",102087753,us,1,mn,1,clearwater
+us/mn/cook,"mn, us","cook, mn, us",102087727,us,1,mn,1,cook
+us/mn/crow_wing,"mn, us","crow wing, mn, us",102087093,us,1,mn,1,crow wing
+us/mn/dakota,"mn, us","dakota, mn, us",102087895,us,1,mn,1,dakota
+us/mn/dodge,"mn, us","dodge, mn, us",102087097,us,1,mn,1,dodge
+us/mn/douglas,"mn, us","douglas, mn, us",102087127,us,1,mn,1,douglas
+us/mn/fillmore,"mn, us","fillmore, mn, us",102086997,us,1,mn,1,fillmore
+us/mn/goodhue,"mn, us","goodhue, mn, us",102087843,us,1,mn,1,goodhue
+us/mn/grant,"mn, us","grant, mn, us",102087739,us,1,mn,1,grant
+us/mn/hennepin,"mn, us","hennepin, mn, us",102087709,us,1,mn,1,hennepin
+us/mn/hubbard,"mn, us","hubbard, mn, us",102087907,us,1,mn,1,hubbard
+us/mn/itasca,"mn, us","itasca, mn, us",102086963,us,1,mn,1,itasca
+us/mn/kandiyohi,"mn, us","kandiyohi, mn, us",102087635,us,1,mn,1,kandiyohi
+us/mn/kittson,"mn, us","kittson, mn, us",102087613,us,1,mn,1,kittson
+us/mn/koochiching,"mn, us","koochiching, mn, us",102087735,us,1,mn,1,koochiching
+us/mn/lake_of_the_woods,"mn, us","lake of the woods, mn, us",102086985,us,1,mn,1,lake of the woods
+us/mn/marshall,"mn, us","marshall, mn, us",85968535,us,1,mn,1,marshall
+us/mn/mcleod,"mn, us","mcleod, mn, us",102086993,us,1,mn,1,mcleod
+us/mn/metrogis,"mn, us","metrogis, mn, us",85688727,us,1,mn,1,metrogis
+us/mn/mille_lacs,"mn, us","mille lacs, mn, us",102087761,us,1,mn,1,mille lacs
+us/mn/norman,"mn, us","norman, mn, us",102087699,us,1,mn,1,norman
+us/mn/olmsted,"mn, us","olmsted, mn, us",102087829,us,1,mn,1,olmsted
+us/mn/otter_tail,"mn, us","otter tail, mn, us",102087803,us,1,mn,1,otter tail
+us/mn/pennington,"mn, us","pennington, mn, us",102086989,us,1,mn,1,pennington
+us/mn/polk,"mn, us","polk, mn, us",102087599,us,1,mn,1,polk
+us/mn/pope,"mn, us","pope, mn, us",102087805,us,1,mn,1,pope
+us/mn/ramsey,"mn, us","ramsey, mn, us",102087007,us,1,mn,1,ramsey
+us/mn/red_lake,"mn, us","red lake, mn, us",102087755,us,1,mn,1,red lake
+us/mn/renville,"mn, us","renville, mn, us",102087655,us,1,mn,1,renville
+us/mn/rice,"mn, us","rice, mn, us",102087623,us,1,mn,1,rice
+us/mn/roseau,"mn, us","roseau, mn, us",102087665,us,1,mn,1,roseau
+us/mn/scott,"mn, us","scott, mn, us",102087041,us,1,mn,1,scott
+us/mn/sherburne,"mn, us","sherburne, mn, us",102087609,us,1,mn,1,sherburne
+us/mn/sibley,"mn, us","sibley, mn, us",102087775,us,1,mn,1,sibley
+us/mn/st_louis,"mn, us","st louis, mn, us",102087653,us,1,mn,1,st louis
+us/mn/stearns,"mn, us","stearns, mn, us",102087719,us,1,mn,1,stearns
+us/mn/steele_rural,"mn, us","steele, mn, us",102087661,us,1,mn,1,steele
+us/mn/steele_urban,"mn, us","steele, mn, us",102087661,us,1,mn,1,steele
+us/mn/todd,"mn, us","todd, mn, us",102087725,us,1,mn,1,todd
+us/mn/wadena,"mn, us","wadena, mn, us",102087867,us,1,mn,1,wadena
+us/mn/waseca,"mn, us","waseca, mn, us",102087641,us,1,mn,1,waseca
+us/mn/washington,"mn, us","washington, mn, us",102087659,us,1,mn,1,washington
+us/mn/wilkin,"mn, us","wilkin, mn, us",102087021,us,1,mn,1,wilkin
+us/mn/yellow_medicine,"mn, us","yellow medicine, mn, us",102087691,us,1,mn,1,yellow medicine
+us/mo/barry,"mo, us","barry, mo, us",102086881,us,1,mo,1,barry
+us/mo/bates,"mo, us","bates, mo, us",102085289,us,1,mo,1,bates
+us/mo/boone,"mo, us","boone, mo, us",102086187,us,1,mo,1,boone
+us/mo/buchanan,"mo, us","buchanan, mo, us",102086153,us,1,mo,1,buchanan
+us/mo/city_of_cape_girardeau,"mo, us","cape girardeau, mo, us",102086155,us,1,mo,1,cape girardeau
+us/mo/city_of_columbia,"mo, us","columbia, mo, us",85970425,us,1,mo,1,columbia
+us/mo/city_of_kansas_city,"mo, us","kansas city, mo, us",85970739,us,1,mo,1,kansas city
+us/mo/city_of_ofallon,"mo, us","ofallon, mo, us",85972035,us,1,mo,1,ofallon
+us/mo/city_of_perryville,"mo, us","perryville, mo, us",85971079,us,1,mo,1,perryville
+us/mo/city_of_st_louis,"mo, us","st louis, mo, us",102086173,us,1,mo,1,st louis
+us/mo/cole,"mo, us","cole, mo, us",102087519,us,1,mo,1,cole
+us/mo/dallas,"mo, us","dallas, mo, us",102086885,us,1,mo,1,dallas
+us/mo/greene,"mo, us","greene, mo, us",102087523,us,1,mo,1,greene
+us/mo/iron,"mo, us","iron, mo, us",102080793,us,1,mo,1,iron
+us/mo/jackson,"mo, us","jackson, mo, us",102081227,us,1,mo,1,jackson
+us/mo/jefferson,"mo, us","jefferson, mo, us",102080787,us,1,mo,1,jefferson
+us/mo/livingston,"mo, us","livingston, mo, us",102086169,us,1,mo,1,livingston
+us/mo/madison,"mo, us","madison, mo, us",102087483,us,1,mo,1,madison
+us/mo/new_madrid,"mo, us","new madrid, mo, us",102087509,us,1,mo,1,new madrid
+us/mo/osage,"mo, us","osage, mo, us",102086907,us,1,mo,1,osage
+us/mo/perry,"mo, us","perry, mo, us",102087515,us,1,mo,1,perry
+us/mo/saint_francois,"mo, us","saint francois, mo, us",102085297,us,1,mo,1,saint francois
+us/mo/scott,"mo, us","scott, mo, us",102087505,us,1,mo,1,scott
+us/mo/st_charles,"mo, us","st charles, mo, us",102086159,us,1,mo,1,st charles
+us/mo/st_louis,"mo, us","st louis, mo, us",102086173,us,1,mo,1,st louis
+us/mo/taney,"mo, us","taney, mo, us",102086913,us,1,mo,1,taney
+us/mo/vernon,"mo, us","vernon, mo, us",102086909,us,1,mo,1,vernon
+us/mo/washington,"mo, us","washington, mo, us",404516447,us,1,mo,1,washington
+us/ms/city_of_biloxi,"ms, us","biloxi, ms, us",85969861,us,1,ms,1,biloxi
+us/ms/city_of_diamondhead,"ms, us","diamondhead, ms, us",85970309,us,1,ms,1,diamondhead
+us/ms/city_of_diberville,"ms, us","diberville, ms, us",85969865,us,1,ms,1,diberville
+us/ms/city_of_gulfport,"ms, us","gulfport, ms, us",85969867,us,1,ms,1,gulfport
+us/ms/city_of_hattiesburg,"ms, us","hattiesburg, ms, us",85969939,us,1,ms,1,hattiesburg
+us/ms/city_of_ocean_springs,"ms, us","ocean springs, ms, us",85969595,us,1,ms,1,ocean springs
+us/ms/city_of_pascagoula,"ms, us","pascagoula, ms, us",85969597,us,1,ms,1,pascagoula
+us/ms/city_of_pelahatchie,"ms, us","pelahatchie, ms, us",85969945,us,1,ms,1,pelahatchie
+us/ms/city_of_vicksburg,"ms, us","vicksburg, ms, us",85969915,us,1,ms,1,vicksburg
+us/ms/copiah,"ms, us","copiah, ms, us",102082435,us,1,ms,1,copiah
+us/ms/desoto,"ms, us","desoto, ms, us",102085895,us,1,ms,1,desoto
+us/ms/hancock,"ms, us","hancock, ms, us",102082425,us,1,ms,1,hancock
+us/ms/harrison,"ms, us","harrison, ms, us",102087223,us,1,ms,1,harrison
+us/ms/hinds,"ms, us","hinds, ms, us",102081407,us,1,ms,1,hinds
+us/ms/jackson,"ms, us","jackson, ms, us",85969693,us,1,ms,1,jackson
+us/ms/lauderdale,"ms, us","lauderdale, ms, us",102085897,us,1,ms,1,lauderdale
+us/ms/pontotoc,"ms, us","pontotoc, ms, us",102084865,us,1,ms,1,pontotoc
+us/ms/rankin,"ms, us","rankin, ms, us",102084869,us,1,ms,1,rankin
+us/ms/simpson,"ms, us","simpson, ms, us",102085885,us,1,ms,1,simpson
+us/ms/warren,"ms, us","warren, ms, us",102083779,us,1,ms,1,warren
+us/ms/yazoo,"ms, us","yazoo, ms, us",102086661,us,1,ms,1,yazoo
+us/mt/beaverhead,"mt, us","beaverhead, mt, us",102085131,us,1,mt,1,beaverhead
+us/mt/big_horn,"mt, us","big horn, mt, us",102085169,us,1,mt,1,big horn
+us/mt/blaine,"mt, us","blaine, mt, us",102085171,us,1,mt,1,blaine
+us/mt/broadwater,"mt, us","broadwater, mt, us",102085135,us,1,mt,1,broadwater
+us/mt/carbon,"mt, us","carbon, mt, us",102085111,us,1,mt,1,carbon
+us/mt/carter,"mt, us","carter, mt, us",102085091,us,1,mt,1,carter
+us/mt/cascade,"mt, us","cascade, mt, us",102085113,us,1,mt,1,cascade
+us/mt/chouteau,"mt, us","chouteau, mt, us",102085073,us,1,mt,1,chouteau
+us/mt/custer,"mt, us","custer, mt, us",102085197,us,1,mt,1,custer
+us/mt/daniels,"mt, us","daniels, mt, us",102085193,us,1,mt,1,daniels
+us/mt/dawson,"mt, us","dawson, mt, us",102085189,us,1,mt,1,dawson
+us/mt/deer_lodge,"mt, us","deer lodge, mt, us",1125946399,us,1,mt,1,deer lodge
+us/mt/fallon,"mt, us","fallon, mt, us",102085159,us,1,mt,1,fallon
+us/mt/fergus,"mt, us","fergus, mt, us",102085207,us,1,mt,1,fergus
+us/mt/flathead,"mt, us","flathead, mt, us",102085177,us,1,mt,1,flathead
+us/mt/gallatin,"mt, us","gallatin, mt, us",102085133,us,1,mt,1,gallatin
+us/mt/garfield,"mt, us","garfield, mt, us",102085129,us,1,mt,1,garfield
+us/mt/glacier,"mt, us","glacier, mt, us",102085069,us,1,mt,1,glacier
+us/mt/golden_valley,"mt, us","golden valley, mt, us",102085187,us,1,mt,1,golden valley
+us/mt/granite,"mt, us","granite, mt, us",102085055,us,1,mt,1,granite
+us/mt/helena,"mt, us","helena, mt, us",85972711,us,1,mt,1,helena
+us/mt/hill,"mt, us","hill, mt, us",102085067,us,1,mt,1,hill
+us/mt/jefferson,"mt, us","jefferson, mt, us",102085205,us,1,mt,1,jefferson
+us/mt/judith_basin,"mt, us","judith basin, mt, us",102085181,us,1,mt,1,judith basin
+us/mt/lake,"mt, us","lake, mt, us",102085121,us,1,mt,1,lake
+us/mt/liberty,"mt, us","liberty, mt, us",102085147,us,1,mt,1,liberty
+us/mt/lincoln,"mt, us","lincoln, mt, us",102085175,us,1,mt,1,lincoln
+us/mt/madison,"mt, us","madison, mt, us",102085179,us,1,mt,1,madison
+us/mt/mccone,"mt, us","mccone, mt, us",102085085,us,1,mt,1,mccone
+us/mt/meagher,"mt, us","meagher, mt, us",102085075,us,1,mt,1,meagher
+us/mt/mineral,"mt, us","mineral, mt, us",102085201,us,1,mt,1,mineral
+us/mt/missoula,"mt, us","missoula, mt, us",102085103,us,1,mt,1,missoula
+us/mt/musselshell,"mt, us","musselshell, mt, us",102085117,us,1,mt,1,musselshell
+us/mt/park,"mt, us","park, mt, us",102085059,us,1,mt,1,park
+us/mt/petroleum,"mt, us","petroleum, mt, us",102083903,us,1,mt,1,petroleum
+us/mt/phillips,"mt, us","phillips, mt, us",102085089,us,1,mt,1,phillips
+us/mt/pondera,"mt, us","pondera, mt, us",102083907,us,1,mt,1,pondera
+us/mt/powder_river,"mt, us","powder river, mt, us",102085127,us,1,mt,1,powder river
+us/mt/powell,"mt, us","powell, mt, us",102085093,us,1,mt,1,powell
+us/mt/prairie,"mt, us","prairie, mt, us",102085107,us,1,mt,1,prairie
+us/mt/ravalli,"mt, us","ravalli, mt, us",102085185,us,1,mt,1,ravalli
+us/mt/richland,"mt, us","richland, mt, us",102085141,us,1,mt,1,richland
+us/mt/roosevelt,"mt, us","roosevelt, mt, us",102085139,us,1,mt,1,roosevelt
+us/mt/rosebud,"mt, us","rosebud, mt, us",102085167,us,1,mt,1,rosebud
+us/mt/sanders,"mt, us","sanders, mt, us",102085063,us,1,mt,1,sanders
+us/mt/sheridan,"mt, us","sheridan, mt, us",102085165,us,1,mt,1,sheridan
+us/mt/silverbow,"mt, us","silverbow, mt, us",85688617,us,1,mt,1,silverbow
+us/mt/statewide,"mt, us","mt, us",85688617,us,1,mt,0,
+us/mt/stillwater,"mt, us","stillwater, mt, us",102085143,us,1,mt,1,stillwater
+us/mt/sweet_grass,"mt, us","sweet grass, mt, us",102085211,us,1,mt,1,sweet grass
+us/mt/teton,"mt, us","teton, mt, us",102085149,us,1,mt,1,teton
+us/mt/toole,"mt, us","toole, mt, us",102085115,us,1,mt,1,toole
+us/mt/treasure,"mt, us","treasure, mt, us",102085157,us,1,mt,1,treasure
+us/mt/valley,"mt, us","valley, mt, us",102085109,us,1,mt,1,valley
+us/mt/wheatland,"mt, us","wheatland, mt, us",102085183,us,1,mt,1,wheatland
+us/mt/wibaux,"mt, us","wibaux, mt, us",102085199,us,1,mt,1,wibaux
+us/mt/yellowstone,"mt, us","yellowstone, mt, us",102085087,us,1,mt,1,yellowstone
+us/nc/alamance,"nc, us","alamance, nc, us",102087643,us,1,nc,1,alamance
+us/nc/alexander,"nc, us","alexander, nc, us",102087889,us,1,nc,1,alexander
+us/nc/alleghany,"nc, us","alleghany, nc, us",102087713,us,1,nc,1,alleghany
+us/nc/anson,"nc, us","anson, nc, us",102087671,us,1,nc,1,anson
+us/nc/ashe,"nc, us","ashe, nc, us",102087795,us,1,nc,1,ashe
+us/nc/avery,"nc, us","avery, nc, us",102087789,us,1,nc,1,avery
+us/nc/beaufort,"nc, us","beaufort, nc, us",102080941,us,1,nc,1,beaufort
+us/nc/bertie,"nc, us","bertie, nc, us",102087751,us,1,nc,1,bertie
+us/nc/bladen,"nc, us","bladen, nc, us",102087835,us,1,nc,1,bladen
+us/nc/blowing_rock,"nc, us","blowing rock, nc, us",85980197,us,1,nc,1,blowing rock
+us/nc/brunswick,"nc, us","brunswick, nc, us",102087703,us,1,nc,1,brunswick
+us/nc/buncombe,"nc, us","buncombe, nc, us",102087845,us,1,nc,1,buncombe
+us/nc/burke,"nc, us","burke, nc, us",102080903,us,1,nc,1,burke
+us/nc/cabarrus,"nc, us","cabarrus, nc, us",102087733,us,1,nc,1,cabarrus
+us/nc/caldwell,"nc, us","caldwell, nc, us",102080885,us,1,nc,1,caldwell
+us/nc/camden,"nc, us","camden, nc, us",102087825,us,1,nc,1,camden
+us/nc/carteret,"nc, us","carteret, nc, us",102080875,us,1,nc,1,carteret
+us/nc/cary,"nc, us","cary, nc, us",85980827,us,1,nc,1,cary
+us/nc/caswell,"nc, us","caswell, nc, us",102087883,us,1,nc,1,caswell
+us/nc/catawba,"nc, us","catawba, nc, us",102087683,us,1,nc,1,catawba
+us/nc/charlotte,"nc, us","charlotte, nc, us",85981333,us,1,nc,1,charlotte
+us/nc/chatham,"nc, us","chatham, nc, us",102080923,us,1,nc,1,chatham
+us/nc/cherokee,"nc, us","cherokee, nc, us",102087769,us,1,nc,1,cherokee
+us/nc/chowan,"nc, us","chowan, nc, us",102087715,us,1,nc,1,chowan
+us/nc/city_of_boone,"nc, us","boone, nc, us",85980199,us,1,nc,1,boone
+us/nc/city_of_carolina_beach,"nc, us","carolina beach, nc, us",85980677,us,1,nc,1,carolina beach
+us/nc/city_of_elizabeth_city,"nc, us","elizabeth city, nc, us",85980355,us,1,nc,1,elizabeth city
+us/nc/city_of_fuquay_varina,"nc, us","fuquay varina, nc, us",85981381,us,1,nc,1,fuquay varina
+us/nc/city_of_greensboro,"nc, us","greensboro, nc, us",85980391,us,1,nc,1,greensboro
+us/nc/city_of_king,"nc, us","king, nc, us",85980705,us,1,nc,1,king
+us/nc/city_of_salisbury,"nc, us","salisbury, nc, us",85980237,us,1,nc,1,salisbury
+us/nc/clay,"nc, us","clay, nc, us",102087685,us,1,nc,1,clay
+us/nc/cleveland,"nc, us","cleveland, nc, us",102087851,us,1,nc,1,cleveland
+us/nc/columbus,"nc, us","columbus, nc, us",102087707,us,1,nc,1,columbus
+us/nc/craven,"nc, us","craven, nc, us",102087763,us,1,nc,1,craven
+us/nc/cumberland,"nc, us","cumberland, nc, us",102080897,us,1,nc,1,cumberland
+us/nc/currituck,"nc, us","currituck, nc, us",102087673,us,1,nc,1,currituck
+us/nc/dare,"nc, us","dare, nc, us",102087745,us,1,nc,1,dare
+us/nc/davidson,"nc, us","davidson, nc, us",102080877,us,1,nc,1,davidson
+us/nc/davie,"nc, us","davie, nc, us",102087633,us,1,nc,1,davie
+us/nc/duplin,"nc, us","duplin, nc, us",102087593,us,1,nc,1,duplin
+us/nc/durham,"nc, us","durham, nc, us",102080909,us,1,nc,1,durham
+us/nc/ebci,"nc, us","ebci, nc, us",85688773,us,1,nc,1,ebci
+us/nc/edgecombe,"nc, us","edgecombe, nc, us",102087723,us,1,nc,1,edgecombe
+us/nc/forsyth,"nc, us","forsyth, nc, us",102080957,us,1,nc,1,forsyth
+us/nc/franklin,"nc, us","franklin, nc, us",102080873,us,1,nc,1,franklin
+us/nc/gaston,"nc, us","gaston, nc, us",102087869,us,1,nc,1,gaston
+us/nc/gates,"nc, us","gates, nc, us",102087781,us,1,nc,1,gates
+us/nc/graham,"nc, us","graham, nc, us",85980795,us,1,nc,1,graham
+us/nc/granville,"nc, us","granville, nc, us",102087901,us,1,nc,1,granville
+us/nc/greene,"nc, us","greene, nc, us",102080915,us,1,nc,1,greene
+us/nc/guilford,"nc, us","guilford, nc, us",102080985,us,1,nc,1,guilford
+us/nc/halifax,"nc, us","halifax, nc, us",102080921,us,1,nc,1,halifax
+us/nc/harnett,"nc, us","harnett, nc, us",102087823,us,1,nc,1,harnett
+us/nc/haywood,"nc, us","haywood, nc, us",102087839,us,1,nc,1,haywood
+us/nc/henderson,"nc, us","henderson, nc, us",102080983,us,1,nc,1,henderson
+us/nc/hertford,"nc, us","hertford, nc, us",102087743,us,1,nc,1,hertford
+us/nc/hoke,"nc, us","hoke, nc, us",102087749,us,1,nc,1,hoke
+us/nc/hyde,"nc, us","hyde, nc, us",102087777,us,1,nc,1,hyde
+us/nc/iredell,"nc, us","iredell, nc, us",102080905,us,1,nc,1,iredell
+us/nc/jackson,"nc, us","jackson, nc, us",102087875,us,1,nc,1,jackson
+us/nc/johnston,"nc, us","johnston, nc, us",102080883,us,1,nc,1,johnston
+us/nc/jones,"nc, us","jones, nc, us",102087853,us,1,nc,1,jones
+us/nc/lee,"nc, us","lee, nc, us",102087817,us,1,nc,1,lee
+us/nc/lenoir,"nc, us","lenoir, nc, us",102080971,us,1,nc,1,lenoir
+us/nc/lincoln,"nc, us","lincoln, nc, us",102087857,us,1,nc,1,lincoln
+us/nc/macon,"nc, us","macon, nc, us",102087627,us,1,nc,1,macon
+us/nc/madison,"nc, us","madison, nc, us",102087617,us,1,nc,1,madison
+us/nc/martin,"nc, us","martin, nc, us",102087741,us,1,nc,1,martin
+us/nc/mcdowell,"nc, us","mcdowell, nc, us",102087903,us,1,nc,1,mcdowell
+us/nc/mecklenburg,"nc, us","mecklenburg, nc, us",102080981,us,1,nc,1,mecklenburg
+us/nc/mitchell,"nc, us","mitchell, nc, us",102080935,us,1,nc,1,mitchell
+us/nc/montgomery,"nc, us","montgomery, nc, us",102080893,us,1,nc,1,montgomery
+us/nc/moore,"nc, us","moore, nc, us",102087705,us,1,nc,1,moore
+us/nc/nash,"nc, us","nash, nc, us",102080949,us,1,nc,1,nash
+us/nc/new_hanover,"nc, us","new hanover, nc, us",102087757,us,1,nc,1,new hanover
+us/nc/northampton,"nc, us","northampton, nc, us",102087649,us,1,nc,1,northampton
+us/nc/onslow,"nc, us","onslow, nc, us",102087881,us,1,nc,1,onslow
+us/nc/orange,"nc, us","orange, nc, us",102087647,us,1,nc,1,orange
+us/nc/pamlico,"nc, us","pamlico, nc, us",102087791,us,1,nc,1,pamlico
+us/nc/pasquotank,"nc, us","pasquotank, nc, us",102087645,us,1,nc,1,pasquotank
+us/nc/pender,"nc, us","pender, nc, us",102087779,us,1,nc,1,pender
+us/nc/perquimans,"nc, us","perquimans, nc, us",102080919,us,1,nc,1,perquimans
+us/nc/person,"nc, us","person, nc, us",102087737,us,1,nc,1,person
+us/nc/pitt,"nc, us","pitt, nc, us",102087595,us,1,nc,1,pitt
+us/nc/polk,"nc, us","polk, nc, us",102087877,us,1,nc,1,polk
+us/nc/randolph,"nc, us","randolph, nc, us",102087787,us,1,nc,1,randolph
+us/nc/richmond,"nc, us","richmond, nc, us",102080891,us,1,nc,1,richmond
+us/nc/robeson,"nc, us","robeson, nc, us",102080933,us,1,nc,1,robeson
+us/nc/rockingham,"nc, us","rockingham, nc, us",102087893,us,1,nc,1,rockingham
+us/nc/rowan,"nc, us","rowan, nc, us",102087731,us,1,nc,1,rowan
+us/nc/rutherford,"nc, us","rutherford, nc, us",102087701,us,1,nc,1,rutherford
+us/nc/sampson,"nc, us","sampson, nc, us",102080881,us,1,nc,1,sampson
+us/nc/scotland,"nc, us","scotland, nc, us",102087849,us,1,nc,1,scotland
+us/nc/stanly,"nc, us","stanly, nc, us",102087667,us,1,nc,1,stanly
+us/nc/statewide,"nc, us","nc, us",85688773,us,1,nc,0,
+us/nc/stokes,"nc, us","stokes, nc, us",102087767,us,1,nc,1,stokes
+us/nc/surry,"nc, us","surry, nc, us",102080927,us,1,nc,1,surry
+us/nc/swain,"nc, us","swain, nc, us",102087771,us,1,nc,1,swain
+us/nc/town_of_chapel_hill,"nc, us","chapel hill, nc, us",85980563,us,1,nc,1,chapel hill
+us/nc/transylvania,"nc, us","transylvania, nc, us",102087629,us,1,nc,1,transylvania
+us/nc/tyrrell,"nc, us","tyrrell, nc, us",102087759,us,1,nc,1,tyrrell
+us/nc/union,"nc, us","union, nc, us",102080895,us,1,nc,1,union
+us/nc/vance,"nc, us","vance, nc, us",102087631,us,1,nc,1,vance
+us/nc/wake,"nc, us","wake, nc, us",102087821,us,1,nc,1,wake
+us/nc/warren,"nc, us","warren, nc, us",102087611,us,1,nc,1,warren
+us/nc/washington,"nc, us","washington, nc, us",102087785,us,1,nc,1,washington
+us/nc/watauga,"nc, us","watauga, nc, us",102087689,us,1,nc,1,watauga
+us/nc/wayne,"nc, us","wayne, nc, us",102087601,us,1,nc,1,wayne
+us/nc/wilkes,"nc, us","wilkes, nc, us",102087899,us,1,nc,1,wilkes
+us/nc/wilson,"nc, us","wilson, nc, us",102087637,us,1,nc,1,wilson
+us/nc/yadkin,"nc, us","yadkin, nc, us",102087797,us,1,nc,1,yadkin
+us/nc/yancey,"nc, us","yancey, nc, us",102087871,us,1,nc,1,yancey
+us/nd/bottineau,"nd, us","bottineau, nd, us",102082109,us,1,nd,1,bottineau
+us/nd/cass,"nd, us","cass, nd, us",102082073,us,1,nd,1,cass
+us/nd/city_of_bismarck,"nd, us","bismarck, nd, us",404478811,us,1,nd,1,bismarck
+us/nd/city_of_fargo,"nd, us","fargo, nd, us",85982177,us,1,nd,1,fargo
+us/nd/dickinson,"nd, us","dickinson, nd, us",404482179,us,1,nd,1,dickinson
+us/nd/golden_valley_county,"nd, us","golden valley county, nd, us",102082053,us,1,nd,1,golden valley county
+us/nd/grand_forks,"nd, us","grand forks, nd, us",102081493,us,1,nd,1,grand forks
+us/nd/mckenzie_county,"nd, us","mckenzie county, nd, us",102082091,us,1,nd,1,mckenzie county
+us/nd/morton,"nd, us","morton, nd, us",102082067,us,1,nd,1,morton
+us/nd/ramsey,"nd, us","ramsey, nd, us",102081517,us,1,nd,1,ramsey
+us/nd/richland,"nd, us","richland, nd, us",102082103,us,1,nd,1,richland
+us/nd/rolette,"nd, us","rolette, nd, us",102081515,us,1,nd,1,rolette
+us/nd/stark_county,"nd, us","stark county, nd, us",102082105,us,1,nd,1,stark county
+us/nd/stutsman,"nd, us","stutsman, nd, us",102082093,us,1,nd,1,stutsman
+us/nd/ward,"nd, us","ward, nd, us",102082117,us,1,nd,1,ward
+us/nd/williams,"nd, us","williams, nd, us",102082069,us,1,nd,1,williams
+us/ne/antelope,"ne, us","antelope, ne, us",102082205,us,1,ne,1,antelope
+us/ne/arthur,"ne, us","arthur, ne, us",404519431,us,1,ne,1,arthur
+us/ne/banner,"ne, us","banner, ne, us",102082235,us,1,ne,1,banner
+us/ne/blaine,"ne, us","blaine, ne, us",404520447,us,1,ne,1,blaine
+us/ne/boone,"ne, us","boone, ne, us",102082795,us,1,ne,1,boone
+us/ne/box_butte,"ne, us","box butte, ne, us",102082755,us,1,ne,1,box butte
+us/ne/brown,"ne, us","brown, ne, us",102082245,us,1,ne,1,brown
+us/ne/buffalo,"ne, us","buffalo, ne, us",102084305,us,1,ne,1,buffalo
+us/ne/burt,"ne, us","burt, ne, us",102082195,us,1,ne,1,burt
+us/ne/butler,"ne, us","butler, ne, us",102082839,us,1,ne,1,butler
+us/ne/cass,"ne, us","cass, ne, us",102082791,us,1,ne,1,cass
+us/ne/cedar,"ne, us","cedar, ne, us",102082819,us,1,ne,1,cedar
+us/ne/chase,"ne, us","chase, ne, us",102082775,us,1,ne,1,chase
+us/ne/cherry,"ne, us","cherry, ne, us",102082793,us,1,ne,1,cherry
+us/ne/cheyenne,"ne, us","cheyenne, ne, us",102082753,us,1,ne,1,cheyenne
+us/ne/clay,"ne, us","clay, ne, us",102082241,us,1,ne,1,clay
+us/ne/cuming,"ne, us","cuming, ne, us",102082731,us,1,ne,1,cuming
+us/ne/custer,"ne, us","custer, ne, us",102084301,us,1,ne,1,custer
+us/ne/dakota,"ne, us","dakota, ne, us",102082249,us,1,ne,1,dakota
+us/ne/dawes,"ne, us","dawes, ne, us",102082801,us,1,ne,1,dawes
+us/ne/dawson,"ne, us","dawson, ne, us",102082197,us,1,ne,1,dawson
+us/ne/deuel,"ne, us","deuel, ne, us",102082211,us,1,ne,1,deuel
+us/ne/dixon,"ne, us","dixon, ne, us",102082809,us,1,ne,1,dixon
+us/ne/douglas,"ne, us","douglas, ne, us",102082789,us,1,ne,1,douglas
+us/ne/fillmore,"ne, us","fillmore, ne, us",102084289,us,1,ne,1,fillmore
+us/ne/franklin,"ne, us","franklin, ne, us",102083485,us,1,ne,1,franklin
+us/ne/frontier,"ne, us","frontier, ne, us",102082803,us,1,ne,1,frontier
+us/ne/gage,"ne, us","gage, ne, us",102083491,us,1,ne,1,gage
+us/ne/garden,"ne, us","garden, ne, us",102082733,us,1,ne,1,garden
+us/ne/garfield,"ne, us","garfield, ne, us",102082207,us,1,ne,1,garfield
+us/ne/gosper,"ne, us","gosper, ne, us",102082829,us,1,ne,1,gosper
+us/ne/grant,"ne, us","grant, ne, us",404520061,us,1,ne,1,grant
+us/ne/greeley,"ne, us","greeley, ne, us",102082785,us,1,ne,1,greeley
+us/ne/hamilton,"ne, us","hamilton, ne, us",102082837,us,1,ne,1,hamilton
+us/ne/harlan,"ne, us","harlan, ne, us",102082831,us,1,ne,1,harlan
+us/ne/hayes,"ne, us","hayes, ne, us",404520455,us,1,ne,1,hayes
+us/ne/hitchcock,"ne, us","hitchcock, ne, us",102082229,us,1,ne,1,hitchcock
+us/ne/holt,"ne, us","holt, ne, us",102084271,us,1,ne,1,holt
+us/ne/hooker,"ne, us","hooker, ne, us",102082767,us,1,ne,1,hooker
+us/ne/howard,"ne, us","howard, ne, us",102082811,us,1,ne,1,howard
+us/ne/johnson,"ne, us","johnson, ne, us",102082799,us,1,ne,1,johnson
+us/ne/kearney,"ne, us","kearney, ne, us",85973527,us,1,ne,1,kearney
+us/ne/keith,"ne, us","keith, ne, us",102082735,us,1,ne,1,keith
+us/ne/keya_paha,"ne, us","keya paha, ne, us",102082813,us,1,ne,1,keya paha
+us/ne/kimball,"ne, us","kimball, ne, us",102082827,us,1,ne,1,kimball
+us/ne/knox,"ne, us","knox, ne, us",102083471,us,1,ne,1,knox
+us/ne/lancaster,"ne, us","lancaster, ne, us",102083503,us,1,ne,1,lancaster
+us/ne/lincoln,"ne, us","lincoln, ne, us",1125899387,us,1,ne,1,lincoln
+us/ne/logan,"ne, us","logan, ne, us",404518525,us,1,ne,1,logan
+us/ne/madison,"ne, us","madison, ne, us",102083483,us,1,ne,1,madison
+us/ne/merrick,"ne, us","merrick, ne, us",102082243,us,1,ne,1,merrick
+us/ne/morrill,"ne, us","morrill, ne, us",102083475,us,1,ne,1,morrill
+us/ne/nance,"ne, us","nance, ne, us",102083487,us,1,ne,1,nance
+us/ne/nemaha,"ne, us","nemaha, ne, us",102083473,us,1,ne,1,nemaha
+us/ne/nuckolls,"ne, us","nuckolls, ne, us",102082805,us,1,ne,1,nuckolls
+us/ne/omaha,"ne, us","omaha, ne, us",404518711,us,1,ne,1,omaha
+us/ne/otoe,"ne, us","otoe, ne, us",102082763,us,1,ne,1,otoe
+us/ne/pawnee,"ne, us","pawnee, ne, us",102082223,us,1,ne,1,pawnee
+us/ne/perkins,"ne, us","perkins, ne, us",102083497,us,1,ne,1,perkins
+us/ne/phelps,"ne, us","phelps, ne, us",102082835,us,1,ne,1,phelps
+us/ne/pierce,"ne, us","pierce, ne, us",102082739,us,1,ne,1,pierce
+us/ne/platte,"ne, us","platte, ne, us",102084277,us,1,ne,1,platte
+us/ne/polk,"ne, us","polk, ne, us",102082823,us,1,ne,1,polk
+us/ne/red_willow,"ne, us","red willow, ne, us",102082769,us,1,ne,1,red willow
+us/ne/richardson,"ne, us","richardson, ne, us",102082741,us,1,ne,1,richardson
+us/ne/rock,"ne, us","rock, ne, us",102083501,us,1,ne,1,rock
+us/ne/saline,"ne, us","saline, ne, us",102082745,us,1,ne,1,saline
+us/ne/sarpy,"ne, us","sarpy, ne, us",102082777,us,1,ne,1,sarpy
+us/ne/seward,"ne, us","seward, ne, us",102082261,us,1,ne,1,seward
+us/ne/sheridan,"ne, us","sheridan, ne, us",102082259,us,1,ne,1,sheridan
+us/ne/sherman,"ne, us","sherman, ne, us",102082747,us,1,ne,1,sherman
+us/ne/sioux,"ne, us","sioux, ne, us",102082209,us,1,ne,1,sioux
+us/ne/stanton,"ne, us","stanton, ne, us",102082751,us,1,ne,1,stanton
+us/ne/thayer,"ne, us","thayer, ne, us",102082227,us,1,ne,1,thayer
+us/ne/thomas,"ne, us","thomas, ne, us",404520573,us,1,ne,1,thomas
+us/ne/thurston,"ne, us","thurston, ne, us",102082737,us,1,ne,1,thurston
+us/ne/valley,"ne, us","valley, ne, us",102083479,us,1,ne,1,valley
+us/ne/webster,"ne, us","webster, ne, us",102082787,us,1,ne,1,webster
+us/ne/york,"ne, us","york, ne, us",102083493,us,1,ne,1,york
+us/nh/city_of_auburn,"nh, us","auburn, nh, us",1125979415,us,1,nh,1,auburn
+us/nh/city_of_hampstead,"nh, us","hampstead, nh, us",1125834415,us,1,nh,1,hampstead
+us/nh/city_of_nashua,"nh, us","nashua, nh, us",85975079,us,1,nh,1,nashua
+us/nh/jaffrey,"nh, us","jaffrey, nh, us",404476835,us,1,nh,1,jaffrey
+us/nh/milford,"nh, us","milford, nh, us",404477195,us,1,nh,1,milford
+us/nh/statewide,"nh, us","nh, us",85688689,us,1,nh,0,
+us/nj/bergen,"nj, us","bergen, nj, us",102086773,us,1,nj,1,bergen
+us/nj/cape_may,"nj, us","cape may, nj, us",102086777,us,1,nj,1,cape may
+us/nj/franklin_township,"nj, us","franklin township, nj, us",404477923,us,1,nj,1,franklin township
+us/nj/monmouth,"nj, us","monmouth, nj, us",102085049,us,1,nj,1,monmouth
+us/nj/morris,"nj, us","morris, nj, us",102087413,us,1,nj,1,morris
+us/nj/statewide,"nj, us","nj, us",85688607,us,1,nj,0,
+us/nj/sussex,"nj, us","sussex, nj, us",102086779,us,1,nj,1,sussex
+us/nm/albuquerque,"nm, us","albuquerque, nm, us",85976715,us,1,nm,1,albuquerque
+us/nm/bernalillo,"nm, us","bernalillo, nm, us",102081199,us,1,nm,1,bernalillo
+us/nm/city_of_carlsbad,"nm, us","carlsbad, nm, us",85976665,us,1,nm,1,carlsbad
+us/nm/city_of_farmington,"nm, us","farmington, nm, us",85976671,us,1,nm,1,farmington
+us/nm/city_of_las_cruces,"nm, us","las cruces, nm, us",85976635,us,1,nm,1,las cruces
+us/nm/city_of_ruidoso,"nm, us","ruidoso, nm, us",85976601,us,1,nm,1,ruidoso
+us/nm/city_of_santa_fe,"nm, us","santa fe, nm, us",102081571,us,1,nm,1,santa fe
+us/nm/de_baca,"nm, us","de baca, nm, us",102081187,us,1,nm,1,de baca
+us/nm/dona_ana-2,"nm, us","dona ana, nm, us",102081557,us,1,nm,1,dona ana
+us/nm/dona_ana,"nm, us","dona ana, nm, us",102081557,us,1,nm,1,dona ana
+us/nm/eddy,"nm, us","eddy, nm, us",102081185,us,1,nm,1,eddy
+us/nm/hidalgo,"nm, us","hidalgo, nm, us",102081183,us,1,nm,1,hidalgo
+us/nm/lincoln,"nm, us","lincoln, nm, us",102081577,us,1,nm,1,lincoln
+us/nm/los_alamos,"nm, us","los alamos, nm, us",102081197,us,1,nm,1,los alamos
+us/nm/luna,"nm, us","luna, nm, us",102081581,us,1,nm,1,luna
+us/nm/san_juan,"nm, us","san juan, nm, us",102081171,us,1,nm,1,san juan
+us/nm/statewide,"nm, us","nm, us",85688493,us,1,nm,0,
+us/nm/taos,"nm, us","taos, nm, us",102081181,us,1,nm,1,taos
+us/nm/torrance,"nm, us","torrance, nm, us",102081157,us,1,nm,1,torrance
+us/nm/valencia,"nm, us","valencia, nm, us",102081561,us,1,nm,1,valencia
+us/nv/carson_city,"nv, us","carson city, nv, us",85974793,us,1,nv,1,carson city
+us/nv/churchill,"nv, us","churchill, nv, us",102082595,us,1,nv,1,churchill
+us/nv/clark,"nv, us","clark, nv, us",102081553,us,1,nv,1,clark
+us/nv/douglas,"nv, us","douglas, nv, us",102081541,us,1,nv,1,douglas
+us/nv/elko,"nv, us","elko, nv, us",102082651,us,1,nv,1,elko
+us/nv/eureka,"nv, us","eureka, nv, us",102081543,us,1,nv,1,eureka
+us/nv/henderson,"nv, us","henderson, nv, us",85974803,us,1,nv,1,henderson
+us/nv/lander,"nv, us","lander, nv, us",102081545,us,1,nv,1,lander
+us/nv/las_vegas,"nv, us","las vegas, nv, us",85974801,us,1,nv,1,las vegas
+us/nv/lincoln,"nv, us","lincoln, nv, us",102081549,us,1,nv,1,lincoln
+us/nv/lyon,"nv, us","lyon, nv, us",102081531,us,1,nv,1,lyon
+us/nv/mineral,"nv, us","mineral, nv, us",102081539,us,1,nv,1,mineral
+us/nv/nye,"nv, us","nye, nv, us",102082609,us,1,nv,1,nye
+us/nv/pershing,"nv, us","pershing, nv, us",102082641,us,1,nv,1,pershing
+us/nv/storey,"nv, us","storey, nv, us",102082615,us,1,nv,1,storey
+us/nv/washoe,"nv, us","washoe, nv, us",102081533,us,1,nv,1,washoe
+us/ny/allegany,"ny, us","allegany, ny, us",102082403,us,1,ny,1,allegany
+us/ny/broome,"ny, us","broome, ny, us",102081755,us,1,ny,1,broome
+us/ny/cayuga,"ny, us","cayuga, ny, us",102083071,us,1,ny,1,cayuga
+us/ny/city_of_new_york,"ny, us","new york, ny, us",85977539,us,1,ny,1,new york
+us/ny/city_of_rochester,"ny, us","rochester, ny, us",85977591,us,1,ny,1,rochester
+us/ny/erie,"ny, us","erie, ny, us",102082387,us,1,ny,1,erie
+us/ny/orange,"ny, us","orange, ny, us",102083061,us,1,ny,1,orange
+us/ny/statewide,"ny, us","ny, us",85688543,us,1,ny,0,
+us/ny/sullivan,"ny, us","sullivan, ny, us",102082407,us,1,ny,1,sullivan
+us/ny/tompkins,"ny, us","tompkins, ny, us",102082355,us,1,ny,1,tompkins
+us/ny/ulster,"ny, us","ulster, ny, us",102081775,us,1,ny,1,ulster
+us/ny/westchester,"ny, us","westchester, ny, us",102082373,us,1,ny,1,westchester
+us/oh/adams,"oh, us","adams, oh, us",102084821,us,1,oh,1,adams
+us/oh/allen,"oh, us","allen, oh, us",102083673,us,1,oh,1,allen
+us/oh/ashland,"oh, us","ashland, oh, us",102084829,us,1,oh,1,ashland
+us/oh/ashtabula,"oh, us","ashtabula, oh, us",102083657,us,1,oh,1,ashtabula
+us/oh/athens,"oh, us","athens, oh, us",102084755,us,1,oh,1,athens
+us/oh/auglaize,"oh, us","auglaize, oh, us",102084809,us,1,oh,1,auglaize
+us/oh/belmont,"oh, us","belmont, oh, us",102083721,us,1,oh,1,belmont
+us/oh/brown,"oh, us","brown, oh, us",102083665,us,1,oh,1,brown
+us/oh/butler,"oh, us","butler, oh, us",102084743,us,1,oh,1,butler
+us/oh/carroll,"oh, us","carroll, oh, us",102084825,us,1,oh,1,carroll
+us/oh/champaign,"oh, us","champaign, oh, us",102084709,us,1,oh,1,champaign
+us/oh/city_of_columbus,"oh, us","columbus, oh, us",101712381,us,1,oh,1,columbus
+us/oh/city_of_perrysburg,"oh, us","perrysburg, oh, us",404526413,us,1,oh,1,perrysburg
+us/oh/clark,"oh, us","clark, oh, us",102083685,us,1,oh,1,clark
+us/oh/clermont,"oh, us","clermont, oh, us",102084793,us,1,oh,1,clermont
+us/oh/clinton,"oh, us","clinton, oh, us",102083645,us,1,oh,1,clinton
+us/oh/columbiana,"oh, us","columbiana, oh, us",102083745,us,1,oh,1,columbiana
+us/oh/coshocton,"oh, us","coshocton, oh, us",102083635,us,1,oh,1,coshocton
+us/oh/crawford,"oh, us","crawford, oh, us",102084729,us,1,oh,1,crawford
+us/oh/cuyahoga,"oh, us","cuyahoga, oh, us",102084837,us,1,oh,1,cuyahoga
+us/oh/darke,"oh, us","darke, oh, us",102084823,us,1,oh,1,darke
+us/oh/defiance,"oh, us","defiance, oh, us",102083701,us,1,oh,1,defiance
+us/oh/delaware,"oh, us","delaware, oh, us",102084739,us,1,oh,1,delaware
+us/oh/erie,"oh, us","erie, oh, us",102084735,us,1,oh,1,erie
+us/oh/fairfield,"oh, us","fairfield, oh, us",102083747,us,1,oh,1,fairfield
+us/oh/fayette,"oh, us","fayette, oh, us",102083691,us,1,oh,1,fayette
+us/oh/franklin,"oh, us","franklin, oh, us",102080969,us,1,oh,1,franklin
+us/oh/fulton,"oh, us","fulton, oh, us",102083693,us,1,oh,1,fulton
+us/oh/gallia,"oh, us","gallia, oh, us",102083675,us,1,oh,1,gallia
+us/oh/geauga,"oh, us","geauga, oh, us",102084789,us,1,oh,1,geauga
+us/oh/greene,"oh, us","greene, oh, us",102084765,us,1,oh,1,greene
+us/oh/guernsey,"oh, us","guernsey, oh, us",102084783,us,1,oh,1,guernsey
+us/oh/hamilton,"oh, us","hamilton, oh, us",102083687,us,1,oh,1,hamilton
+us/oh/hancock,"oh, us","hancock, oh, us",102084835,us,1,oh,1,hancock
+us/oh/hardin,"oh, us","hardin, oh, us",102084805,us,1,oh,1,hardin
+us/oh/harrison,"oh, us","harrison, oh, us",404526853,us,1,oh,1,harrison
+us/oh/henry,"oh, us","henry, oh, us",102081329,us,1,oh,1,henry
+us/oh/highland,"oh, us","highland, oh, us",102084797,us,1,oh,1,highland
+us/oh/hocking,"oh, us","hocking, oh, us",102083709,us,1,oh,1,hocking
+us/oh/holmes,"oh, us","holmes, oh, us",102083651,us,1,oh,1,holmes
+us/oh/huron,"oh, us","huron, oh, us",102083735,us,1,oh,1,huron
+us/oh/jackson,"oh, us","jackson, oh, us",404524635,us,1,oh,1,jackson
+us/oh/jefferson,"oh, us","jefferson, oh, us",102084713,us,1,oh,1,jefferson
+us/oh/knox,"oh, us","knox, oh, us",102084811,us,1,oh,1,knox
+us/oh/lake,"oh, us","lake, oh, us",102083703,us,1,oh,1,lake
+us/oh/lawrence,"oh, us","lawrence, oh, us",102083699,us,1,oh,1,lawrence
+us/oh/licking,"oh, us","licking, oh, us",102084761,us,1,oh,1,licking
+us/oh/licking2,"oh, us","licking, oh, us",102084761,us,1,oh,1,licking
+us/oh/logan,"oh, us","logan, oh, us",102083729,us,1,oh,1,logan
+us/oh/lorain,"oh, us","lorain, oh, us",102083683,us,1,oh,1,lorain
+us/oh/lucas,"oh, us","lucas, oh, us",102084787,us,1,oh,1,lucas
+us/oh/madison,"oh, us","madison, oh, us",102084757,us,1,oh,1,madison
+us/oh/mahoning,"oh, us","mahoning, oh, us",102084799,us,1,oh,1,mahoning
+us/oh/marion,"oh, us","marion, oh, us",102084791,us,1,oh,1,marion
+us/oh/medina,"oh, us","medina, oh, us",102081391,us,1,oh,1,medina
+us/oh/meigs,"oh, us","meigs, oh, us",102083655,us,1,oh,1,meigs
+us/oh/mercer,"oh, us","mercer, oh, us",102083647,us,1,oh,1,mercer
+us/oh/miami,"oh, us","miami, oh, us",102084719,us,1,oh,1,miami
+us/oh/monroe,"oh, us","monroe, oh, us",404526615,us,1,oh,1,monroe
+us/oh/montgomery,"oh, us","montgomery, oh, us",102083667,us,1,oh,1,montgomery
+us/oh/morgan,"oh, us","morgan, oh, us",102083711,us,1,oh,1,morgan
+us/oh/morrow,"oh, us","morrow, oh, us",102083749,us,1,oh,1,morrow
+us/oh/muskingum,"oh, us","muskingum, oh, us",102084785,us,1,oh,1,muskingum
+us/oh/noble,"oh, us","noble, oh, us",102084803,us,1,oh,1,noble
+us/oh/ottawa,"oh, us","ottawa, oh, us",102083765,us,1,oh,1,ottawa
+us/oh/paulding,"oh, us","paulding, oh, us",102083727,us,1,oh,1,paulding
+us/oh/perry,"oh, us","perry, oh, us",102084801,us,1,oh,1,perry
+us/oh/pickaway,"oh, us","pickaway, oh, us",102084815,us,1,oh,1,pickaway
+us/oh/pike,"oh, us","pike, oh, us",102084711,us,1,oh,1,pike
+us/oh/portage,"oh, us","portage, oh, us",102084819,us,1,oh,1,portage
+us/oh/preble,"oh, us","preble, oh, us",102083757,us,1,oh,1,preble
+us/oh/putnam,"oh, us","putnam, oh, us",102084773,us,1,oh,1,putnam
+us/oh/richland,"oh, us","richland, oh, us",102083681,us,1,oh,1,richland
+us/oh/ross,"oh, us","ross, oh, us",102084733,us,1,oh,1,ross
+us/oh/sandusky,"oh, us","sandusky, oh, us",102083653,us,1,oh,1,sandusky
+us/oh/scioto,"oh, us","scioto, oh, us",102081373,us,1,oh,1,scioto
+us/oh/seneca,"oh, us","seneca, oh, us",102084717,us,1,oh,1,seneca
+us/oh/shelby,"oh, us","shelby, oh, us",102083641,us,1,oh,1,shelby
+us/oh/stark,"oh, us","stark, oh, us",102083731,us,1,oh,1,stark
+us/oh/summit,"oh, us","summit, oh, us",102084807,us,1,oh,1,summit
+us/oh/toledo,"oh, us","toledo, oh, us",404525355,us,1,oh,1,toledo
+us/oh/trumbull,"oh, us","trumbull, oh, us",102083719,us,1,oh,1,trumbull
+us/oh/tuscarawas,"oh, us","tuscarawas, oh, us",102084737,us,1,oh,1,tuscarawas
+us/oh/union,"oh, us","union, oh, us",102083633,us,1,oh,1,union
+us/oh/van_wert,"oh, us","van wert, oh, us",102083689,us,1,oh,1,van wert
+us/oh/vinton,"oh, us","vinton, oh, us",102084833,us,1,oh,1,vinton
+us/oh/warren,"oh, us","warren, oh, us",102082423,us,1,oh,1,warren
+us/oh/washington,"oh, us","washington, oh, us",102084767,us,1,oh,1,washington
+us/oh/wayne,"oh, us","wayne, oh, us",102084731,us,1,oh,1,wayne
+us/oh/williams,"oh, us","williams, oh, us",102084817,us,1,oh,1,williams
+us/oh/wood,"oh, us","wood, oh, us",102084781,us,1,oh,1,wood
+us/oh/wyandot,"oh, us","wyandot, oh, us",102083695,us,1,oh,1,wyandot
+us/ok/acog-counties,"ok, us","acog counties, ok, us",85688585,us,1,ok,1,acog counties
+us/ok/carter-county,"ok, us","carter county, ok, us",102083987,us,1,ok,1,carter county
+us/ok/city_of_lawton,"ok, us","lawton, ok, us",101714821,us,1,ok,1,lawton
+us/ok/city_of_muskogee,"ok, us","muskogee, ok, us",102083313,us,1,ok,1,muskogee
+us/ok/city_of_newcastle,"ok, us","newcastle, ok, us",101715137,us,1,ok,1,newcastle
+us/ok/city_of_norman,"ok, us","norman, ok, us",101714727,us,1,ok,1,norman
+us/ok/city_of_stillwater,"ok, us","stillwater, ok, us",101714359,us,1,ok,1,stillwater
+us/ok/oklahoma,"ok, us","oklahoma, ok, us",102082577,us,1,ok,1,oklahoma
+us/ok/rogers,"ok, us","rogers, ok, us",102083997,us,1,ok,1,rogers
+us/ok/tulsa,"ok, us","tulsa, ok, us",102083277,us,1,ok,1,tulsa
+us/ok/wagoner,"ok, us","wagoner, ok, us",102083955,us,1,ok,1,wagoner
+us/or/baker,"or, us","baker, or, us",102082253,us,1,or,1,baker
+us/or/benton,"or, us","benton, or, us",102081237,us,1,or,1,benton
+us/or/city_of_albany,"or, us","albany, or, us",101715855,us,1,or,1,albany
+us/or/city_of_corvallis,"or, us","corvallis, or, us",101715853,us,1,or,1,corvallis
+us/or/city_of_salem,"or, us","salem, or, us",101716049,us,1,or,1,salem
+us/or/clackamas,"or, us","clackamas, or, us",102082213,us,1,or,1,clackamas
+us/or/clatsop,"or, us","clatsop, or, us",102081235,us,1,or,1,clatsop
+us/or/coos,"or, us","coos, or, us",102081629,us,1,or,1,coos
+us/or/crook,"or, us","crook, or, us",102081611,us,1,or,1,crook
+us/or/curry,"or, us","curry, or, us",102081621,us,1,or,1,curry
+us/or/deschutes,"or, us","deschutes, or, us",102082251,us,1,or,1,deschutes
+us/or/douglas,"or, us","douglas, or, us",102081635,us,1,or,1,douglas
+us/or/grant,"or, us","grant, or, us",102082217,us,1,or,1,grant
+us/or/gresham,"or, us","gresham, or, us",101716277,us,1,or,1,gresham
+us/or/harney,"or, us","harney, or, us",102081607,us,1,or,1,harney
+us/or/hood_river,"or, us","hood river, or, us",102081239,us,1,or,1,hood river
+us/or/jackson,"or, us","jackson, or, us",102081619,us,1,or,1,jackson
+us/or/jefferson,"or, us","jefferson, or, us",102081643,us,1,or,1,jefferson
+us/or/josephine,"or, us","josephine, or, us",102082263,us,1,or,1,josephine
+us/or/klamath,"or, us","klamath, or, us",102082231,us,1,or,1,klamath
+us/or/lake,"or, us","lake, or, us",102081647,us,1,or,1,lake
+us/or/lane,"or, us","lane, or, us",102081603,us,1,or,1,lane
+us/or/linn,"or, us","linn, or, us",102081639,us,1,or,1,linn
+us/or/malheur,"or, us","malheur, or, us",102081633,us,1,or,1,malheur
+us/or/marion,"or, us","marion, or, us",102082219,us,1,or,1,marion
+us/or/marion_and_polk,"or, us","marion and polk, or, us",101716509,us,1,or,1,marion and polk
+us/or/multnomah,"or, us","multnomah, or, us",102081631,us,1,or,1,multnomah
+us/or/oregon_city,"or, us","oregon city, or, us",101715863,us,1,or,1,oregon city
+us/or/portland,"or, us","portland, or, us",101715829,us,1,or,1,portland
+us/or/portland_metro,"or, us","portland metro, or, us",101715829,us,1,or,1,portland metro
+us/or/sherman,"or, us","sherman, or, us",102081641,us,1,or,1,sherman
+us/or/tillamook,"or, us","tillamook, or, us",102081623,us,1,or,1,tillamook
+us/or/umatilla,"or, us","umatilla, or, us",102081617,us,1,or,1,umatilla
+us/or/wallowa,"or, us","wallowa, or, us",102081605,us,1,or,1,wallowa
+us/or/wasco,"or, us","wasco, or, us",102081637,us,1,or,1,wasco
+us/or/washington,"or, us","washington, or, us",102082215,us,1,or,1,washington
+us/or/wheeler,"or, us","wheeler, or, us",102082233,us,1,or,1,wheeler
+us/or/yamhill,"or, us","yamhill, or, us",102081613,us,1,or,1,yamhill
+us/pa/adams,"pa, us","adams, pa, us",102080899,us,1,pa,1,adams
+us/pa/allegheny,"pa, us","allegheny, pa, us",102080887,us,1,pa,1,allegheny
+us/pa/armstrong,"pa, us","armstrong, pa, us",102081371,us,1,pa,1,armstrong
+us/pa/beaver,"pa, us","beaver, pa, us",102081323,us,1,pa,1,beaver
+us/pa/bedford,"pa, us","bedford, pa, us",102080939,us,1,pa,1,bedford
+us/pa/berks,"pa, us","berks, pa, us",102080991,us,1,pa,1,berks
+us/pa/blair,"pa, us","blair, pa, us",102081325,us,1,pa,1,blair
+us/pa/bucks,"pa, us","bucks, pa, us",102080987,us,1,pa,1,bucks
+us/pa/butler,"pa, us","butler, pa, us",102083677,us,1,pa,1,butler
+us/pa/cambria,"pa, us","cambria, pa, us",102080879,us,1,pa,1,cambria
+us/pa/cameron,"pa, us","cameron, pa, us",102081363,us,1,pa,1,cameron
+us/pa/centre,"pa, us","centre, pa, us",102081369,us,1,pa,1,centre
+us/pa/chester,"pa, us","chester, pa, us",102081275,us,1,pa,1,chester
+us/pa/clearfield,"pa, us","clearfield, pa, us",102080967,us,1,pa,1,clearfield
+us/pa/clinton,"pa, us","clinton, pa, us",102080917,us,1,pa,1,clinton
+us/pa/columbia,"pa, us","columbia, pa, us",102080973,us,1,pa,1,columbia
+us/pa/crawford,"pa, us","crawford, pa, us",102080911,us,1,pa,1,crawford
+us/pa/cumberland,"pa, us","cumberland, pa, us",102081359,us,1,pa,1,cumberland
+us/pa/dauphin,"pa, us","dauphin, pa, us",102081347,us,1,pa,1,dauphin
+us/pa/elk,"pa, us","elk, pa, us",102081265,us,1,pa,1,elk
+us/pa/erie,"pa, us","erie, pa, us",102080955,us,1,pa,1,erie
+us/pa/fayette,"pa, us","fayette, pa, us",102080959,us,1,pa,1,fayette
+us/pa/forest,"pa, us","forest, pa, us",102080977,us,1,pa,1,forest
+us/pa/franklin,"pa, us","franklin, pa, us",102081365,us,1,pa,1,franklin
+us/pa/fulton,"pa, us","fulton, pa, us",102081273,us,1,pa,1,fulton
+us/pa/greene,"pa, us","greene, pa, us",102080975,us,1,pa,1,greene
+us/pa/huntingdon,"pa, us","huntingdon, pa, us",102080901,us,1,pa,1,huntingdon
+us/pa/juniata,"pa, us","juniata, pa, us",102081367,us,1,pa,1,juniata
+us/pa/lackawanna,"pa, us","lackawanna, pa, us",102081345,us,1,pa,1,lackawanna
+us/pa/lancaster,"pa, us","lancaster, pa, us",102081377,us,1,pa,1,lancaster
+us/pa/lawrence,"pa, us","lawrence, pa, us",102080929,us,1,pa,1,lawrence
+us/pa/lehigh,"pa, us","lehigh, pa, us",102081327,us,1,pa,1,lehigh
+us/pa/lycoming,"pa, us","lycoming, pa, us",102081317,us,1,pa,1,lycoming
+us/pa/mckean,"pa, us","mckean, pa, us",102080951,us,1,pa,1,mckean
+us/pa/mercer,"pa, us","mercer, pa, us",102080965,us,1,pa,1,mercer
+us/pa/mifflin,"pa, us","mifflin, pa, us",102081333,us,1,pa,1,mifflin
+us/pa/monroe,"pa, us","monroe, pa, us",102080945,us,1,pa,1,monroe
+us/pa/montour,"pa, us","montour, pa, us",102080931,us,1,pa,1,montour
+us/pa/northampton,"pa, us","northampton, pa, us",102081395,us,1,pa,1,northampton
+us/pa/northumberland,"pa, us","northumberland, pa, us",102081349,us,1,pa,1,northumberland
+us/pa/perry,"pa, us","perry, pa, us",102080963,us,1,pa,1,perry
+us/pa/philadelphia,"pa, us","philadelphia, pa, us",404483701,us,1,pa,1,philadelphia
+us/pa/pike,"pa, us","pike, pa, us",102081385,us,1,pa,1,pike
+us/pa/potter,"pa, us","potter, pa, us",102081299,us,1,pa,1,potter
+us/pa/snyder,"pa, us","snyder, pa, us",102083759,us,1,pa,1,snyder
+us/pa/somerset,"pa, us","somerset, pa, us",102081361,us,1,pa,1,somerset
+us/pa/sullivan,"pa, us","sullivan, pa, us",102081281,us,1,pa,1,sullivan
+us/pa/tioga,"pa, us","tioga, pa, us",102080937,us,1,pa,1,tioga
+us/pa/union,"pa, us","union, pa, us",102081335,us,1,pa,1,union
+us/pa/venango,"pa, us","venango, pa, us",102081279,us,1,pa,1,venango
+us/pa/wayne,"pa, us","wayne, pa, us",102081379,us,1,pa,1,wayne
+us/pa/wyoming,"pa, us","wyoming, pa, us",102080947,us,1,pa,1,wyoming
+us/pa/york,"pa, us","york, pa, us",102080953,us,1,pa,1,york
+us/pr/statewide,"pr, us","pr, us",85633793,us,1,pr,0,
+us/ri/city_of_cranston,"ri, us","cranston, ri, us",101720573,us,1,ri,1,cranston
+us/ri/providence,"ri, us","providence, ri, us",102081597,us,1,ri,1,providence
+us/ri/statewide,"ri, us","ri, us",85688509,us,1,ri,0,
+us/sc/aiken,"sc, us","aiken, sc, us",102085721,us,1,sc,1,aiken
+us/sc/anderson,"sc, us","anderson, sc, us",102085401,us,1,sc,1,anderson
+us/sc/beaufort,"sc, us","beaufort, sc, us",102085471,us,1,sc,1,beaufort
+us/sc/berkeley,"sc, us","berkeley, sc, us",102085397,us,1,sc,1,berkeley
+us/sc/calhoun,"sc, us","calhoun, sc, us",102085709,us,1,sc,1,calhoun
+us/sc/charleston,"sc, us","charleston, sc, us",102085591,us,1,sc,1,charleston
+us/sc/cherokee,"sc, us","cherokee, sc, us",102085403,us,1,sc,1,cherokee
+us/sc/chesterfield,"sc, us","chesterfield, sc, us",102085707,us,1,sc,1,chesterfield
+us/sc/city_of_charleston,"sc, us","charleston, sc, us",102085591,us,1,sc,1,charleston
+us/sc/city_of_rock_hill,"sc, us","rock hill, sc, us",101721103,us,1,sc,1,rock hill
+us/sc/city_of_spartanburg,"sc, us","spartanburg, sc, us",102085437,us,1,sc,1,spartanburg
+us/sc/city_of_summerville,"sc, us","summerville, sc, us",101720753,us,1,sc,1,summerville
+us/sc/colleton,"sc, us","colleton, sc, us",102085669,us,1,sc,1,colleton
+us/sc/darlington,"sc, us","darlington, sc, us",102085743,us,1,sc,1,darlington
+us/sc/dorchester,"sc, us","dorchester, sc, us",102085409,us,1,sc,1,dorchester
+us/sc/florence,"sc, us","florence, sc, us",102085723,us,1,sc,1,florence
+us/sc/georgetown,"sc, us","georgetown, sc, us",102085683,us,1,sc,1,georgetown
+us/sc/greenville,"sc, us","greenville, sc, us",102085747,us,1,sc,1,greenville
+us/sc/greenwood,"sc, us","greenwood, sc, us",102085435,us,1,sc,1,greenwood
+us/sc/hilton_head_island,"sc, us","hilton head island, sc, us",101720697,us,1,sc,1,hilton head island
+us/sc/horry,"sc, us","horry, sc, us",102085687,us,1,sc,1,horry
+us/sc/jasper,"sc, us","jasper, sc, us",102085563,us,1,sc,1,jasper
+us/sc/laurens,"sc, us","laurens, sc, us",102085663,us,1,sc,1,laurens
+us/sc/lexington,"sc, us","lexington, sc, us",102085573,us,1,sc,1,lexington
+us/sc/newberry,"sc, us","newberry, sc, us",102085715,us,1,sc,1,newberry
+us/sc/oconee,"sc, us","oconee, sc, us",102085427,us,1,sc,1,oconee
+us/sc/orangeburg,"sc, us","orangeburg, sc, us",102085413,us,1,sc,1,orangeburg
+us/sc/pickens,"sc, us","pickens, sc, us",102085671,us,1,sc,1,pickens
+us/sc/saluda,"sc, us","saluda, sc, us",102085689,us,1,sc,1,saluda
+us/sc/sumter,"sc, us","sumter, sc, us",102085745,us,1,sc,1,sumter
+us/sc/union,"sc, us","union, sc, us",102085415,us,1,sc,1,union
+us/sc/york,"sc, us","york, sc, us",102085661,us,1,sc,1,york
+us/sd/city_of_sioux_falls,"sd, us","sioux falls, sd, us",101721785,us,1,sd,1,sioux falls
+us/sd/fall_river,"sd, us","fall river, sd, us",102086081,us,1,sd,1,fall river
+us/sd/lawrence,"sd, us","lawrence, sd, us",102086813,us,1,sd,1,lawrence
+us/sd/statewide,"sd, us","sd, us",85688693,us,1,sd,0,
+us/tn/blount,"tn, us","blount, tn, us",102087017,us,1,tn,1,blount
+us/tn/cheatham,"tn, us","cheatham, tn, us",102086233,us,1,tn,1,cheatham
+us/tn/city_of_brentwood,"tn, us","brentwood, tn, us",101723097,us,1,tn,1,brentwood
+us/tn/city_of_chattanooga,"tn, us","chattanooga, tn, us",101723043,us,1,tn,1,chattanooga
+us/tn/city_of_johnson_city,"tn, us","johnson city, tn, us",101722757,us,1,tn,1,johnson city
+us/tn/city_of_memphis,"tn, us","memphis, tn, us",1125813593,us,1,tn,1,memphis
+us/tn/city_of_murfreesboro,"tn, us","murfreesboro, tn, us",101723111,us,1,tn,1,murfreesboro
+us/tn/city_of_nashville,"tn, us","nashville, tn, us",101723183,us,1,tn,1,nashville
+us/tn/city_of_spring_hill,"tn, us","spring hill, tn, us",101723077,us,1,tn,1,spring hill
+us/tn/davidson,"tn, us","davidson, tn, us",102087061,us,1,tn,1,davidson
+us/tn/franklin,"tn, us","franklin, tn, us",101723093,us,1,tn,1,franklin
+us/tn/hamilton,"tn, us","hamilton, tn, us",102087185,us,1,tn,1,hamilton
+us/tn/jefferson,"tn, us","jefferson, tn, us",102086419,us,1,tn,1,jefferson
+us/tn/maury,"tn, us","maury, tn, us",102087107,us,1,tn,1,maury
+us/tn/montgomery,"tn, us","montgomery, tn, us",102086353,us,1,tn,1,montgomery
+us/tn/putnam,"tn, us","putnam, tn, us",102086339,us,1,tn,1,putnam
+us/tn/rutherford,"tn, us","rutherford, tn, us",102086355,us,1,tn,1,rutherford
+us/tn/sevier,"tn, us","sevier, tn, us",102086245,us,1,tn,1,sevier
+us/tn/shelby,"tn, us","shelby, tn, us",102087213,us,1,tn,1,shelby
+us/tn/statewide,"tn, us","tn, us",85688701,us,1,tn,0,
+us/tn/williamson,"tn, us","williamson, tn, us",102086337,us,1,tn,1,williamson
+us/tx/anderson,"tx, us","anderson, tx, us",102087281,us,1,tx,1,anderson
+us/tx/austin,"tx, us","austin, tx, us",101724577,us,1,tx,1,austin
+us/tx/bandera,"tx, us","bandera, tx, us",102087305,us,1,tx,1,bandera
+us/tx/bastrop,"tx, us","bastrop, tx, us",102087273,us,1,tx,1,bastrop
+us/tx/bexar,"tx, us","bexar, tx, us",102082471,us,1,tx,1,bexar
+us/tx/brazoria,"tx, us","brazoria, tx, us",102080677,us,1,tx,1,brazoria
+us/tx/brazos,"tx, us","brazos, tx, us",102081451,us,1,tx,1,brazos
+us/tx/burleson,"tx, us","burleson, tx, us",101723937,us,1,tx,1,burleson
+us/tx/camp,"tx, us","camp, tx, us",102081449,us,1,tx,1,camp
+us/tx/capcog,"tx, us","capcog, tx, us",85688753,us,1,tx,1,capcog
+us/tx/carson,"tx, us","carson, tx, us",102081999,us,1,tx,1,carson
+us/tx/city_of_abilene,"tx, us","abilene, tx, us",101724139,us,1,tx,1,abilene
+us/tx/city_of_alvin,"tx, us","alvin, tx, us",101725127,us,1,tx,1,alvin
+us/tx/city_of_amarillo,"tx, us","amarillo, tx, us",101724103,us,1,tx,1,amarillo
+us/tx/city_of_austin,"tx, us","austin, tx, us",101724577,us,1,tx,1,austin
+us/tx/city_of_beaumont,"tx, us","beaumont, tx, us",101724989,us,1,tx,1,beaumont
+us/tx/city_of_buda,"tx, us","buda, tx, us",101724583,us,1,tx,1,buda
+us/tx/city_of_carrollton,"tx, us","carrollton, tx, us",101724379,us,1,tx,1,carrollton
+us/tx/city_of_cedar_park,"tx, us","cedar park, tx, us",101725039,us,1,tx,1,cedar park
+us/tx/city_of_colleyville,"tx, us","colleyville, tx, us",101723675,us,1,tx,1,colleyville
+us/tx/city_of_dalhart,"tx, us","dalhart, tx, us",101724773,us,1,tx,1,dalhart
+us/tx/city_of_denison,"tx, us","denison, tx, us",101725095,us,1,tx,1,denison
+us/tx/city_of_denton,"tx, us","denton, tx, us",102087371,us,1,tx,1,denton
+us/tx/city_of_flower_mound,"tx, us","flower mound, tx, us",101724409,us,1,tx,1,flower mound
+us/tx/city_of_garland,"tx, us","garland, tx, us",101724045,us,1,tx,1,garland
+us/tx/city_of_horseshoe_bay,"tx, us","horseshoe bay, tx, us",101724789,us,1,tx,1,horseshoe bay
+us/tx/city_of_hurst,"tx, us","hurst, tx, us",101723619,us,1,tx,1,hurst
+us/tx/city_of_killeen,"tx, us","killeen, tx, us",101725403,us,1,tx,1,killeen
+us/tx/city_of_lewisville,"tx, us","lewisville, tx, us",101724413,us,1,tx,1,lewisville
+us/tx/city_of_longview,"tx, us","longview, tx, us",101725975,us,1,tx,1,longview
+us/tx/city_of_mansfield,"tx, us","mansfield, tx, us",101724559,us,1,tx,1,mansfield
+us/tx/city_of_mckinney,"tx, us","mckinney, tx, us",101726035,us,1,tx,1,mckinney
+us/tx/city_of_palestine,"tx, us","palestine, tx, us",101725943,us,1,tx,1,palestine
+us/tx/city_of_pearland,"tx, us","pearland, tx, us",101725125,us,1,tx,1,pearland
+us/tx/city_of_pflugerville,"tx, us","pflugerville, tx, us",101725089,us,1,tx,1,pflugerville
+us/tx/city_of_rosenberg,"tx, us","rosenberg, tx, us",101725897,us,1,tx,1,rosenberg
+us/tx/city_of_san_antonio,"tx, us","san antonio, tx, us",101724653,us,1,tx,1,san antonio
+us/tx/city_of_sherman,"tx, us","sherman, tx, us",102087407,us,1,tx,1,sherman
+us/tx/city_of_southlake,"tx, us","southlake, tx, us",101724501,us,1,tx,1,southlake
+us/tx/city_of_sugar_land,"tx, us","sugar land, tx, us",101725903,us,1,tx,1,sugar land
+us/tx/city_of_temple,"tx, us","temple, tx, us",101725429,us,1,tx,1,temple
+us/tx/city_of_university_park,"tx, us","university park, tx, us",101725703,us,1,tx,1,university park
+us/tx/city_of_waco,"tx, us","waco, tx, us",101723433,us,1,tx,1,waco
+us/tx/city_of_waxahachie,"tx, us","waxahachie, tx, us",101724635,us,1,tx,1,waxahachie
+us/tx/colleyville,"tx, us","colleyville, tx, us",101723675,us,1,tx,1,colleyville
+us/tx/collin,"tx, us","collin, tx, us",102086765,us,1,tx,1,collin
+us/tx/colorado,"tx, us","colorado, tx, us",102081455,us,1,tx,1,colorado
+us/tx/comal,"tx, us","comal, tx, us",102087411,us,1,tx,1,comal
+us/tx/comanche,"tx, us","comanche, tx, us",102085033,us,1,tx,1,comanche
+us/tx/coryell,"tx, us","coryell, tx, us",102080703,us,1,tx,1,coryell
+us/tx/dallam,"tx, us","dallam, tx, us",102080697,us,1,tx,1,dallam
+us/tx/dallas,"tx, us","dallas, tx, us",102080647,us,1,tx,1,dallas
+us/tx/delta,"tx, us","delta, tx, us",102086753,us,1,tx,1,delta
+us/tx/denton,"tx, us","denton, tx, us",102087371,us,1,tx,1,denton
+us/tx/desoto,"tx, us","desoto, tx, us",101725679,us,1,tx,1,desoto
+us/tx/dimmit,"tx, us","dimmit, tx, us",102082487,us,1,tx,1,dimmit
+us/tx/duval,"tx, us","duval, tx, us",102080681,us,1,tx,1,duval
+us/tx/ector,"tx, us","ector, tx, us",102086759,us,1,tx,1,ector
+us/tx/el_paso,"tx, us","el paso, tx, us",102085989,us,1,tx,1,el paso
+us/tx/ellis,"tx, us","ellis, tx, us",102081957,us,1,tx,1,ellis
+us/tx/fannin,"tx, us","fannin, tx, us",102087329,us,1,tx,1,fannin
+us/tx/fayette,"tx, us","fayette, tx, us",102081941,us,1,tx,1,fayette
+us/tx/fisher,"tx, us","fisher, tx, us",102082483,us,1,tx,1,fisher
+us/tx/freestone,"tx, us","freestone, tx, us",102081463,us,1,tx,1,freestone
+us/tx/gaines,"tx, us","gaines, tx, us",102080705,us,1,tx,1,gaines
+us/tx/galveston,"tx, us","galveston, tx, us",102085003,us,1,tx,1,galveston
+us/tx/gillespie,"tx, us","gillespie, tx, us",102081937,us,1,tx,1,gillespie
+us/tx/gray,"tx, us","gray, tx, us",102081471,us,1,tx,1,gray
+us/tx/greater_houston,"tx, us","greater houston, tx, us",101725629,us,1,tx,1,greater houston
+us/tx/grimes,"tx, us","grimes, tx, us",102081945,us,1,tx,1,grimes
+us/tx/guadalupe,"tx, us","guadalupe, tx, us",102086771,us,1,tx,1,guadalupe
+us/tx/hansford,"tx, us","hansford, tx, us",102086743,us,1,tx,1,hansford
+us/tx/hartley,"tx, us","hartley, tx, us",102084987,us,1,tx,1,hartley
+us/tx/hays,"tx, us","hays, tx, us",102080715,us,1,tx,1,hays
+us/tx/hidalgo_county,"tx, us","hidalgo county, tx, us",102083831,us,1,tx,1,hidalgo county
+us/tx/hood,"tx, us","hood, tx, us",102087383,us,1,tx,1,hood
+us/tx/houston,"tx, us","houston, tx, us",101725629,us,1,tx,1,houston
+us/tx/howard,"tx, us","howard, tx, us",102080649,us,1,tx,1,howard
+us/tx/hunt,"tx, us","hunt, tx, us",102080661,us,1,tx,1,hunt
+us/tx/johnson,"tx, us","johnson, tx, us",102081065,us,1,tx,1,johnson
+us/tx/kaufman,"tx, us","kaufman, tx, us",102083833,us,1,tx,1,kaufman
+us/tx/keller,"tx, us","keller, tx, us",101723621,us,1,tx,1,keller
+us/tx/kendall,"tx, us","kendall, tx, us",102080707,us,1,tx,1,kendall
+us/tx/kerr,"tx, us","kerr, tx, us",102087347,us,1,tx,1,kerr
+us/tx/lamar,"tx, us","lamar, tx, us",102080701,us,1,tx,1,lamar
+us/tx/lasalle,"tx, us","lasalle, tx, us",1125817603,us,1,tx,1,lasalle
+us/tx/lee,"tx, us","lee, tx, us",102082467,us,1,tx,1,lee
+us/tx/libery,"tx, us","libery, tx, us",85688753,us,1,tx,1,libery
+us/tx/liveoak,"tx, us","liveoak, tx, us",85688753,us,1,tx,1,liveoak
+us/tx/llano,"tx, us","llano, tx, us",102083187,us,1,tx,1,llano
+us/tx/lubbock,"tx, us","lubbock, tx, us",102085041,us,1,tx,1,lubbock
+us/tx/madison,"tx, us","madison, tx, us",102085009,us,1,tx,1,madison
+us/tx/marion,"tx, us","marion, tx, us",102081967,us,1,tx,1,marion
+us/tx/maverick,"tx, us","maverick, tx, us",102086763,us,1,tx,1,maverick
+us/tx/mcculloch,"tx, us","mcculloch, tx, us",102085013,us,1,tx,1,mcculloch
+us/tx/mcmullen,"tx, us","mcmullen, tx, us",102084999,us,1,tx,1,mcmullen
+us/tx/medina,"tx, us","medina, tx, us",102080693,us,1,tx,1,medina
+us/tx/midland,"tx, us","midland, tx, us",102085023,us,1,tx,1,midland
+us/tx/milam,"tx, us","milam, tx, us",102080713,us,1,tx,1,milam
+us/tx/mills,"tx, us","mills, tx, us",102087349,us,1,tx,1,mills
+us/tx/montgomery,"tx, us","montgomery, tx, us",102081435,us,1,tx,1,montgomery
+us/tx/moore,"tx, us","moore, tx, us",102083835,us,1,tx,1,moore
+us/tx/nacogdoches,"tx, us","nacogdoches, tx, us",102080711,us,1,tx,1,nacogdoches
+us/tx/new_braunfels,"tx, us","new braunfels, tx, us",101724649,us,1,tx,1,new braunfels
+us/tx/nolan,"tx, us","nolan, tx, us",102087393,us,1,tx,1,nolan
+us/tx/north_richland_hills,"tx, us","north richland hills, tx, us",101723647,us,1,tx,1,north richland hills
+us/tx/ochiltree,"tx, us","ochiltree, tx, us",102087409,us,1,tx,1,ochiltree
+us/tx/orange,"tx, us","orange, tx, us",102081453,us,1,tx,1,orange
+us/tx/parmer,"tx, us","parmer, tx, us",102081461,us,1,tx,1,parmer
+us/tx/plano,"tx, us","plano, tx, us",101724389,us,1,tx,1,plano
+us/tx/rains,"tx, us","rains, tx, us",102081439,us,1,tx,1,rains
+us/tx/reeves,"tx, us","reeves, tx, us",102081965,us,1,tx,1,reeves
+us/tx/rockwall,"tx, us","rockwall, tx, us",102087399,us,1,tx,1,rockwall
+us/tx/round_rock,"tx, us","round rock, tx, us",101725087,us,1,tx,1,round rock
+us/tx/runnels,"tx, us","runnels, tx, us",102081997,us,1,tx,1,runnels
+us/tx/san_antonio,"tx, us","san antonio, tx, us",101724653,us,1,tx,1,san antonio
+us/tx/schleicher,"tx, us","schleicher, tx, us",102081473,us,1,tx,1,schleicher
+us/tx/shackelford,"tx, us","shackelford, tx, us",102081073,us,1,tx,1,shackelford
+us/tx/statewide-partial,"tx, us"," partial, tx, us",85688753,us,1,tx,1, partial
+us/tx/tarrant-county,"tx, us","tarrant county, tx, us",102083201,us,1,tx,1,tarrant county
+us/tx/texoma-counties,"tx, us","texoma counties, tx, us",85688753,us,1,tx,1,texoma counties
+us/tx/titus,"tx, us","titus, tx, us",102083857,us,1,tx,1,titus
+us/tx/trinity,"tx, us","trinity, tx, us",102081963,us,1,tx,1,trinity
+us/tx/uvalde,"tx, us","uvalde, tx, us",102081943,us,1,tx,1,uvalde
+us/tx/vanzandt,"tx, us","vanzandt, tx, us",85688753,us,1,tx,1,vanzandt
+us/tx/waco,"tx, us","waco, tx, us",101723433,us,1,tx,1,waco
+us/tx/walker,"tx, us","walker, tx, us",102081093,us,1,tx,1,walker
+us/tx/washington,"tx, us","washington, tx, us",102085985,us,1,tx,1,washington
+us/tx/wharton,"tx, us","wharton, tx, us",102083197,us,1,tx,1,wharton
+us/tx/williamson,"tx, us","williamson, tx, us",85857877,us,1,tx,1,williamson
+us/tx/wilson,"tx, us","wilson, tx, us",102087391,us,1,tx,1,wilson
+us/tx/wood,"tx, us","wood, tx, us",102081127,us,1,tx,1,wood
+us/tx/young,"tx, us","young, tx, us",102084989,us,1,tx,1,young
+us/tx/zavala,"tx, us","zavala, tx, us",102085027,us,1,tx,1,zavala
+us/ut/box_elder,"ut, us","box elder, ut, us",102080861,us,1,ut,1,box elder
+us/ut/city_of_morgan,"ut, us","morgan, ut, us",102086935,us,1,ut,1,morgan
+us/ut/city_of_provo,"ut, us","provo, ut, us",101727863,us,1,ut,1,provo
+us/ut/duchesne,"ut, us","duchesne, ut, us",102083557,us,1,ut,1,duchesne
+us/ut/statewide,"ut, us","ut, us",85688567,us,1,ut,0,
+us/ut/washington,"ut, us","washington, ut, us",102082879,us,1,ut,1,washington
+us/va/accomack,"va, us","accomack, va, us",102081415,us,1,va,1,accomack
+us/va/albemarle,"va, us","albemarle, va, us",102084933,us,1,va,1,albemarle
+us/va/alleghany,"va, us","alleghany, va, us",102083817,us,1,va,1,alleghany
+us/va/amelia,"va, us","amelia, va, us",102087257,us,1,va,1,amelia
+us/va/amherst,"va, us","amherst, va, us",102087249,us,1,va,1,amherst
+us/va/appomattox,"va, us","appomattox, va, us",102083819,us,1,va,1,appomattox
+us/va/arlington,"va, us","arlington, va, us",101729469,us,1,va,1,arlington
+us/va/augusta,"va, us","augusta, va, us",102086699,us,1,va,1,augusta
+us/va/bedford,"va, us","bedford, va, us",102085979,us,1,va,1,bedford
+us/va/campbell,"va, us","campbell, va, us",102084935,us,1,va,1,campbell
+us/va/city_of_alexandria,"va, us","alexandria, va, us",1125864515,us,1,va,1,alexandria
+us/va/city_of_charlottesville,"va, us","charlottesville, va, us",1125786039,us,1,va,1,charlottesville
+us/va/city_of_chesapeake,"va, us","chesapeake, va, us",101728797,us,1,va,1,chesapeake
+us/va/city_of_emporia,"va, us","emporia, va, us",101728563,us,1,va,1,emporia
+us/va/city_of_falls_church,"va, us","falls church, va, us",1125885143,us,1,va,1,falls church
+us/va/city_of_lexington,"va, us","lexington, va, us",1125848441,us,1,va,1,lexington
+us/va/city_of_lynchburg,"va, us","lynchburg, va, us",1126056743,us,1,va,1,lynchburg
+us/va/city_of_newport_news,"va, us","newport news, va, us",101729041,us,1,va,1,newport news
+us/va/city_of_norfolk,"va, us","norfolk, va, us",1126057253,us,1,va,1,norfolk
+us/va/city_of_norton,"va, us","norton, va, us",101728955,us,1,va,1,norton
+us/va/city_of_petersburg,"va, us","petersburg, va, us",101728959,us,1,va,1,petersburg
+us/va/city_of_radford,"va, us","radford, va, us",101728831,us,1,va,1,radford
+us/va/city_of_richmond,"va, us","richmond, va, us",101728675,us,1,va,1,richmond
+us/va/city_of_rural_retreat,"va, us","rural retreat, va, us",1125876835,us,1,va,1,rural retreat
+us/va/city_of_salem,"va, us","salem, va, us",85846757,us,1,va,1,salem
+us/va/city_of_staunton,"va, us","staunton, va, us",1125969595,us,1,va,1,staunton
+us/va/city_of_williamsburg,"va, us","williamsburg, va, us",1125768245,us,1,va,1,williamsburg
+us/va/city_of_winchester,"va, us","winchester, va, us",1125875341,us,1,va,1,winchester
+us/va/clarke,"va, us","clarke, va, us",102084971,us,1,va,1,clarke
+us/va/essex,"va, us","essex, va, us",102084963,us,1,va,1,essex
+us/va/fairfax,"va, us","fairfax, va, us",102084863,us,1,va,1,fairfax
+us/va/fauquier,"va, us","fauquier, va, us",102086717,us,1,va,1,fauquier
+us/va/fluvanna,"va, us","fluvanna, va, us",102084947,us,1,va,1,fluvanna
+us/va/franklin,"va, us","franklin, va, us",102084979,us,1,va,1,franklin
+us/va/giles,"va, us","giles, va, us",102084909,us,1,va,1,giles
+us/va/grayson,"va, us","grayson, va, us",102087253,us,1,va,1,grayson
+us/va/greene,"va, us","greene, va, us",102083827,us,1,va,1,greene
+us/va/halifax,"va, us","halifax, va, us",102084931,us,1,va,1,halifax
+us/va/henrico,"va, us","henrico, va, us",102087255,us,1,va,1,henrico
+us/va/highland,"va, us","highland, va, us",102087237,us,1,va,1,highland
+us/va/isle_of_wight,"va, us","isle of wight, va, us",102086709,us,1,va,1,isle of wight
+us/va/james_city,"va, us","james city, va, us",102085967,us,1,va,1,james city
+us/va/king_and_queen,"va, us","king and queen, va, us",102086715,us,1,va,1,king and queen
+us/va/king_george,"va, us","king george, va, us",102084959,us,1,va,1,king george
+us/va/loudoun,"va, us","loudoun, va, us",102084951,us,1,va,1,loudoun
+us/va/louisa,"va, us","louisa, va, us",102084949,us,1,va,1,louisa
+us/va/lunenburg,"va, us","lunenburg, va, us",102084945,us,1,va,1,lunenburg
+us/va/madison,"va, us","madison, va, us",102087241,us,1,va,1,madison
+us/va/middlesex,"va, us","middlesex, va, us",102085945,us,1,va,1,middlesex
+us/va/nelson,"va, us","nelson, va, us",102084977,us,1,va,1,nelson
+us/va/new_kent,"va, us","new kent, va, us",102084943,us,1,va,1,new kent
+us/va/nottoway,"va, us","nottoway, va, us",102087251,us,1,va,1,nottoway
+us/va/orange,"va, us","orange, va, us",102087303,us,1,va,1,orange
+us/va/prince_william,"va, us","prince william, va, us",102084937,us,1,va,1,prince william
+us/va/roanoke,"va, us","roanoke, va, us",1125786091,us,1,va,1,roanoke
+us/va/rockbridge,"va, us","rockbridge, va, us",102087287,us,1,va,1,rockbridge
+us/va/shenandoah,"va, us","shenandoah, va, us",102081061,us,1,va,1,shenandoah
+us/va/smyth,"va, us","smyth, va, us",102085957,us,1,va,1,smyth
+us/va/spotsylvania,"va, us","spotsylvania, va, us",102086727,us,1,va,1,spotsylvania
+us/va/stafford,"va, us","stafford, va, us",102081931,us,1,va,1,stafford
+us/va/statewide,"va, us","va, us",85688747,us,1,va,0,
+us/va/town_of_blacksburg,"va, us","blacksburg, va, us",1126052135,us,1,va,1,blacksburg
+us/va/virginia_beach,"va, us","virginia beach, va, us",1125983951,us,1,va,1,virginia beach
+us/va/warren,"va, us","warren, va, us",102085975,us,1,va,1,warren
+us/va/warrenton,"va, us","warrenton, va, us",1126038957,us,1,va,1,warrenton
+us/va/wise,"va, us","wise, va, us",102084983,us,1,va,1,wise
+us/vt/city_of_burlington,"vt, us","burlington, vt, us",101728319,us,1,vt,1,burlington
+us/vt/statewide,"vt, us","vt, us",85688763,us,1,vt,0,
+us/wa/asotin,"wa, us","asotin, wa, us",102084243,us,1,wa,1,asotin
+us/wa/bellingham,"wa, us","bellingham, wa, us",101730153,us,1,wa,1,bellingham
+us/wa/benton,"wa, us","benton, wa, us",102085367,us,1,wa,1,benton
+us/wa/chelan,"wa, us","chelan, wa, us",102081241,us,1,wa,1,chelan
+us/wa/city_of_bellevue,"wa, us","bellevue, wa, us",101730457,us,1,wa,1,bellevue
+us/wa/city_of_bothell,"wa, us","bothell, wa, us",101729879,us,1,wa,1,bothell
+us/wa/city_of_pasco,"wa, us","pasco, wa, us",101729861,us,1,wa,1,pasco
+us/wa/city_of_richland,"wa, us","richland, wa, us",101729991,us,1,wa,1,richland
+us/wa/city_of_snohomish,"wa, us","snohomish, wa, us",102087537,us,1,wa,1,snohomish
+us/wa/city_of_spokane,"wa, us","spokane, wa, us",102087555,us,1,wa,1,spokane
+us/wa/city_of_tacoma,"wa, us","tacoma, wa, us",101730275,us,1,wa,1,tacoma
+us/wa/city_of_yakima,"wa, us","yakima, wa, us",102081233,us,1,wa,1,yakima
+us/wa/clallam,"wa, us","clallam, wa, us",102084229,us,1,wa,1,clallam
+us/wa/clark,"wa, us","clark, wa, us",102084251,us,1,wa,1,clark
+us/wa/cowlitz,"wa, us","cowlitz, wa, us",102085351,us,1,wa,1,cowlitz
+us/wa/douglas,"wa, us","douglas, wa, us",102085361,us,1,wa,1,douglas
+us/wa/ferry,"wa, us","ferry, wa, us",102084233,us,1,wa,1,ferry
+us/wa/franklin,"wa, us","franklin, wa, us",102084247,us,1,wa,1,franklin
+us/wa/garfield,"wa, us","garfield, wa, us",85881067,us,1,wa,1,garfield
+us/wa/grant,"wa, us","grant, wa, us",102087541,us,1,wa,1,grant
+us/wa/island,"wa, us","island, wa, us",102087543,us,1,wa,1,island
+us/wa/jefferson,"wa, us","jefferson, wa, us",102085365,us,1,wa,1,jefferson
+us/wa/king,"wa, us","king, wa, us",102086191,us,1,wa,1,king
+us/wa/kitsap,"wa, us","kitsap, wa, us",102081243,us,1,wa,1,kitsap
+us/wa/kittitas,"wa, us","kittitas, wa, us",102084259,us,1,wa,1,kittitas
+us/wa/lewis,"wa, us","lewis, wa, us",102085359,us,1,wa,1,lewis
+us/wa/mason,"wa, us","mason, wa, us",102084215,us,1,wa,1,mason
+us/wa/okanogan,"wa, us","okanogan, wa, us",102087557,us,1,wa,1,okanogan
+us/wa/pacific,"wa, us","pacific, wa, us",102085355,us,1,wa,1,pacific
+us/wa/pend_oreille,"wa, us","pend oreille, wa, us",102084221,us,1,wa,1,pend oreille
+us/wa/pierce,"wa, us","pierce, wa, us",102087547,us,1,wa,1,pierce
+us/wa/san_juan,"wa, us","san juan, wa, us",102087535,us,1,wa,1,san juan
+us/wa/skagit,"wa, us","skagit, wa, us",102084225,us,1,wa,1,skagit
+us/wa/snohomish,"wa, us","snohomish, wa, us",102087537,us,1,wa,1,snohomish
+us/wa/snohomish_county,"wa, us","snohomish county, wa, us",102087537,us,1,wa,1,snohomish county
+us/wa/spokane,"wa, us","spokane, wa, us",102087555,us,1,wa,1,spokane
+us/wa/thurston,"wa, us","thurston, wa, us",102085357,us,1,wa,1,thurston
+us/wa/walla_walla,"wa, us","walla walla, wa, us",102086915,us,1,wa,1,walla walla
+us/wi/adams,"wi, us","adams, wi, us",102081729,us,1,wi,1,adams
+us/wi/bayfield,"wi, us","bayfield, wi, us",102081781,us,1,wi,1,bayfield
+us/wi/brown,"wi, us","brown, wi, us",102081867,us,1,wi,1,brown
+us/wi/burnett,"wi, us","burnett, wi, us",102081835,us,1,wi,1,burnett
+us/wi/calumet,"wi, us","calumet, wi, us",102081289,us,1,wi,1,calumet
+us/wi/city_of_arena,"wi, us","arena, wi, us",404495369,us,1,wi,1,arena
+us/wi/city_of_milwaukee,"wi, us","milwaukee, wi, us",102081837,us,1,wi,1,milwaukee
+us/wi/city_of_shorewood,"wi, us","shorewood, wi, us",101733085,us,1,wi,1,shorewood
+us/wi/city_of_west_bend,"wi, us","west bend, wi, us",101732991,us,1,wi,1,west bend
+us/wi/columbia,"wi, us","columbia, wi, us",102081841,us,1,wi,1,columbia
+us/wi/crawford,"wi, us","crawford, wi, us",102081315,us,1,wi,1,crawford
+us/wi/dane,"wi, us","dane, wi, us",102081795,us,1,wi,1,dane
+us/wi/dodge,"wi, us","dodge, wi, us",102081887,us,1,wi,1,dodge
+us/wi/door,"wi, us","door, wi, us",102081831,us,1,wi,1,door
+us/wi/douglas,"wi, us","douglas, wi, us",102081291,us,1,wi,1,douglas
+us/wi/dunn,"wi, us","dunn, wi, us",102081747,us,1,wi,1,dunn
+us/wi/eau_claire,"wi, us","eau claire, wi, us",102081761,us,1,wi,1,eau claire
+us/wi/fond_du_lac,"wi, us","fond du lac, wi, us",102081759,us,1,wi,1,fond du lac
+us/wi/green,"wi, us","green, wi, us",102081827,us,1,wi,1,green
+us/wi/green_lake,"wi, us","green lake, wi, us",102081283,us,1,wi,1,green lake
+us/wi/iron,"wi, us","iron, wi, us",102081263,us,1,wi,1,iron
+us/wi/jefferson,"wi, us","jefferson, wi, us",102081287,us,1,wi,1,jefferson
+us/wi/juneau,"wi, us","juneau, wi, us",102081297,us,1,wi,1,juneau
+us/wi/kenosha,"wi, us","kenosha, wi, us",102081309,us,1,wi,1,kenosha
+us/wi/kewaunee,"wi, us","kewaunee, wi, us",102081295,us,1,wi,1,kewaunee
+us/wi/la_crosse,"wi, us","la crosse, wi, us",102081301,us,1,wi,1,la crosse
+us/wi/lincoln,"wi, us","lincoln, wi, us",102081889,us,1,wi,1,lincoln
+us/wi/manitowoc,"wi, us","manitowoc, wi, us",102081871,us,1,wi,1,manitowoc
+us/wi/marathon,"wi, us","marathon, wi, us",102081881,us,1,wi,1,marathon
+us/wi/milwaukee,"wi, us","milwaukee, wi, us",102081837,us,1,wi,1,milwaukee
+us/wi/oneida,"wi, us","oneida, wi, us",102081305,us,1,wi,1,oneida
+us/wi/outagamie,"wi, us","outagamie, wi, us",102081851,us,1,wi,1,outagamie
+us/wi/ozaukee,"wi, us","ozaukee, wi, us",102081873,us,1,wi,1,ozaukee
+us/wi/pierce,"wi, us","pierce, wi, us",102081311,us,1,wi,1,pierce
+us/wi/portage,"wi, us","portage, wi, us",102081875,us,1,wi,1,portage
+us/wi/richland,"wi, us","richland, wi, us",102081809,us,1,wi,1,richland
+us/wi/rock,"wi, us","rock, wi, us",102081829,us,1,wi,1,rock
+us/wi/sauk,"wi, us","sauk, wi, us",102081845,us,1,wi,1,sauk
+us/wi/sheboygan,"wi, us","sheboygan, wi, us",102081869,us,1,wi,1,sheboygan
+us/wi/st_croix,"wi, us","st croix, wi, us",102081855,us,1,wi,1,st croix
+us/wi/statewide,"wi, us","wi, us",85688517,us,1,wi,0,
+us/wi/trempealeau,"wi, us","trempealeau, wi, us",102081731,us,1,wi,1,trempealeau
+us/wi/vernon,"wi, us","vernon, wi, us",102081733,us,1,wi,1,vernon
+us/wi/vilas,"wi, us","vilas, wi, us",102081749,us,1,wi,1,vilas
+us/wi/walworth,"wi, us","walworth, wi, us",102081883,us,1,wi,1,walworth
+us/wi/washington,"wi, us","washington, wi, us",102081745,us,1,wi,1,washington
+us/wi/waukesha,"wi, us","waukesha, wi, us",102081741,us,1,wi,1,waukesha
+us/wi/waupaca,"wi, us","waupaca, wi, us",102081823,us,1,wi,1,waupaca
+us/wi/waushara,"wi, us","waushara, wi, us",102081799,us,1,wi,1,waushara
+us/wi/winnebago,"wi, us","winnebago, wi, us",102081801,us,1,wi,1,winnebago
+us/wi/wood,"wi, us","wood, wi, us",102081737,us,1,wi,1,wood
+us/wv/hancock,"wv, us","hancock, wv, us",102082633,us,1,wv,1,hancock
+us/wv/harrison,"wv, us","harrison, wv, us",102082619,us,1,wv,1,harrison
+us/wv/jefferson,"wv, us","jefferson, wv, us",102082647,us,1,wv,1,jefferson
+us/wv/preston,"wv, us","preston, wv, us",102083385,us,1,wv,1,preston
+us/wv/raleigh,"wv, us","raleigh, wv, us",102083349,us,1,wv,1,raleigh
+us/wv/statewide,"wv, us","wv, us",85688589,us,1,wv,0,
+us/wy/albany,"wy, us","albany, wy, us",102080731,us,1,wy,1,albany
+us/wy/campbell,"wy, us","campbell, wy, us",102080751,us,1,wy,1,campbell
+us/wy/carbon,"wy, us","carbon, wy, us",102081173,us,1,wy,1,carbon
+us/wy/city_of_gillette,"wy, us","gillette, wy, us",101734077,us,1,wy,1,gillette
+us/wy/city_of_sundance,"wy, us","sundance, wy, us",101733959,us,1,wy,1,sundance
+us/wy/city_of_wright,"wy, us","wright, wy, us",101734079,us,1,wy,1,wright
+us/wy/converse,"wy, us","converse, wy, us",102080759,us,1,wy,1,converse
+us/wy/crook,"wy, us","crook, wy, us",102080761,us,1,wy,1,crook
+us/wy/fremont,"wy, us","fremont, wy, us",102081203,us,1,wy,1,fremont
+us/wy/goshen,"wy, us","goshen, wy, us",102080733,us,1,wy,1,goshen
+us/wy/hot_springs,"wy, us","hot springs, wy, us",102080737,us,1,wy,1,hot springs
+us/wy/laramie,"wy, us","laramie, wy, us",102080769,us,1,wy,1,laramie
+us/wy/lincoln,"wy, us","lincoln, wy, us",102081151,us,1,wy,1,lincoln
+us/wy/natrona,"wy, us","natrona, wy, us",102080753,us,1,wy,1,natrona
+us/wy/park,"wy, us","park, wy, us",102080775,us,1,wy,1,park
+us/wy/statewide,"wy, us","wy, us",85688475,us,1,wy,0,
+us/wy/sublette,"wy, us","sublette, wy, us",102081165,us,1,wy,1,sublette
+us/wy/teton,"wy, us","teton, wy, us",102080739,us,1,wy,1,teton
+uy/countrywide,,,,uy,0,,0,
+uy/mo/montevideo,"mo, uy","montevideo, mo, uy",85680339,uy,1,mo,1,montevideo
+xk/countrywide,,,,xk,0,,0,
+za/countrywide,,,,za,0,,0,
+za/ec/nelson_mandela_bay,"ec, za","nelson mandela bay, ec, za",1125410851,za,1,ec,1,nelson mandela bay
+za/gt/ekurhuleni,"gt, za","ekurhuleni, gt, za",1125360031,za,1,gt,1,ekurhuleni
+za/gt/tshwane,"gt, za","tshwane, gt, za",1108730545,za,1,gt,1,tshwane
+za/nl/ethekwini,"nl, za","ethekwini, nl, za",1125360055,za,1,nl,1,ethekwini
+za/wc/cape_town,"wc, za","cape town, wc, za",1108730611,za,1,wc,1,cape town
